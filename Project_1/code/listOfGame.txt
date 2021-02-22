@@ -1,0 +1,1001 @@
+1000
+00008481|Funtime|2016/01/16|OneGuyGames|PC|24|348
+10008481|#killallzombies|2016/01/16|Beatshapers|PC|24|348
+20008481|10 Second Ninja X|2016/01/16|Four Circle Interactive|PC|24|348
+30008481|100ft Robot Golf|2016/01/16|No Goblin|PC|24|348
+40008481|101 Ways to Die|2016/01/16|Four Door Lemon|PC|24|348
+50008481|11-11: Memories Retold|2016/01/16|Aardman|PC|24|348
+60008481|13 Sentinels: Aegis Rim|2016/01/16|DigixArt|PC|24|348
+70008481|140|2016/01/16|Vanillaware|PC|24|348
+80008481|198X|2016/01/16|Double Fine Productions|PC|24|348
+90008481|1001 Spikes|2016/01/16|Hi-Bit Studios|PC|24|348
+01008481|1979 Revolution: Black Friday|2016/01/16|8bits Fanatics|PC|24|348
+11008481|2064: Read Only Memories|2016/01/16|iNK Stories|PC|24|348
+21008481|20XX|2016/01/16|MidBoss|PC|24|348
+31008481|The 25th Ward: The Silver Case|2016/01/16|Batterystaple Games|PC|24|348
+41008481|2Dark|2016/01/16|Grasshopper Manufacture|PC|24|348
+51008481|39 Days to Mars|2016/01/16|Gloomywood|PC|24|348
+61008481|3D Billiards|2016/01/16|It's Anecdotal|PC|24|348
+71008481|3D MiniGolf|2016/01/16|Z-Software|PC|24|348
+81008481|428: Shibuya Scramble|2016/01/16|Z-Software|PC|24|348
+91008481|5 Star Wrestling: ReGenesis|2016/01/16|Abstraction Games|PC|24|348
+02008481|60 Seconds!|2016/01/16|Serious Parody|PC|24|348
+12008481|7 Days to Die|2016/01/16|Robot Gentleman|PC|24|348
+22008481|7th Sector|2016/01/16|The Fun Pimps|PC|24|348
+32008481|8-bit Adventure Anthology: Volume I|2016/01/16|Noskov Sergey|PC|24|348
+42008481|8-Bit Armies|2016/01/16|Abstraction Games|PC|24|348
+52008481|8-Bit Hordes|2016/01/16|Petroglyph Games|PC|24|348
+62008481|8-Bit Invaders|2016/01/16|Petroglyph Games|PC|24|348
+72008481|88 Heroes|2016/01/16|Petroglyph Games|PC|24|348
+82008481|8 to Glory|2016/01/16|Bitmap Bureau|PC|24|348
+92008481|9 Monkeys of Shaolin|2016/01/16|Three Gates|PC|24|348
+03008481|911 Operator|2016/01/16|Sobaka Studio|PC|24|348
+13008481|99Vidas|2016/01/16|Jutsu Games|PC|24|348
+23008481|Aaero|2016/01/16|QuByte Interactive|PC|24|348
+33008481|Aaru's Awakening|2016/01/16|Mad Fellows Games|PC|24|348
+43008481|A Boy and His Blob|2016/01/16|Lumenox Games|PC|24|348
+53008481|Absolute Drift: Zen Edition|2016/01/16|Abstraction Games|PC|24|348
+63008481|Absolver|2016/01/16|Funselektor Labs|PC|24|348
+73008481|Abyss Odyssey|2016/01/16|Sloclap|PC|24|348
+83008481|Abyss: The Wraiths of Eden|2016/01/16|ACE Team|PC|24|348
+93008481|Abz?|2016/01/16|Artifex Mundi|PC|24|348
+04008481|Accel World vs. Sword Art Online: Millennium Twilight|2016/01/16|Giant Squid|PC|24|348
+14008481|Ace Combat 7: Skies Unknown|2016/01/16|Artdink|PC|24|348
+24008481|Ace of Seafood|2016/01/16|Project Aces|PC|24|348
+34008481|A Certain Magical Virtual-On|2016/01/16|Nussoft|PC|24|348
+44008481|Aces of the Luftwaffe|2016/01/16|Sega|PC|24|348
+54008481|Achtung! Cthulhu Tactics|2016/01/16|HandyGames|PC|24|348
+64008481|Act It Out! A Game of Charades|2016/01/16|Auroch Digital|PC|24|348
+74008481|Action Henk|2016/01/16|Snap Finger Click|PC|24|348
+84008481|Active Neurons|2016/01/16|RageSquid|PC|24|348
+94008481|Adrift|2016/01/16|Nikolai Usachev|PC|24|348
+05008481|The Adventure Pals|2016/01/16|Three One Zero|PC|24|348
+15008481|Adventures of Pip|2016/01/16|Massive Monster|PC|24|348
+25008481|Adventures of Scarlet Curiosity|2016/01/16|Tic Toc Games|PC|24|348
+35008481|Adventure Time: Finn & Jake Investigations|2016/01/16|Ankake Supa|PC|24|348
+45008481|Aegis Defenders|2016/01/16|Vicious Cycle Software|PC|24|348
+55008481|Aegis of Earth: Protonovus Assault|2016/01/16|Guts Department|PC|24|348
+65008481|AER: Memories of Old|2016/01/16|Acquire|PC|24|348
+75008481|AeternoBlade|2016/01/16|Forgotten Key|PC|24|348
+85008481|AeternoBlade II|2016/01/16|Corecell Technology|PC|24|348
+95008481|AFL Evolution|2016/01/16|Corecell Technology|PC|24|348
+06008481|AFL Evolution 2|2016/01/16|Wicked Witch Software|PC|24|348
+16008481|A Fold Apart|2016/01/16|Wicked Witch Software|PC|24|348
+26008481|Afterparty|2016/01/16|Lightning Rod Games|PC|24|348
+36008481|Agatha Christie: The ABC Murders|2016/01/16|Night School Studio|PC|24|348
+46008481|Agent A: A Puzzle in Disguise|2016/01/16|Artefacts Studio|PC|24|348
+56008481|Agents of Mayhem|2016/01/16|Yak|PC|24|348
+66008481|Age of Wonders: Planetfall|2016/01/16|Volition|PC|24|348
+76008481|Aggelos|2016/01/16|Triumph Studios|PC|24|348
+86008481|Agony|2016/01/16|Storybird Games|PC|24|348
+96008481|A Hat in Time|2016/01/16|Madmind Studio|PC|24|348
+07008481|A Healer Only Lives Twice|2016/01/16|Gears for Breakfast|PC|24|348
+17008481|AI-Limit|2016/01/16|Pon Pon Games|PC|24|348
+27008481|AI: The Somnium Files|2016/01/16|Sense Games|PC|24|348
+37008481|Aikano: Yukizora no Triangle|2016/01/16|Spike Chunsoft|PC|24|348
+47008481|AIPD|2016/01/16|Prekano|PC|24|348
+57008481|Air Conflicts: Pacific Carriers|2016/01/16|Blazing Badger|PC|24|348
+67008481|Air Conflicts: Vietnam|2016/01/16|Games Farm|PC|24|348
+77008481|Aircraft Evolution|2016/01/16|Games Farm|PC|24|348
+87008481|Airport Simulator 2019|2016/01/16|Satur Entertainment|PC|24|348
+97008481|Airship Q|2016/01/16|Toplitz Productions|PC|24|348
+08008481|A Juggler's Tale|2016/01/16|Miracle Positive|PC|24|348
+18008481|Akiba's Beat|2016/01/16|Kaleidoscube|PC|24|348
+28008481|Akiba's Trip: Undead & Undressed|2016/01/16|Acquire|PC|24|348
+38008481|Alaloth: Champions of The Four Kingdoms|2016/01/16|Acquire|PC|24|348
+48008481|Alekhine's Gun|2016/01/16|Gamera|PC|24|348
+58008481|Alex Kidd in Miracle World DX|2016/01/16|Haggard Games|PC|24|348
+68008481|Alienation|2016/01/16|Merge Games|PC|24|348
+78008481|Alien: Isolation|2016/01/16|Jankenteam|PC|24|348
+88008481|The Alliance Alive HD Remastered|2016/01/16|Housemarque|PC|24|348
+98008481|All-Star Fruit Racing|2016/01/16|Creative Assembly|PC|24|348
+09008481|Alone with You|2016/01/16|Cattle Call|PC|24|348
+19008481|The Alto Collection|2016/01/16|Blowfish Studios|PC|24|348
+29008481|Alwa's Awakening|2016/01/16|Benjamin Rivers|PC|24|348
+39008481|Alwa's Legacy|2016/01/16|Team Alto|PC|24|348
+49008481|Always Sometimes Monsters|2016/01/16|Elden Pixels|PC|24|348
+59008481|Amazing Discoveries in Outer Space|2016/01/16|Elden Pixels|PC|24|348
+69008481|The Amazing Spider-Man 2|2016/01/16|Vagabond Dog|PC|24|348
+79008481|American Fugitive|2016/01/16|Cosmic Picnic|PC|24|348
+89008481|Amnesia Collection|2016/01/16|Beenox|PC|24|348
+99008481|Amnesia: Rebirth|2016/01/16|JP:?Teyon Japan|PC|24|348
+00108481|Amoeba Battle: Microscopic RTS Action|2016/01/16|WW:?Curve Digital|PC|24|348
+10108481|Among the Sleep|2016/01/16|Frictional Games|PC|24|348
+20108481|Amplitude|2016/01/16|Frictional Games|PC|24|348
+30108481|Anarcute|2016/01/16|Grab Games|PC|24|348
+40108481|Ancestors Legacy|2016/01/16|Krillbite Studio|PC|24|348
+50108481|Ancestors: The Humankind Odyssey|2016/01/16|Harmonix|PC|24|348
+60108481|Anew: The Distant Light|2016/01/16|AnarTeam|PC|24|348
+70108481|AngerForce: Reloaded|2016/01/16|Destructive Creations|PC|24|348
+80108481|Angry Birds Star Wars|2016/01/16|Panache Digital Games|PC|24|348
+90108481|Anima: Gate of Memories|2016/01/16|Resonator|PC|24|348
+01108481|Anno: Mutationem|2016/01/16|Screambox Studio|PC|24|348
+11108481|Anodyne|2016/01/16|Exient Entertainment|PC|24|348
+21108481|Anoko wa Ore kara Hanarenai|2016/01/16|Anima Project|PC|24|348
+31108481|Anomaly 2|2016/01/16|ThinkingStars|PC|24|348
+41108481|Anonymous;Code|2016/01/16|Analgesic Productions|PC|24|348
+51108481|Another World: 20th Anniversary Edition|2016/01/16|Giga|PC|24|348
+61108481|Anthem|2016/01/16|11 Bit Studios|PC|24|348
+71108481|Antiquia Lost|2016/01/16|5pb.|PC|24|348
+81108481|Aokana: Four Rhythm Across the Blue|2016/01/16|Chiyomaru Studio|PC|24|348
+91108481|AO Tennis|2016/01/16|The Digital Lounge|PC|24|348
+02108481|AO Tennis 2|2016/01/16|BioWare|PC|24|348
+12108481|A Pixel Story|2016/01/16|Exe Create|PC|24|348
+22108481|A Plague Tale: Innocence|2016/01/16|Sprite|PC|24|348
+32108481|Apocalypse|2016/01/16|Big Ant Studios|PC|24|348
+42108481|Apotheon|2016/01/16|Big Ant Studios|PC|24|348
+52108481|Aqua Moto Racing Utopia|2016/01/16|Lamplight Studios|PC|24|348
+62108481|The Aquatic Adventure of the Last Human|2016/01/16|Asobo Studio|PC|24|348
+72108481|Ara Fell: Enhanced Edition|2016/01/16|Future Tech|PC|24|348
+82108481|Aragami|2016/01/16|Alientrap|PC|24|348
+92108481|Aragami 2|2016/01/16|Zordix|PC|24|348
+03108481|Arcade Classics Anniversary Collection|2016/01/16|Stage Clear Studios|PC|24|348
+13108481|Arcade Spirits|2016/01/16|Stegosoft|PC|24|348
+23108481|Arcania: The Complete Tale|2016/01/16|Lince Works|PC|24|348
+33108481|Archaica: The Path of Light|2016/01/16|Lince Works|PC|24|348
+43108481|Arc of Alchemist|2016/01/16|Konami|PC|24|348
+53108481|Arise: A Simple Story|2016/01/16|Fiction Factory Games|PC|24|348
+63108481|Ark: Survival Evolved|2016/01/16|Black Forest Games|PC|24|348
+73108481|Armello|2016/01/16|TwoMammoths|PC|24|348
+83108481|Arslan: The Warriors of Legend|2016/01/16|Compile Heart|PC|24|348
+93108481|Art of Balance|2016/01/16|Piccolo Studio|PC|24|348
+04108481|Ary and the Secret of Seasons|2016/01/16|Studio Wildcard|PC|24|348
+14108481|Asdivine Dios|2016/01/16|League of Geeks|PC|24|348
+24108481|Asdivine Hearts|2016/01/16|Koei Tecmo|PC|24|348
+34108481|Asdivine Hearts II|2016/01/16|Shin'en Multimedia|PC|24|348
+44108481|Asdivine Kamura|2016/01/16|Exiin|PC|24|348
+54108481|Asdivine Menace|2016/01/16|Exe Create|PC|24|348
+64108481|Asemblance|2016/01/16|Kotobuki Solution|PC|24|348
+74108481|Asemblance: Oversight|2016/01/16|Exe Create|PC|24|348
+84108481|Ashen|2016/01/16|Exe Create|PC|24|348
+94108481|Ashes Cricket|2016/01/16|Exe Create|PC|24|348
+05108481|A Space for the Unbound|2016/01/16|Nilo Studios|PC|24|348
+15108481|Assassin's Creed III Remastered|2016/01/16|Nilo Studios|PC|24|348
+25108481|Assassin's Creed IV: Black Flag|2016/01/16|A44|PC|24|348
+35108481|Assassin's Creed Chronicles: China|2016/01/16|Big Ant Studios|PC|24|348
+45108481|Assassin's Creed Chronicles: India|2016/01/16|Mojiken Studio|PC|24|348
+55108481|Assassin's Creed Chronicles: Russia|2016/01/16|Ubisoft Montreal|PC|24|348
+65108481|Assassin's Creed: The Ezio Collection|2016/01/16|Ubisoft Montreal|PC|24|348
+75108481|Assassin's Creed Odyssey|2016/01/16|Climax Studios|PC|24|348
+85108481|Assassin's Creed: Origins|2016/01/16|Climax Studios|PC|24|348
+95108481|Assassin's Creed Rogue Remastered|2016/01/16|Climax Studios|PC|24|348
+06108481|Assassin's Creed Syndicate|2016/01/16|Virtuos|PC|24|348
+16108481|Assassin's Creed Unity|2016/01/16|Ubisoft Quebec|PC|24|348
+26108481|Assassin's Creed Valhalla|2016/01/16|Ubisoft|PC|24|348
+36108481|Assault Android Cactus|2016/01/16|Ubisoft Sofia|PC|24|348
+46108481|Assault Suit Leynos|2016/01/16|Ubisoft Quebec|PC|24|348
+56108481|The Assembly|2016/01/16|Ubisoft Toronto|PC|24|348
+66108481|Assetto Corsa|2016/01/16|Ubisoft Montreal|PC|24|348
+76108481|Assetto Corsa Competizione|2016/01/16|Witch Beam|PC|24|348
+86108481|Asterix & Obelix XXL 2: Mission: Las Vegum|2016/01/16|Dracue Software|PC|24|348
+96108481|Asterix & Obelix XXL 3: The Crystal Menhir|2016/01/16|nDreams|PC|24|348
+07108481|Astroneer|2016/01/16|Kunos Simulazioni|PC|24|348
+17108481|Atari Flashback Classics: Volume 1|2016/01/16|Kunos Simulazioni|PC|24|348
+27108481|Atari Flashback Classics: Volume 2|2016/01/16|OSome Studios|PC|24|348
+37108481|Atari Flashback Classics: Volume 3|2016/01/16|OSome Studios|PC|24|348
+47108481|Atelier Ayesha: The Alchemist of Dusk DX|2016/01/16|System Era Softworks|PC|24|348
+57108481|Atelier Escha & Logy: Alchemists of the Dusk Sky DX|2016/01/16|Atari|PC|24|348
+67108481|Atelier Firis: The Alchemist and the Mysterious Journey|2016/01/16|Atari|PC|24|348
+77108481|Atelier Lulua: The Scion of Arland|2016/01/16|Code Mystics|PC|24|348
+87108481|Atelier Lydie & Suelle: Alchemists of the Mysterious Painting|2016/01/16|Gust|PC|24|348
+97108481|Atelier Meruru: The Apprentice of Arland|2016/01/16|Gust|PC|24|348
+08108481|Atelier Rorona: The Alchemist of Arland|2016/01/16|Gust|PC|24|348
+18108481|Atelier Ryza: Ever Darkness & the Secret Hideout|2016/01/16|Gust|PC|24|348
+28108481|Atelier Ryza 2: Lost Legends & the Secret Fairy|2016/01/16|Gust|PC|24|348
+38108481|Atelier Shallie: Alchemists of the Dusk Sea DX|2016/01/16|Gust|PC|24|348
+48108481|Atelier Sophie: The Alchemist of the Mysterious Book|2016/01/16|Gust|PC|24|348
+58108481|Atelier Totori: The Adventurer of Arland|2016/01/16|Gust|PC|24|348
+68108481|Atomic Heart|2016/01/16|Gust|PC|24|348
+78108481|Atomicrops|2016/01/16|Gust|PC|24|348
+88108481|A-Train Express|2016/01/16|Gust|PC|24|348
+98108481|Attack on Titan|2016/01/16|Gust|PC|24|348
+09108481|Attack on Titan 2|2016/01/16|Mundfish|PC|24|348
+19108481|Attractio|2016/01/16|Bird Bath Games|PC|24|348
+29108481|ATV Drift and Tricks|2016/01/16|Artdink|PC|24|348
+39108481|Auto Chess|2016/01/16|Omega Force|PC|24|348
+49108481|Aven Colony|2016/01/16|Omega Force|PC|24|348
+59108481|Away: Journey to the Unexpected|2016/01/16|GameCoder|PC|24|348
+69108481|Away: The Survival Series|2016/01/16|Renderfarm|PC|24|348
+79108481|A Way Out|2016/01/16|Artefacts Studio|PC|24|348
+89108481|Awesomenauts Assemble|2016/01/16|Drodo Studio|PC|24|348
+99108481|A Hole New World|2016/01/16|Dragonest|PC|24|348
+00208481|AVICII Invector|2016/01/16|Mothership Entertainment|PC|24|348
+10208481|Axiom Verge|2016/01/16|Playdius Entertainment|PC|24|348
+20208481|Azkend 2: The World Beneath|2016/01/16|Breaking Walls|PC|24|348
+30208481|Azur Lane: Crosswave|2016/01/16|Hazelight Studios|PC|24|348
+40208481|Azure Reflections|2016/01/16|Abstraction Games|PC|24|348
+50208481|Azure Striker Gunvolt: Striker Pack|2016/01/16|Mad Gear Games|PC|24|348
+60208481|Babylon's Fall|2016/01/16|Hello There Games|PC|24|348
+70208481|Backbone|2016/01/16|Thomas Happ Games|PC|24|348
+80208481|Backgammon Blitz|2016/01/16|10tons|PC|24|348
+90208481|Back to Bed|2016/01/16|Compile Heart|PC|24|348
+01208481|Back to the Future: The Game ? 30th Anniversary Edition|2016/01/16|Felistella|PC|24|348
+11208481|Badland: Game of the Year Edition|2016/01/16|Souvenir Circ.|PC|24|348
+21208481|Bad North|2016/01/16|Inti Creates|PC|24|348
+31208481|Baja: Edge of Control HD|2016/01/16|PlatinumGames|PC|24|348
+41208481|Bake 'n Switch|2016/01/16|EggNut|PC|24|348
+51208481|Balan Wonderworld|2016/01/16|VooFoo Studios|PC|24|348
+61208481|Baldur's Gate: Enhanced Edition|2016/01/16|Loot Interactive|PC|24|348
+71208481|Baldur's Gate II: Enhanced Edition|2016/01/16|Telltale Games|PC|24|348
+81208481|Baldur's Gate: Siege of Dragonspear|2016/01/16|Frogmind|PC|24|348
+91208481|Banner of the Maid|2016/01/16|Plausible Concept|PC|24|348
+02208481|The Banner Saga|2016/01/16|2XL Games|PC|24|348
+12208481|The Banner Saga 2|2016/01/16|Streamline Games|PC|24|348
+22208481|The Banner Saga 3|2016/01/16|Balan Company|PC|24|348
+32208481|The Bard's Tale: Remastered and Resnarkled|2016/01/16|Beamdog|PC|24|348
+42208481|The Bard's Tale IV: Director's Cut|2016/01/16|Beamdog|PC|24|348
+52208481|A Bastard's Tale|2016/01/16|Beamdog|PC|24|348
+62208481|Bastion|2016/01/16|Azure Flame Studio|PC|24|348
+72208481|Basement Crawl|2016/01/16|Stoic Studio|PC|24|348
+82208481|Batman: Arkham Knight|2016/01/16|Stoic Studio|PC|24|348
+92208481|Batman: Return to Arkham|2016/01/16|Stoic Studio|PC|24|348
+03208481|Batman: The Enemy Within|2016/01/16|InXile Entertainment|PC|24|348
+13208481|Batman: The Telltale Series|2016/01/16|inXile Entertainment|PC|24|348
+23208481|Battalion 1944|2016/01/16|No Pest Productions|PC|24|348
+33208481|Battle Chasers: Nightwar|2016/01/16|Supergiant Games|PC|24|348
+43208481|Battlefield 1|2016/01/16|Bloober Team|PC|24|348
+53208481|Battlefield 4|2016/01/16|Rocksteady Studios|PC|24|348
+63208481|Battlefield V|2016/01/16|Rocksteady Studios|PC|24|348
+73208481|Battlefield Hardline|2016/01/16|Telltale Games|PC|24|348
+83208481|Battle Garegga Rev.2016|2016/01/16|Telltale Games|PC|24|348
+93208481|Battle of the Bulge|2016/01/16|Bulkhead Interactive|PC|24|348
+04208481|Battle Princess Madelyn|2016/01/16|Airship Syndicate|PC|24|348
+14208481|Battleship|2016/01/16|EA DICE|PC|24|348
+24208481|Battlestar Galactica: Deadlock|2016/01/16|EA DICE|PC|24|348
+34208481|Battle Worlds: Kronos|2016/01/16|EA DICE|PC|24|348
+44208481|Battlezone|2016/01/16|Visceral Games|PC|24|348
+54208481|Bayonetta|2016/01/16|M2|PC|24|348
+64208481|Bears Can't Drift!?|2016/01/16|Slitherine Software|PC|24|348
+74208481|Bear With Me: The Lost Robots|2016/01/16|Causal Bit Games|PC|24|348
+84208481|Beast Quest|2016/01/16|Frima Studio|PC|24|348
+94208481|Bedlam|2016/01/16|Black Lab Games|PC|24|348
+05208481|Bee Simulator|2016/01/16|King Art Games|PC|24|348
+15208481|Beholder: Complete Edition|2016/01/16|Rebellion Developments|PC|24|348
+25208481|Beholder 2|2016/01/16|PlatinumGames|PC|24|348
+35208481|Below|2016/01/16|Strangely Named|PC|24|348
+45208481|Ben 10|2016/01/16|Exordium Games|PC|24|348
+55208481|Bendy and the Ink Machine|2016/01/16|Torus Games|PC|24|348
+65208481|Berserk and the Band of the Hawk|2016/01/16|RedBedlam|PC|24|348
+75208481|Beyond a Steel Sky|2016/01/16|Varsav Game Studios|PC|24|348
+85208481|Beyond Blue|2016/01/16|Warm Lamp Games|PC|24|348
+95208481|Beyond Eyes|2016/01/16|Alawar|PC|24|348
+06208481|Beyond: Two Souls|2016/01/16|Warm Lamp Games|PC|24|348
+16208481|Big Bash Boom|2016/01/16|Alawar|PC|24|348
+26208481|Big Pharma|2016/01/16|Capybara Games|PC|24|348
+36208481|Binaries|2016/01/16|Outright Games|PC|24|348
+46208481|The Binding of Isaac: Rebirth|2016/01/16|Joey Drew Studios|PC|24|348
+56208481|Biomutant|2016/01/16|Omega Force|PC|24|348
+66208481|BioShock: The Collection|2016/01/16|Revolution Software|PC|24|348
+76208481|Biped|2016/01/16|E-Line Media|PC|24|348
+86208481|Birthdays the Beginning|2016/01/16|Tiger and Squid|PC|24|348
+96208481|Bit.Trip|2016/01/16|Quantic Dream|PC|24|348
+07208481|Black & White Bushido|2016/01/16|Big Ant Studios|PC|24|348
+17208481|Black Desert|2016/01/16|Twice Circled|PC|24|348
+27208481|Blackguards 2|2016/01/16|Ant Workshop|PC|24|348
+37208481|Blackhole: Complete Edition|2016/01/16|Nicalis|PC|24|348
+47208481|The Blackout Club|2016/01/16|Experiment 101|PC|24|348
+57208481|Black Legend|2016/01/16|Blind Squirrel Games|PC|24|348
+67208481|Black Paradox|2016/01/16|Next Studios|PC|24|348
+77208481|Blacksad: Under the Skin|2016/01/16|Toybox Games|PC|24|348
+87208481|Blacksea Odyssey|2016/01/16|Choice Provisions|PC|24|348
+97208481|Black the Fall|2016/01/16|Endemol|PC|24|348
+08208481|Blackwood Crossing|2016/01/16|Pearl Abyss|PC|24|348
+18208481|Blade Arcus from Shining EX|2016/01/16|Daedalic|PC|24|348
+28208481|Blade Assault|2016/01/16|FiolaSoft Studio|PC|24|348
+38208481|Blade Ballet|2016/01/16|Question|PC|24|348
+48208481|Bladed Fury|2016/01/16|Warcave|PC|24|348
+58208481|Blade Runner: Enhanced Edition|2016/01/16|Fantastico Studio|PC|24|348
+68208481|Blade Strangers|2016/01/16|Pendulo Studios|PC|24|348
+78208481|Bladestorm: Nightmare|2016/01/16|Ys Interactive|PC|24|348
+88208481|Blair Witch|2016/01/16|Spiral Summit Games|PC|24|348
+98208481|Blasphemous|2016/01/16|Sand Sailor Studio|PC|24|348
+09208481|Blast 'Em Bunnies|2016/01/16|PaperSeven|PC|24|348
+19208481|Blaster Master Zero|2016/01/16|Sega|PC|24|348
+29208481|Blaster Master Zero 2|2016/01/16|TeamSuneat|PC|24|348
+39208481|Blast Zone! Tournament|2016/01/16|DreamSail Games|PC|24|348
+49208481|BlazBlue: Central Fiction|2016/01/16|NExT Studios|PC|24|348
+59208481|BlazBlue: Chrono Phantasma Extend|2016/01/16|Alcon Entertainment|PC|24|348
+69208481|BlazBlue: Cross Tag Battle|2016/01/16|Studio Saizensen|PC|24|348
+79208481|Blazerush|2016/01/16|Koei Tecmo|PC|24|348
+89208481|Blazing Beaks|2016/01/16|Bloober Team|PC|24|348
+99208481|Blazing Chrome|2016/01/16|The Game Kitchen|PC|24|348
+00308481|Bleed|2016/01/16|Nnooo|PC|24|348
+10308481|Bleed 2|2016/01/16|Inti Creates|PC|24|348
+20308481|Blind Fate: Edo no Yami|2016/01/16|Inti Creates|PC|24|348
+30308481|Block-a-Pix Deluxe|2016/01/16|Victory Lap Games|PC|24|348
+40308481|Bloodborne|2016/01/16|Arc System Works|PC|24|348
+50308481|Blood Bowl 2|2016/01/16|Arc System Works|PC|24|348
+60308481|Blood Bowl 3|2016/01/16|Arc System Works|PC|24|348
+70308481|Bloodroots|2016/01/16|Targem Games|PC|24|348
+80308481|Bloodstained: Curse of the Moon|2016/01/16|Applava|PC|24|348
+90308481|Bloodstained: Curse of the Moon 2|2016/01/16|JoyMasher|PC|24|348
+01308481|Bloodstained: Ritual of the Night|2016/01/16|Bootdisk Revolution|PC|24|348
+11308481|Bloody Zombies|2016/01/16|Bootdisk Revolution|PC|24|348
+21308481|Bloons TD 5|2016/01/16|Troglobytes Games|PC|24|348
+31308481|Blue Estate|2016/01/16|Lightwood Games|PC|24|348
+41308481|Blue Fire|2016/01/16|FromSoftware|PC|24|348
+51308481|Blue Reflection|2016/01/16|Cyanide|PC|24|348
+61308481|Blue Rider|2016/01/16|Cyanide|PC|24|348
+71308481|Blues and Bullets|2016/01/16|Paper Cult|PC|24|348
+81308481|Boiling Bolt|2016/01/16|Inti Creates|PC|24|348
+91308481|Bokosuka Wars II|2016/01/16|ArtPlay|PC|24|348
+02308481|Bokuhime Project|2016/01/16|Inti Creates|PC|24|348
+12308481|Bomber Crew|2016/01/16|Inti Creates|PC|24|348
+22308481|Book of Demons|2016/01/16|Paw Print Games|PC|24|348
+32308481|The Book of Unwritten Tales 2|2016/01/16|Ninja Kiwi|PC|24|348
+42308481|Borderlands 3|2016/01/16|Hesaw|PC|24|348
+52308481|Borderlands: Game of the Year Edition|2016/01/16|Robi Studios|PC|24|348
+62308481|Borderlands: The Handsome Collection|2016/01/16|Gust Co. Ltd.|PC|24|348
+72308481|Bound|2016/01/16|Ravegan|PC|24|348
+82308481|Boundary|2016/01/16|A Crowd of Monsters|PC|24|348
+92308481|Bound by Flame|2016/01/16|Persistant Studios|PC|24|348
+03308481|Boundless|2016/01/16|Pygmy Studio|PC|24|348
+13308481|Bounty Battle|2016/01/16|Wizard Soft|PC|24|348
+23308481|Bow to Blood: Last Captain Standing|2016/01/16|Runner Duck|PC|24|348
+33308481|BQM: BlockQuest Maker|2016/01/16|Thing Trunk|PC|24|348
+43308481|Braid Anniversary Edition|2016/01/16|King Art Games|PC|24|348
+53308481|Braveland Trilogy|2016/01/16|Gearbox Software|PC|24|348
+63308481|Brawl|2016/01/16|Gearbox Software|PC|24|348
+73308481|Brawlout|2016/01/16|Gearbox Software|PC|24|348
+83308481|Breakers Collection|2016/01/16|Plastic|PC|24|348
+93308481|The Bridge|2016/01/16|Surgical Scalpels|PC|24|348
+04308481|Bridge Constructor|2016/01/16|Spiders|PC|24|348
+14308481|Bridge Constructor Portal|2016/01/16|Wonderstruck Games|PC|24|348
+24308481|Bridge Constructor Stunts|2016/01/16|Dark Screen Games|PC|24|348
+34308481|Brief Battles|2016/01/16|Tribetoy|PC|24|348
+44308481|Bright Memory: Infinite|2016/01/16|Wonderland Kazakiri|PC|24|348
+54308481|Broforce|2016/01/16|Thekla|PC|24|348
+64308481|Broken Age: The Complete Adventure|2016/01/16|Ellada Games|PC|24|348
+74308481|Broken Delusion|2016/01/16|Bloober Team|PC|24|348
+84308481|Broken Sword 5: The Serpent's Curse|2016/01/16|Angry Mob Games|PC|24|348
+94308481|Brothers: A Tale of Two Sons|2016/01/16|Visco Corporation|PC|24|348
+05308481|Brutal|2016/01/16|TQAG|PC|24|348
+15308481|Bubble Bobble 4 Friends: The Baron is Back|2016/01/16|ClockStone|PC|24|348
+25308481|Bubsy: Paws on Fire!|2016/01/16|ClockStone|PC|24|348
+35308481|Bubsy: The Woolies Strike Back|2016/01/16|ClockStone|PC|24|348
+45308481|Bucket Knight|2016/01/16|Juicy Cupcake|PC|24|348
+55308481|Bud Spencer & Terence Hill: Slaps and Beans|2016/01/16|FYQD Studio|PC|24|348
+65308481|The Bug Butcher|2016/01/16|Free Lives|PC|24|348
+75308481|Bug Fables: The Everlasting Sapling|2016/01/16|Double Fine Productions|PC|24|348
+85308481|BugsBox|2016/01/16|Bilibili|PC|24|348
+95308481|Bugsnax|2016/01/16|Revolution Software|PC|24|348
+06308481|Buildings Have Feelings Too!|2016/01/16|Starbreeze Studios|PC|24|348
+16308481|Bulb Boy|2016/01/16|Stormcloud Games|PC|24|348
+26308481|Bulletstorm: Full Clip Edition|2016/01/16|Taito|PC|24|348
+36308481|Buried Stars|2016/01/16|Choice Provisions|PC|24|348
+46308481|Burnout Paradise Remastered|2016/01/16|Black Forest Games|PC|24|348
+56308481|Bush Hockey League|2016/01/16|Sometimes You|PC|24|348
+66308481|Bus Simulator|2016/01/16|Trinity Team|PC|24|348
+76308481|Bus Simulator 21|2016/01/16|Awfully Nice Studios|PC|24|348
+86308481|Butcher|2016/01/16|Moonsprout Games|PC|24|348
+96308481|Caladrius Blaze|2016/01/16|Park ESM|PC|24|348
+07308481|The Caligula Effect: Overdose|2016/01/16|Young Horses|PC|24|348
+17308481|Call of Cthulhu: The Official Video Game|2016/01/16|Blackstaff Games|PC|24|348
+27308481|Call of Duty: Advanced Warfare|2016/01/16|Bulbware|PC|24|348
+37308481|Call of Duty: Black Ops III|2016/01/16|People Can Fly|PC|24|348
+47308481|Call of Duty: Black Ops IIII|2016/01/16|Studio Largo|PC|24|348
+57308481|Call of Duty: Black Ops Cold War|2016/01/16|Stellar Entertainment|PC|24|348
+67308481|Call of Duty: Ghosts|2016/01/16|V7 Entertainment|PC|24|348
+77308481|Call of Duty: Infinite Warfare|2016/01/16|Stillalive Studios|PC|24|348
+87308481|Call of Duty: Modern Warfare|2016/01/16|Stillalive Studios|PC|24|348
+97308481|Call of Duty: Modern Warfare Remastered|2016/01/16|Transhuman Design|PC|24|348
+08308481|Call of Duty: Modern Warfare 2 Campaign Remastered|2016/01/16|Moss|PC|24|348
+18308481|Call of Duty: Warzone|2016/01/16|FuRyu|PC|24|348
+28308481|Call of Duty: WWII|2016/01/16|Frogwares|PC|24|348
+38308481|Calvino Noir|2016/01/16|Sledgehammer Games|PC|24|348
+48308481|Candlelight|2016/01/16|Treyarch|PC|24|348
+58308481|Candleman: The Complete Journey|2016/01/16|Treyarch|PC|24|348
+68308481|Candle: The Power of the Flame|2016/01/16|Raven Software|PC|24|348
+78308481|Cannon Brawl|2016/01/16|Treyarch|PC|24|348
+88308481|Capcom Beat 'Em Up Bundle|2016/01/16|Infinity Ward|PC|24|348
+98308481|Capsule Force|2016/01/16|Infinity Ward|PC|24|348
+09308481|Captain Tsubasa: Rise of New Champions|2016/01/16|Infinity Ward|PC|24|348
+19308481|Cardpocalypse|2016/01/16|Raven Software|PC|24|348
+29308481|Carmageddon: Max Damage|2016/01/16|Beenox|PC|24|348
+39308481|Car Mechanic Simulator 2018|2016/01/16|Infinity Ward|PC|24|348
+49308481|Cars 3: Driven to Win|2016/01/16|Raven Software|PC|24|348
+59308481|Carto|2016/01/16|Sledgehammer Games|PC|24|348
+69308481|Cartoon Network: Battle Crashers|2016/01/16|Calvino Noir|PC|24|348
+79308481|CarX Drift Racing Online|2016/01/16|Pixel Maverick|PC|24|348
+89308481|Casey Powell Lacrosse 16|2016/01/16|Spotlightor Interactive|PC|24|348
+99308481|Castle Crashers Remastered|2016/01/16|Teku Studios|PC|24|348
+00408481|The Castle Game|2016/01/16|Turtle Sandbox / BlitWorks|PC|24|348
+10408481|Castles|2016/01/16|Capcom|PC|24|348
+20408481|CastleStorm: Definitive Edition|2016/01/16|Klobit|PC|24|348
+30408481|CastleStorm II|2016/01/16|Tamsoft|PC|24|348
+40408481|Castlevania Requiem|2016/01/16|Gambrinous|PC|24|348
+50408481|Castlevania Anniversary Collection|2016/01/16|Stainless Games|PC|24|348
+60408481|Catherine: Full Body|2016/01/16|Red Dot Games|PC|24|348
+70408481|Catlateral Damage|2016/01/16|Avalanche Software|PC|24|348
+80408481|Cat Quest|2016/01/16|Sunhead Games|PC|24|348
+90408481|Cat Quest II|2016/01/16|Magic Pockets|PC|24|348
+01408481|Cel Damage HD|2016/01/16|CarX Technologies|PC|24|348
+11408481|Celeste|2016/01/16|Crosse Studios|PC|24|348
+21408481|Chained Echoes|2016/01/16|The Behemoth|PC|24|348
+31408481|Chambara|2016/01/16|Neptune|PC|24|348
+41408481|Chaos;Child|2016/01/16|WhootGames|PC|24|348
+51408481|Chaos Code: New Sign of Catastrophe|2016/01/16|Zen Studios|PC|24|348
+61408481|Chaos on Deponia|2016/01/16|Zen Studios|PC|24|348
+71408481|Chariot|2016/01/16|Konami|PC|24|348
+81408481|Chasm|2016/01/16|Konami|PC|24|348
+91408481|Chess Ultra|2016/01/16|Studio Zero|PC|24|348
+02408481|Child of Light|2016/01/16|Manekoware|PC|24|348
+12408481|Children of Morta|2016/01/16|The Gentlebros|PC|24|348
+22408481|Children of Zodiarcs|2016/01/16|The Gentlebros|PC|24|348
+32408481|Chimparty|2016/01/16|Finish Line Games|PC|24|348
+42408481|Chime Sharp|2016/01/16|Matt Thorson|PC|24|348
+52408481|Chivalry: Medieval Warfare|2016/01/16|Ark Heiral|PC|24|348
+62408481|Chivalry 2|2016/01/16|Team OK|PC|24|348
+72408481|Chocobo's Mystery Dungeon Every Buddy!|2016/01/16|Nitroplus|PC|24|348
+82408481|Chop is Dish|2016/01/16|FK Digital|PC|24|348
+92408481|Chorus: Rise As One|2016/01/16|Daedalic Entertainment|PC|24|348
+03408481|ChromaGun|2016/01/16|Frima Studio|PC|24|348
+13408481|Chroma Squad|2016/01/16|Bit Kid|PC|24|348
+23408481|Chronicles of Teddy: Harmony of Exidus|2016/01/16|VooFoo Studios|PC|24|348
+33408481|Chronos: Before the Ashes|2016/01/16|Ubisoft Montreal|PC|24|348
+43408481|The Church in the Darkness|2016/01/16|Dead Mage|PC|24|348
+53408481|Cinders|2016/01/16|Cardboard Utopia|PC|24|348
+63408481|Circuit Superstars|2016/01/16|NapNok Games|PC|24|348
+73408481|Circuits|2016/01/16|Zo? Mode|PC|24|348
+83408481|Citadel: Forged with Fire|2016/01/16|Torn Banner Studios|PC|24|348
+93408481|Cities: Skylines|2016/01/16|Torn Banner Studios|PC|24|348
+04408481|Citizens of Earth|2016/01/16|Square Enix|PC|24|348
+14408481|Citizens of Space|2016/01/16|Victory Road|PC|24|348
+24408481|City Shrouded in Shadow|2016/01/16|Fishlabs|PC|24|348
+34408481|Civilization VI|2016/01/16|Pixel Maniacs|PC|24|348
+44408481|Cladun Returns: This is Sengoku!|2016/01/16|Behold Studios|PC|24|348
+54408481|Claire: Extended Cut|2016/01/16|LookAtMyGame|PC|24|348
+64408481|Clannad|2016/01/16|Gunfire Games|PC|24|348
+74408481|Claybook|2016/01/16|Paranoid Productions|PC|24|348
+84408481|Clockwork Aquario|2016/01/16|MoaCube|PC|24|348
+94408481|Clockwork Tales: Of Glass and Ink|2016/01/16|Original Fire Games|PC|24|348
+05408481|Close to the Sun|2016/01/16|Digital Tentacle|PC|24|348
+15408481|Cloudpunk|2016/01/16|Blue Isle Studios|PC|24|348
+25408481|Clustertruck|2016/01/16|Tantalus Media|PC|24|348
+35408481|Code Vein|2016/01/16|Atlus|PC|24|348
+45408481|Coffee Talk|2016/01/16|Eden Industries|PC|24|348
+55408481|Coffin Dodgers|2016/01/16|Granzella|PC|24|348
+65408481|The Coma: Recut|2016/01/16|Firaxis Games|PC|24|348
+75408481|The Coma 2: Vicious Sisters|2016/01/16|Nippon Ichi Software|PC|24|348
+85408481|Comet Crash 2|2016/01/16|Hailstorm Games|PC|24|348
+95408481|Commander Cherry's Puzzled Journey|2016/01/16|Key|PC|24|348
+06408481|Commandos 2 - HD Remaster|2016/01/16|Second Order|PC|24|348
+16408481|Conan Chop Chop|2016/01/16|Westone Bit Entertainment|PC|24|348
+26408481|Conan Exiles|2016/01/16|Artifex Mundi|PC|24|348
+36408481|Conarium|2016/01/16|Storm in a Teacup|PC|24|348
+46408481|Concept Destruction|2016/01/16|Ion Lands|PC|24|348
+56408481|Conception Plus: Maidens of the Twelve Stars|2016/01/16|Landfall Games|PC|24|348
+66408481|Concrete Genie|2016/01/16|Bandai Namco|PC|24|348
+76408481|Conga Master|2016/01/16|Toge Productions|PC|24|348
+86408481|Construction Simulator 2: Console Edition|2016/01/16|Milky Tea Studios|PC|24|348
+96408481|Construction Simulator 3: Console Edition|2016/01/16|Devespresso Games|PC|24|348
+07408481|Constructor HD|2016/01/16|Devespresso Games|PC|24|348
+17408481|Constructor Plus|2016/01/16|Pelfast|PC|24|348
+27408481|Contra Anniversary Collection|2016/01/16|Grande Games|PC|24|348
+37408481|Contra: Rogue Corps|2016/01/16|Yippee!|PC|24|348
+47408481|Contrast|2016/01/16|Pyro Studios|PC|24|348
+57408481|Control|2016/01/16|Mighty Kingdom|PC|24|348
+67408481|Convallaria|2016/01/16|Funcom|PC|24|348
+77408481|Convoy: A Tactical Roguelike|2016/01/16|Zoetrope Interactive|PC|24|348
+87408481|"Cook|2016/01/16| Serve, Delicious! 2",Ratalaika Games|PC|24|348
+97408481|"Cook|2016/01/16| Serve, Delicious! 3",Spike Chunsoft|PC|24|348
+08408481|Cosmic Star Heroine|2016/01/16|PixelOpus|PC|24|348
+18408481|Costume Quest 2|2016/01/16|Undercoders|PC|24|348
+28408481|Cotton Reboot|2016/01/16|weltenbauer|PC|24|348
+38408481|The Count Lucanor|2016/01/16|weltenbauer|PC|24|348
+48408481|CounterSpy|2016/01/16|System 3|PC|24|348
+58408481|Crash Bandicoot 4: It's About Time|2016/01/16|System 3|PC|24|348
+68408481|Crash Bandicoot N. Sane Trilogy|2016/01/16|Konami|PC|24|348
+78408481|Crash Team Racing Nitro-Fueled|2016/01/16|Konami|PC|24|348
+88408481|Crawl|2016/01/16|Compulsion Games|PC|24|348
+98408481|Crayola Scoot|2016/01/16|Remedy Entertainment|PC|24|348
+09408481|Crazy Strike Bowling EX|2016/01/16|Loong Force|PC|24|348
+19408481|Creaks|2016/01/16|Convoy Games|PC|24|348
+29408481|Creature in the Well|2016/01/16|Vertigo Gaming|PC|24|348
+39408481|The Crew|2016/01/16|Vertigo Gaming|PC|24|348
+49408481|The Crew 2|2016/01/16|Zeboyd Games|PC|24|348
+59408481|Cricket 19|2016/01/16|Double Fine Productions|PC|24|348
+69408481|Cris Tales|2016/01/16|Success|PC|24|348
+79408481|CrossCode|2016/01/16|Baroque Decay|PC|24|348
+89408481|Crossing Souls|2016/01/16|Dynamighty|PC|24|348
+99408481|Crown Trick|2016/01/16|Toys for Bob|PC|24|348
+00508481|Crows: Burning Edge|2016/01/16|Vicarious Visions|PC|24|348
+10508481|Crypt of the NecroDancer|2016/01/16|Beenox|PC|24|348
+20508481|Cryptark|2016/01/16|Powerhoof|PC|24|348
+30508481|Crysis Remastered|2016/01/16|Climax Studios|PC|24|348
+40508481|Crystal Crisis|2016/01/16|Corecell Technology|PC|24|348
+50508481|Crystar|2016/01/16|Amanita Design|PC|24|348
+60508481|Cube Life: Island Survival HD|2016/01/16|Flight School Studio|PC|24|348
+70508481|Cubers: Arena|2016/01/16|Ivory Tower|PC|24|348
+80508481|Cuphead|2016/01/16|Ivory Tower|PC|24|348
+90508481|Curious Expedition|2016/01/16|Big Ant Studios|PC|24|348
+01508481|Curses 'N Chaos|2016/01/16|Dreams Uncorporated|PC|24|348
+11508481|Cyberdimension Neptunia: 4 Goddesses Online|2016/01/16|SYCK|PC|24|348
+21508481|Cyberpunk 2077|2016/01/16|Radical Fish Games|PC|24|348
+31508481|Cyber Troopers Virtual-On Masterpiece 1995-2001|2016/01/16|Fourattic|PC|24|348
+41508481|Daggerhood|2016/01/16|Next Studios|PC|24|348
+51508481|Daisenryaku: Dai Toua Kouboushi 3|2016/01/16|Bandai Namco Entertainment|PC|24|348
+61508481|Dakar 18|2016/01/16|Brace Yourself Games|PC|24|348
+71508481|Dandara|2016/01/16|Alientrap|PC|24|348
+81508481|Danganronpa 1-2 Reload|2016/01/16|Crytek|PC|24|348
+91508481|Danganronpa V3: Killing Harmony|2016/01/16|Saber Interactive|PC|24|348
+02508481|Danganronpa Another Episode: Ultra Despair Girls|2016/01/16|Nicalis|PC|24|348
+12508481|Danganronpa Trilogy|2016/01/16|Gemdrops|PC|24|348
+22508481|Dangerous Golf|2016/01/16|Cypronia|PC|24|348
+32508481|Danger Zone|2016/01/16|Teyon|PC|24|348
+42508481|Dangun Feveron|2016/01/16|StudioMDHR|PC|24|348
+52508481|Dariusburst Chronicle Saviours|2016/01/16|Maschinen-Mensch|PC|24|348
+62508481|Darius Cozmic Collection|2016/01/16|Tribute Games|PC|24|348
+72508481|Darius Cozmic Revelation|2016/01/16|Compile Heart|PC|24|348
+82508481|Dark Arcana: The Carnival|2016/01/16|Tamsoft|PC|24|348
+92508481|Dark Envoy|2016/01/16|CD Projekt Red|PC|24|348
+03508481|The Dark Pictures Anthology: Man of Medan|2016/01/16|Sega|PC|24|348
+13508481|The Dark Pictures Anthology: Little Hope|2016/01/16|Woblyware|PC|24|348
+23508481|Dark Rose Valkyrie|2016/01/16|SystemSoft Alpha|PC|24|348
+33508481|Dark Souls Remastered|2016/01/16|Bigmoon Entertainment|PC|24|348
+43508481|Dark Souls II|2016/01/16|Long Hat House|PC|24|348
+53508481|Dark Souls III|2016/01/16|Spike Chunsoft|PC|24|348
+63508481|Darkest Dungeon|2016/01/16|Spike Chunsoft|PC|24|348
+73508481|Darkestville Castle|2016/01/16|Spike Chunsoft|PC|24|348
+83508481|Darksiders Genesis|2016/01/16|Spike Chunsoft|PC|24|348
+93508481|Darksiders: Warmastered Edition|2016/01/16|Three Fields Entertainment|PC|24|348
+04508481|Darksiders II: Deathinitive Edition|2016/01/16|Three Fields Entertainment|PC|24|348
+14508481|Darksiders III|2016/01/16|Cave|PC|24|348
+24508481|Darkwood|2016/01/16|M2|PC|24|348
+34508481|Daylight|2016/01/16|Pyramid|PC|24|348
+44508481|Daymare: 1998|2016/01/16|M2|PC|24|348
+54508481|Day of the Tentacle: Remastered Edition|2016/01/16|Taito|PC|24|348
+64508481|Days Gone|2016/01/16|Artifex Mundi|PC|24|348
+74508481|DayZ|2016/01/16|Event Horizon|PC|24|348
+84508481|Dead Alliance|2016/01/16|Supermassive Games|PC|24|348
+94508481|Dead by Daylight|2016/01/16|Supermassive Games|PC|24|348
+05508481|Dead Cells|2016/01/16|Compile Heart|PC|24|348
+15508481|Deadcore|2016/01/16|FromSoftware|PC|24|348
+25508481|Dead Island Definitive Edition|2016/01/16|FromSoftware|PC|24|348
+35508481|Dead Island 2|2016/01/16|FromSoftware|PC|24|348
+45508481|Deadlight: Director's Cut|2016/01/16|Red Hook Studios|PC|24|348
+55508481|The Deadly Tower of Monsters|2016/01/16|Epic LLama|PC|24|348
+65508481|Dead Nation: Apocalypse Edition|2016/01/16|Airship Syndicate|PC|24|348
+75508481|Dead or Alive 5 Last Round|2016/01/16|Nordic Games|PC|24|348
+85508481|Dead or Alive 6|2016/01/16|Gunfire Games|PC|24|348
+95508481|Dead or Alive Xtreme 3|2016/01/16|Gunfire Games|PC|24|348
+06508481|Dead or School|2016/01/16|Acid Wizard Studio|PC|24|348
+16508481|Deadpool|2016/01/16|Zombie Studios|PC|24|348
+26508481|Dead Rising|2016/01/16|Invader Studios|PC|24|348
+36508481|Dead Rising 2|2016/01/16|Double Fine Productions|PC|24|348
+46508481|Dead Rising 2: Off the Record|2016/01/16|SIE Bend Studio|PC|24|348
+56508481|Dead Rising 4|2016/01/16|Bohemia Interactive|PC|24|348
+66508481|Dead Star|2016/01/16|Psyop Games|PC|24|348
+76508481|Dead Synchronicity: Tomorrow Comes Today|2016/01/16|IllFonic|PC|24|348
+86508481|Dear Esther|2016/01/16|Behaviour Interactive|PC|24|348
+96508481|Death Come True|2016/01/16|Motion Twin|PC|24|348
+07508481|Death Coming|2016/01/16|5 Bits Games|PC|24|348
+17508481|Death Crown|2016/01/16|Techland|PC|24|348
+27508481|Death end re;Quest|2016/01/16|Yager Development|PC|24|348
+37508481|Death end re;Quest 2|2016/01/16|Tequila Works|PC|24|348
+47508481|Death Stranding|2016/01/16|ACE Team|PC|24|348
+57508481|Death Squared|2016/01/16|Housemarque|PC|24|348
+67508481|Death's Gambit|2016/01/16|Koei Tecmo|PC|24|348
+77508481|De Blob|2016/01/16|Koei Tecmo|PC|24|348
+87508481|De Blob 2|2016/01/16|Team Ninja|PC|24|348
+97508481|Decay of Logos|2016/01/16|Studio Nanafushi|PC|24|348
+08508481|Deception IV: The Nightmare Princess|2016/01/16|High Moon Studios|PC|24|348
+18508481|Deemo: Reborn|2016/01/16|Capcom|PC|24|348
+28508481|Deep Sky Derelicts: Definitive Edition|2016/01/16|Capcom|PC|24|348
+38508481|Defenders of Ekron|2016/01/16|Capcom|PC|24|348
+48508481|Defense Grid 2|2016/01/16|Capcom Vancouver|PC|24|348
+58508481|Deformers|2016/01/16|Armature Studio|PC|24|348
+68508481|Deiland|2016/01/16|Fictiorama Studios|PC|24|348
+78508481|Deliver Us The Moon|2016/01/16|The Chinese Room|PC|24|348
+88508481|Deltarune|2016/01/16|Too Kyo Games|PC|24|348
+98508481|Demetrios: The Big Cynical Adventure|2016/01/16|Next Studios|PC|24|348
+09508481|Demon Gaze II|2016/01/16|Co5monaut|PC|24|348
+19508481|Demons Age|2016/01/16|Stas Pisarev|PC|24|348
+29508481|Demon Slayer: Kimetsu no Yaiba ? Hinokami Keppuutan|2016/01/16|Idea Factory|PC|24|348
+39508481|Demon's Tier+|2016/01/16|Idea Factory|PC|24|348
+49508481|Demon's Tilt|2016/01/16|Compile Heart|PC|24|348
+59508481|Dengeki Bunko: Fighting Climax Ignition|2016/01/16|Kojima Productions|PC|24|348
+69508481|Densha de Go!! Hashirou Yamanote Sen|2016/01/16|SMG Studios|PC|24|348
+79508481|Deponia|2016/01/16|White Rabbit|PC|24|348
+89508481|Deponia Doomsday|2016/01/16|BlitWorks|PC|24|348
+99508481|Descenders|2016/01/16|BlitWorks|PC|24|348
+00608481|Desperados III|2016/01/16|Amplify Creations|PC|24|348
+10608481|Destiny|2016/01/16|Tecmo Koei|PC|24|348
+20608481|Destiny 2|2016/01/16|Rayark|PC|24|348
+30608481|Destiny Connect: Tick-Tock Travelers|2016/01/16|Snowhound Games|PC|24|348
+40608481|Destroy All Humans!|2016/01/16|In Vitro Games|PC|24|348
+50608481|Detention|2016/01/16|Hidden Path Entertainment|PC|24|348
+60608481|Detroit: Become Human|2016/01/16|Ready at Dawn|PC|24|348
+70608481|Deus Ex: Mankind Divided|2016/01/16|Chibig|PC|24|348
+80608481|Devil Engine|2016/01/16|KeokeN Interactive|PC|24|348
+90608481|Devil May Cry HD Collection|2016/01/16|Toby Fox|PC|24|348
+01608481|Devil May Cry 4: Special Edition|2016/01/16|CowCat|PC|24|348
+11608481|Devil May Cry 5|2016/01/16|Experience|PC|24|348
+21608481|Devious Dungeon|2016/01/16|Bigmoon Entertainment|PC|24|348
+31608481|Devious Dungeon 2|2016/01/16|CyberConnect2|PC|24|348
+41608481|Dex|2016/01/16|CowCat|PC|24|348
+51608481|Diablo III|2016/01/16|Flarb|PC|24|348
+61608481|Diablo IV|2016/01/16|Wiznwar|PC|24|348
+71608481|Die for Valhalla!|2016/01/16|Ecole Software|PC|24|348
+81608481|Digimon Story: Cyber Sleuth|2016/01/16|Taito|PC|24|348
+91608481|Digimon Story: Cyber Sleuth ? Hacker's Memory|2016/01/16|Daedalic Entertainment|PC|24|348
+02608481|Digimon Survive|2016/01/16|Daedalic Entertainment|PC|24|348
+12608481|Digimon World: Next Order|2016/01/16|RageSquid|PC|24|348
+22608481|Dirt 4|2016/01/16|Mimimi Productions|PC|24|348
+32608481|Dirt 5|2016/01/16|Bungie|PC|24|348
+42608481|Dirt Rally|2016/01/16|Bungie|PC|24|348
+52608481|Dirt Rally 2.0|2016/01/16|Nippon Ichi Software|PC|24|348
+62608481|Disaster Report 4 Plus: Summer Memories|2016/01/16|Black Forest Games|PC|24|348
+72608481|Disc Jam|2016/01/16|Red Candle Games|PC|24|348
+82608481|Disco Elysium|2016/01/16|Quantic Dream|PC|24|348
+92608481|Disgaea 1 Complete|2016/01/16|Eidos Montr?al|PC|24|348
+03608481|Disgaea 4 Complete+|2016/01/16|Dangen Entertainment|PC|24|348
+13608481|Disgaea 5 Complete|2016/01/16|Capcom|PC|24|348
+23608481|Dishonored: Definitive Edition|2016/01/16|Capcom|PC|24|348
+33608481|Dishonored 2|2016/01/16|Capcom|PC|24|348
+43608481|Dishonored: Death of the Outsider|2016/01/16|Woblyware|PC|24|348
+53608481|Disintegration|2016/01/16|Ravenous|PC|24|348
+63608481|The Disney Afternoon Collection|2016/01/16|Woblyware|PC|24|348
+73608481|Disney Classic Games: Aladdin and The Lion King|2016/01/16|Lewis Chirenje|PC|24|348
+83608481|Disney Infinity: Marvel Super Heroes|2016/01/16|Blizzard Entertainment|PC|24|348
+93608481|Disney Infinity 3.0|2016/01/16|Blizzard Entertainment|PC|24|348
+04608481|Dissidia Final Fantasy NT|2016/01/16|Monster Couch|PC|24|348
+14608481|Distance|2016/01/16|Media.Vision|PC|24|348
+24608481|Distraint|2016/01/16|Media.Vision|PC|24|348
+34608481|Distraint 2|2016/01/16|Witchcraft|PC|24|348
+44608481|Divekick|2016/01/16|B.B. Studio|PC|24|348
+54608481|Divide|2016/01/16|Codemasters|PC|24|348
+64608481|Divinity: Original Sin|2016/01/16|Codemasters|PC|24|348
+74608481|Divinity: Original Sin II|2016/01/16|Codemasters|PC|24|348
+84608481|DJMax Respect|2016/01/16|Codemasters|PC|24|348
+94608481|DmC: Devil May Cry Definitive Edition|2016/01/16|Granzella|PC|24|348
+05608481|Dogos|2016/01/16|High Horse Entertainment|PC|24|348
+15608481|Dokapon UP! Mugen no Roulette|2016/01/16|ZA/UM|PC|24|348
+25608481|Doki-Doki Universe|2016/01/16|Nippon Ichi Software|PC|24|348
+35608481|Donut County|2016/01/16|Nippon Ichi Software|PC|24|348
+45608481|Don Bradman Cricket 17|2016/01/16|Nippon Ichi Software|PC|24|348
+55608481|"Don't Die|2016/01/16| Mr. Robot!",Arkane Studios|PC|24|348
+65608481|Don't Starve|2016/01/16|Arkane Studios|PC|24|348
+75608481|Don't Starve Together|2016/01/16|Arkane Studios|PC|24|348
+85608481|Doodle Devil|2016/01/16|V1 Interactive|PC|24|348
+95608481|Doodle God|2016/01/16|Digital Eclipse|PC|24|348
+06608481|Doom|2016/01/16|Digital Eclipse|PC|24|348
+16608481|Doom|2016/01/16|Avalanche Software|PC|24|348
+26608481|Doom II|2016/01/16|Avalanche Software|PC|24|348
+36608481|Doom 3|2016/01/16|Team Ninja|PC|24|348
+46608481|Doom 64|2016/01/16|Refract Studios|PC|24|348
+56608481|Doom Eternal|2016/01/16|Jesse Makkonen|PC|24|348
+66608481|Door Kickers: Action Squad|2016/01/16|Jesse Makkonen|PC|24|348
+76608481|Doraemon Story of Seasons|2016/01/16|Iron Galaxy Studios|PC|24|348
+86608481|Doughlings: Arcade|2016/01/16|Exploding Tuba Studios|PC|24|348
+96608481|Downwell|2016/01/16|Larian Studios|PC|24|348
+07608481|Dragon Age: Inquisition|2016/01/16|Larian Studios|PC|24|348
+17608481|Dragon Ball FighterZ|2016/01/16|Rocky Studio|PC|24|348
+27608481|Dragon Ball Xenoverse|2016/01/16|Ninja Theory|PC|24|348
+37608481|Dragon Ball Xenoverse 2|2016/01/16|Opqam|PC|24|348
+47608481|Dragon Ball Z: Kakarot|2016/01/16|Sting|PC|24|348
+57608481|DragonFangZ: The Rose & Dungeon of Time|2016/01/16|HumaNature Studios|PC|24|348
+67608481|Dragon Fantasy: The Black Tome of Ice|2016/01/16|Ben Esposito|PC|24|348
+77608481|Dragon Fin Soup|2016/01/16|Big Ant Studios|PC|24|348
+87608481|Dragon's Crown Pro|2016/01/16|Infinite State Games|PC|24|348
+97608481|Dragon Marked For Death|2016/01/16|Klei Entertainment|PC|24|348
+08608481|Dragon Quest Builders|2016/01/16|Klei Entertainment|PC|24|348
+18608481|Dragon Quest Builders 2|2016/01/16|BlitWorks|PC|24|348
+28608481|Dragon Quest Heroes|2016/01/16|JoyBits|PC|24|348
+38608481|Dragon Quest Heroes II|2016/01/16|JoyBits|PC|24|348
+48608481|Dragon Quest X|2016/01/16|id Software|PC|24|348
+58608481|Dragon Quest XI|2016/01/16|id Software|PC|24|348
+68608481|Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition|2016/01/16|id Software|PC|24|348
+78608481|Dragon's Dogma: Dark Arisen|2016/01/16|id Software|PC|24|348
+88608481|Dragon Star Varnir|2016/01/16|id Software|PC|24|348
+98608481|Draugen|2016/01/16|id Software|PC|24|348
+09608481|Draw a Stickman: Epic 2|2016/01/16|KillHouse Games|PC|24|348
+19608481|Drawful 2|2016/01/16|PixelShard|PC|24|348
+29608481|Drawn to Death|2016/01/16|Brownies|PC|24|348
+39608481|Dread Nautical|2016/01/16|Marvelous|PC|24|348
+49608481|Dreamfall Chapters: The Longest Journey|2016/01/16|Hero Concept|PC|24|348
+59608481|Dreams|2016/01/16|Moppin|PC|24|348
+69608481|Dreamwalker: Never Fall Asleep|2016/01/16|BioWare|PC|24|348
+79608481|Dreii|2016/01/16|Arc System Works|PC|24|348
+89608481|Driveclub|2016/01/16|Dimps|PC|24|348
+99608481|Driveclub Bikes|2016/01/16|Dimps|PC|24|348
+00708481|Dual Gear|2016/01/16|CyberConnect2|PC|24|348
+10708481|Duck Game|2016/01/16|Toydea|PC|24|348
+20708481|Duke Nukem 3D: 20th Anniversary World Tour|2016/01/16|Muteki Corporation|PC|24|348
+30708481|Dungeon Defenders: Awakened|2016/01/16|Grimm Bros|PC|24|348
+40708481|Dungeon of the Endless|2016/01/16|Vanillaware|PC|24|348
+50708481|Dungeon Punks|2016/01/16|Inti Creates|PC|24|348
+60708481|Dungeon Village|2016/01/16|Square Enix|PC|24|348
+70708481|Dungeons 2|2016/01/16|Square Enix|PC|24|348
+80708481|Dungeons 3|2016/01/16|Koei Tecmo|PC|24|348
+90708481|Dungreed|2016/01/16|Koei Tecmo|PC|24|348
+01708481|Dusk Diver|2016/01/16|Square Enix|PC|24|348
+11708481|Dust: An Elysian Tail|2016/01/16|Square Enix|PC|24|348
+21708481|Dustoff Heli Rescue 2|2016/01/16|Square Enix|PC|24|348
+31708481|Dustoff Z|2016/01/16|Capcom|PC|24|348
+41708481|The Dwarves|2016/01/16|Compile Heart|PC|24|348
+51708481|Dying Light|2016/01/16|Red Thread Games|PC|24|348
+61708481|Dying Light 2|2016/01/16|Hitcents|PC|24|348
+71708481|Dynasty Warriors 8: Empires|2016/01/16|Jackbox Games|PC|24|348
+81708481|Dynasty Warriors 8: Xtreme Legends Complete Edition|2016/01/16|Bartlet Jones|PC|24|348
+91708481|Dynasty Warriors 9|2016/01/16|Zen Studios|PC|24|348
+02708481|Dynasty Warriors: Godseekers|2016/01/16|Red Thread Games|PC|24|348
+12708481|Earth Atlantis|2016/01/16|Media Molecule|PC|24|348
+22708481|Earth Defense Force 4.1|2016/01/16|Artifex Mundi|PC|24|348
+32708481|Earth Defense Force 5|2016/01/16|Etter Studio|PC|24|348
+42708481|Earth Defense Force 6|2016/01/16|Evolution Studios|PC|24|348
+52708481|Earth Defense Force: Iron Rain|2016/01/16|Evolution Studios|PC|24|348
+62708481|Earth Defense Force: World Brothers|2016/01/16|Orbital Speed Studio|PC|24|348
+72708481|Earth Wars|2016/01/16|Landon Podbielski|PC|24|348
+82708481|Earthfall|2016/01/16|Gearbox Software|PC|24|348
+92708481|Earthlock: Festival of Magic|2016/01/16|Chromatic Games|PC|24|348
+03708481|EA Sports UFC|2016/01/16|Amplitude Studios|PC|24|348
+13708481|EA Sports UFC 2|2016/01/16|Hyper Awesome|PC|24|348
+23708481|EA Sports UFC 3|2016/01/16|Kairosoft|PC|24|348
+33708481|EA Sports UFC 4|2016/01/16|Realmforge Studios|PC|24|348
+43708481|Eastshade|2016/01/16|Realmforge Studios|PC|24|348
+53708481|eBaseball Powerful Pro Yakyuu 2020|2016/01/16|Team Horay|PC|24|348
+63708481|Echo|2016/01/16|Jera Game Studio|PC|24|348
+73708481|Edge of Eternity|2016/01/16|Humble Hearts|PC|24|348
+83708481|Edna & Harvey: Harvey's New Eyes|2016/01/16|Invictus Games|PC|24|348
+93708481|Edna & Harvey: The Breakout|2016/01/16|Invictus Games|PC|24|348
+04708481|Effie|2016/01/16|King Art Games|PC|24|348
+14708481|eFootball Pro Evolution Soccer 2020|2016/01/16|Techland|PC|24|348
+24708481|Eitr|2016/01/16|Techland|PC|24|348
+34708481|Eiyuden Chronicle: Hundred Heroes|2016/01/16|Omega Force|PC|24|348
+44708481|Elden Ring|2016/01/16|Omega Force|PC|24|348
+54708481|The Elder Scrolls Online|2016/01/16|Omega Force|PC|24|348
+64708481|The Elder Scrolls V: Skyrim ? Special Edition|2016/01/16|Omega Force|PC|24|348
+74708481|Electronic Super Joy|2016/01/16|Pixel Perfex|PC|24|348
+84708481|ELEX|2016/01/16|Sandlot|PC|24|348
+94708481|Elliot Quest|2016/01/16|Sandlot|PC|24|348
+05708481|Elite: Dangerous|2016/01/16|Sandlot|PC|24|348
+15708481|Embers of Mirrim|2016/01/16|Yuke's|PC|24|348
+25708481|Emily Wants to Play|2016/01/16|Yuke's|PC|24|348
+35708481|Empire of Sin|2016/01/16|Sandlot|PC|24|348
+45708481|Enchanted Portals|2016/01/16|One or Eight|PC|24|348
+55708481|The End Is Nigh|2016/01/16|Holospark Games|PC|24|348
+65708481|Endless Fables: Dark Moor|2016/01/16|Snowcastle Games|PC|24|348
+75708481|Energy Hook|2016/01/16|EA Canada|PC|24|348
+85708481|Enigmatis: The Ghosts of Maple Creek|2016/01/16|EA Canada|PC|24|348
+95708481|Enigmatis 2: The Mists of Ravenwood|2016/01/16|EA Canada|PC|24|348
+06708481|Enigmatis 3: The Shadow of Karkhala|2016/01/16|EA Canada|PC|24|348
+16708481|Enter the Gungeon|2016/01/16|Eastshade Studios|PC|24|348
+26708481|Entwined|2016/01/16|Konami|PC|24|348
+36708481|Erica|2016/01/16|Ultra Ultra|PC|24|348
+46708481|Escape Plan|2016/01/16|Midgar Studio|PC|24|348
+56708481|Escape Goat 2|2016/01/16|Daedalic Entertainment|PC|24|348
+66708481|The Escapists|2016/01/16|Daedalic Entertainment|PC|24|348
+76708481|The Escapists 2|2016/01/16|Inverge Studios|PC|24|348
+86708481|The Escapists: The Walking Dead|2016/01/16|PES Productions|PC|24|348
+96708481|ESP Ra.De. Psy|2016/01/16|Eneme Entertainment|PC|24|348
+07708481|Ether One|2016/01/16|Rabbit & Bear Studios|PC|24|348
+17708481|Etherborn|2016/01/16|FromSoftware|PC|24|348
+27708481|Euro Fishing|2016/01/16|ZeniMax Online Studios|PC|24|348
+37708481|Evan's Remains|2016/01/16|Bethesda Game Studios|PC|24|348
+47708481|Eve: Valkyrie - Warzone|2016/01/16|Loot Interactive|PC|24|348
+57708481|Even the Ocean|2016/01/16|Piranha Bytes|PC|24|348
+67708481|Eventide: Slavic Fable|2016/01/16|Ansimuz Games|PC|24|348
+77708481|Eventide 2: Sorcerer's Mirror|2016/01/16|Frontier Developments|PC|24|348
+87708481|Eventide 3: Legacy of Legends|2016/01/16|Creative Bytes|PC|24|348
+97708481|Everspace|2016/01/16|Shawn Hitchcock|PC|24|348
+08708481|Everspace 2|2016/01/16|Romero Games|PC|24|348
+18708481|Everybody's Golf|2016/01/16|Xixo Game Studio|PC|24|348
+28708481|Everybody's Gone to the Rapture|2016/01/16|Edmund McMillen|PC|24|348
+38708481|Everything|2016/01/16|Artifex Mundi|PC|24|348
+48708481|The Evil Within|2016/01/16|Happion Labs|PC|24|348
+58708481|The Evil Within 2|2016/01/16|Artifex Mundi|PC|24|348
+68708481|Evolve|2016/01/16|Artifex Mundi|PC|24|348
+78708481|Evotinction|2016/01/16|Artifex Mundi|PC|24|348
+88708481|Exception|2016/01/16|Dodge Roll|PC|24|348
+98708481|Exile's End|2016/01/16|Pixelopus|PC|24|348
+09708481|Exist Archive|2016/01/16|Flavourworks|PC|24|348
+19708481|Extinction|2016/01/16|Fun Bits Interactive|PC|24|348
+29708481|F1 2015|2016/01/16|MagicalTimeBean|PC|24|348
+39708481|F1 2016|2016/01/16|Mouldy Toof Studios|PC|24|348
+49708481|F1 2017|2016/01/16|Mouldy Toof Studios|PC|24|348
+59708481|F1 2018|2016/01/16|Mouldy Toof Studios|PC|24|348
+69708481|F1 2019|2016/01/16|Cave|PC|24|348
+79708481|F1 2020|2016/01/16|M2|PC|24|348
+89708481|Fairy Fencer F: Advent Dark Force|2016/01/16|White Paper Games|PC|24|348
+99708481|Fairy Tail|2016/01/16|Altered Matter|PC|24|348
+00808481|The Fall|2016/01/16|Dovetail Games|PC|24|348
+10808481|The Fall Part 2: Unbound|2016/01/16|Mat?as Schmied|PC|24|348
+20808481|Fall Guys: Ultimate Knockout|2016/01/16|CCP Games|PC|24|348
+30808481|Fallen Legion: Sins of an Empire|2016/01/16|Analgesic Productions|PC|24|348
+40808481|Fallout 4|2016/01/16|Artifex Mundi|PC|24|348
+50808481|Fallout 76|2016/01/16|Artifex Mundi|PC|24|348
+60808481|Family Mysteries: Poisonous Promises|2016/01/16|Artifex Mundi|PC|24|348
+70808481|Fantasy General II|2016/01/16|Rockfish Games|PC|24|348
+80808481|Far Cry 4|2016/01/16|Rockfish Games|PC|24|348
+90808481|Far Cry 5|2016/01/16|Clap Hanz|PC|24|348
+01808481|Far Cry 6|2016/01/16|The Chinese Room|PC|24|348
+11808481|Far Cry Primal|2016/01/16|David OReilly|PC|24|348
+21808481|Far: Lone Sails|2016/01/16|Tango Gameworks|PC|24|348
+31808481|Farming Simulator 15|2016/01/16|Tango Gameworks|PC|24|348
+41808481|Farming Simulator 17|2016/01/16|Turtle Rock Studios|PC|24|348
+51808481|Farming Simulator 19|2016/01/16|Spikewave Games|PC|24|348
+61808481|Farm Together|2016/01/16|Traxmaster Software|PC|24|348
+71808481|Fast & Furious Crossroads|2016/01/16|Magnetic Realms|PC|24|348
+81808481|Fast Striker|2016/01/16|Tri-Ace|PC|24|348
+91808481|Fate/Extella Link|2016/01/16|Iron Galaxy Studios|PC|24|348
+02808481|Fate/Extella: The Umbral Star|2016/01/16|Codemasters|PC|24|348
+12808481|Fat Princess Adventures|2016/01/16|Codemasters|PC|24|348
+22808481|Fault Milestone One|2016/01/16|Codemasters|PC|24|348
+32808481|Fault Milestone Two Side: Above|2016/01/16|Codemasters|PC|24|348
+42808481|Fault Milestone Two Side: Below|2016/01/16|Codemasters|PC|24|348
+52808481|Fe|2016/01/16|Codemasters|PC|24|348
+62808481|Feist|2016/01/16|Compile Heart|PC|24|348
+72808481|Felix the Reaper|2016/01/16|Gust Co. Ltd.|PC|24|348
+82808481|Fell Seal: Arbiter's Mark|2016/01/16|Over the Moon|PC|24|348
+92808481|Fenix Furia|2016/01/16|Over the Moon|PC|24|348
+03808481|Feudal Alloy|2016/01/16|Mediatonic|PC|24|348
+13808481|Fez|2016/01/16|Yummy Yummy Tummy|PC|24|348
+23808481|FIA European Truck Racing Championship|2016/01/16|Bethesda Game Studios|PC|24|348
+33808481|Fibbage|2016/01/16|Bethesda Game Studios|PC|24|348
+43808481|FIFA 14|2016/01/16|Brave Giant|PC|24|348
+53808481|FIFA 15|2016/01/16|Owned by Gravity|PC|24|348
+63808481|FIFA 16|2016/01/16|Ubisoft Montreal|PC|24|348
+73808481|FIFA 17|2016/01/16|Ubisoft Montreal|PC|24|348
+83808481|FIFA 18|2016/01/16|Ubisoft Toronto|PC|24|348
+93808481|FIFA 19|2016/01/16|Ubisoft Montreal|PC|24|348
+04808481|FIFA 20|2016/01/16|Mr. Whale's Game Service|PC|24|348
+14808481|FIFA 21|2016/01/16|Giants Software|PC|24|348
+24808481|Fighting EX Layer|2016/01/16|Giants Software|PC|24|348
+34808481|Fight'N Rage|2016/01/16|Giants Software|PC|24|348
+44808481|Figment|2016/01/16|Milkstone Studios|PC|24|348
+54808481|Filthy Lucre|2016/01/16|Slightly Mad Studios|PC|24|348
+64808481|Final Fantasy VII|2016/01/16|NGDEV|PC|24|348
+74808481|Final Fantasy VII Remake|2016/01/16|Marvelous Interactive|PC|24|348
+84808481|Final Fantasy VIII Remastered|2016/01/16|Marvelous|PC|24|348
+94808481|Final Fantasy IX|2016/01/16|Fun Bits Interactive|PC|24|348
+05808481|Final Fantasy X/X-2 HD Remaster|2016/01/16|Alice in Dissonance|PC|24|348
+15808481|Final Fantasy XII: The Zodiac Age|2016/01/16|Alice in Dissonance|PC|24|348
+25808481|Final Fantasy XIV: A Realm Reborn|2016/01/16|Alice in Dissonance|PC|24|348
+35808481|Final Fantasy XIV: Heavensward|2016/01/16|Zoink|PC|24|348
+45808481|Final Fantasy XIV: Stormblood|2016/01/16|Bits & Beasts|PC|24|348
+55808481|Final Fantasy XIV: Shadowbringers|2016/01/16|Kong Orange|PC|24|348
+65808481|Final Fantasy XV|2016/01/16|6 Eyes Studio|PC|24|348
+75808481|Final Fantasy: Crystal Chronicles Remastered|2016/01/16|Green Lava Studios|PC|24|348
+85808481|Final Fantasy Type-0 HD|2016/01/16|Attu Games|PC|24|348
+95808481|Final Horizon|2016/01/16|Polytron Corporation|PC|24|348
+06808481|The Final Station|2016/01/16|N-Racing|PC|24|348
+16808481|Fire Pro Wrestling World|2016/01/16|Jackbox Games|PC|24|348
+26808481|Firewatch|2016/01/16|EA Canada|PC|24|348
+36808481|Fishing: Barents Sea|2016/01/16|EA Canada|PC|24|348
+46808481|Fishing Sim World: Pro Tour|2016/01/16|EA Canada|PC|24|348
+56808481|F.I.S.T.: Forged in Shadow Torch|2016/01/16|EA Canada|PC|24|348
+66808481|Fist of the North Star: Lost Paradise|2016/01/16|EA Canada|PC|24|348
+76808481|Five Nights at Freddy's|2016/01/16|EA Vancouver|PC|24|348
+86808481|Five Nights at Freddy's 2|2016/01/16|EA Vancouver|PC|24|348
+96808481|Five Nights at Freddy's 3|2016/01/16|EA Vancouver|PC|24|348
+07808481|Five Nights at Freddy's 4|2016/01/16|Arika|PC|24|348
+17808481|Five Nights at Freddy's: Help Wanted|2016/01/16|Seba Games Dev|PC|24|348
+27808481|Five Nights at Freddy's: Sister Location|2016/01/16|BlitWorks|PC|24|348
+37808481|The Flame in the Flood|2016/01/16|Bedtime Digital|PC|24|348
+47808481|Flame Over|2016/01/16|Fabrik Games|PC|24|348
+57808481|Flashback|2016/01/16|Square Enix|PC|24|348
+67808481|Flat Heroes|2016/01/16|Square Enix|PC|24|348
+77808481|FlatOut 4: Total Insanity|2016/01/16|Square Enix|PC|24|348
+87808481|Flinthook|2016/01/16|Square Enix|PC|24|348
+97808481|Flipper Mechanic|2016/01/16|Square Enix|PC|24|348
+08808481|Flipping Death|2016/01/16|Square Enix|PC|24|348
+18808481|Flockers|2016/01/16|Square Enix|PC|24|348
+28808481|flOw|2016/01/16|Square Enix|PC|24|348
+38808481|Flower|2016/01/16|Square Enix|PC|24|348
+48808481|Fluster Cluck|2016/01/16|Square Enix|PC|24|348
+58808481|"Football|2016/01/16| Tactics & Glory",Square Enix|PC|24|348
+68808481|Forager|2016/01/16|Square Enix|PC|24|348
+78808481|Foreclosed|2016/01/16|Square Enix|PC|24|348
+88808481|For Honor|2016/01/16|Eiconic Games|PC|24|348
+98808481|Forced|2016/01/16|Do My Best|PC|24|348
+09808481|The Forest|2016/01/16|Spike Chunsoft|PC|24|348
+19808481|Forgotton Anne|2016/01/16|Campo Santo|PC|24|348
+29808481|Forma.8|2016/01/16|Misc Games|PC|24|348
+39808481|For the King|2016/01/16|Dovetail Games|PC|24|348
+49808481|Foul Play|2016/01/16|TiGames|PC|24|348
+59808481|Four Sided Fantasy|2016/01/16|Sega CS1|PC|24|348
+69808481|Fragments of Him|2016/01/16|Clickteam|PC|24|348
+79808481|Frane: Dragons' Odyssey|2016/01/16|Clickteam|PC|24|348
+89808481|Frantics|2016/01/16|Clickteam|PC|24|348
+99808481|Freedom Finger|2016/01/16|Clickteam|PC|24|348
+00908481|Freedom Planet|2016/01/16|Clickteam|PC|24|348
+10908481|Friday the 13th: The Game|2016/01/16|Clickteam|PC|24|348
+20908481|Frostpunk|2016/01/16|The Molasses Flood|PC|24|348
+30908481|Full Metal Panic! Fight! Who Dares Wins|2016/01/16|Laughing Jackal|PC|24|348
+40908481|Full Mojo Rampage|2016/01/16|Microids|PC|24|348
+50908481|Full Throttle Remastered|2016/01/16|Parallel Circles|PC|24|348
+60908481|Furi|2016/01/16|Kylotonn|PC|24|348
+70908481|Fury Unleashed|2016/01/16|Tribute Games|PC|24|348
+80908481|Fuser|2016/01/16|SimFabric|PC|24|348
+90908481|Fushigi no Gens?ky? 3|2016/01/16|Zoink|PC|24|348
+01908481|Future Unfolding|2016/01/16|Team17|PC|24|348
+11908481|FutureGrind|2016/01/16|SuperVillain Studios|PC|24|348
+21908481|Futuridium EP Deluxe|2016/01/16|Bluepoint Games|PC|24|348
+31908481|Gakuen|2016/01/16|Loot Interactive|PC|24|348
+41908481|Galak-Z: The Dimensional|2016/01/16|Creoteam|PC|24|348
+51908481|Gal Gun: Double Peace|2016/01/16|HopFrog|PC|24|348
+61908481|Gal Gun 2|2016/01/16|Antab Studio|PC|24|348
+71908481|Gal Gunvolt|2016/01/16|Ubisoft Montreal|PC|24|348
+81908481|Gal Gunvolt Burst|2016/01/16|BetaDwarf|PC|24|348
+91908481|Game Dev Story|2016/01/16|SKS Games|PC|24|348
+02908481|Game of Thrones|2016/01/16|ThroughLine Games|PC|24|348
+12908481|Game Tengoku CruisnMix|2016/01/16|MixedBag|PC|24|348
+22908481|Ganbare! Super Strikers|2016/01/16|IronOak Games|PC|24|348
+32908481|Gang Beasts|2016/01/16|Mediatonic|PC|24|348
+42908481|The Gardens Between|2016/01/16|Ludo Land|PC|24|348
+52908481|Garfield Kart: Furious Racing|2016/01/16|Sassybot|PC|24|348
+62908481|Garou: Mark of the Wolves|2016/01/16|Exe Create|PC|24|348
+72908481|Gas Guzzlers Extreme|2016/01/16|NapNok Games|PC|24|348
+82908481|Gauntlet: Slayer Edition|2016/01/16|Wide Right Interactive|PC|24|348
+92908481|Gemini: Heroes Reborn|2016/01/16|GalaxyTrail|PC|24|348
+03908481|Gem Smashers|2016/01/16|Gun Media|PC|24|348
+13908481|Generation Zero|2016/01/16|11 Bit Studios|PC|24|348
+23908481|Gens? No Rondo|2016/01/16|B.B. Studio|PC|24|348
+33908481|Geometry Wars 3: Dimensions|2016/01/16|Over The Top Games|PC|24|348
+43908481|Get Even|2016/01/16|Double Fine Productions|PC|24|348
+53908481|Ghost 1.0|2016/01/16|The Game Bakers|PC|24|348
+63908481|Ghost Blade HD|2016/01/16|Awesome Games|PC|24|348
+73908481|Ghostbusters: The Video Game Remastered|2016/01/16|Harmonix|PC|24|348
+83908481|Ghost of a Tale|2016/01/16|Aqua Style|PC|24|348
+93908481|Ghost of Tsushima|2016/01/16|Spaces of Play|PC|24|348
+04908481|Ghostrunner|2016/01/16|Milkbag Games|PC|24|348
+14908481|Ghoulboy: Dark Sword of Goblin|2016/01/16|MixedBag|PC|24|348
+24908481|G.I. Joe: Operation Blackout|2016/01/16|M2|PC|24|348
+34908481|Giana Sisters: Twisted Dreams - Director's Cut|2016/01/16|17-Bit|PC|24|348
+44908481|Giga Wrecker Alt.|2016/01/16|Inti Creates|PC|24|348
+54908481|Ginga Force|2016/01/16|Inti Creates|PC|24|348
+64908481|Giraffe and Annika|2016/01/16|Inti Creates|PC|24|348
+74908481|Girls und Panzer: Dream Tank Match|2016/01/16|Inti Creates|PC|24|348
+84908481|Glass Masquerade|2016/01/16|Kairosoft|PC|24|348
+94908481|Glass Masquerade 2|2016/01/16|Telltale Games|PC|24|348
+05908481|Glitched|2016/01/16|City Connection|PC|24|348
+15908481|Gnog|2016/01/16|Ratalaika Games|PC|24|348
+25908481|Goat Simulator|2016/01/16|Boneloaf Games|PC|24|348
+35908481|God Eater Resurrection|2016/01/16|The Voxel Agents|PC|24|348
+45908481|God Eater 2: Rage Burst|2016/01/16|Artefact|PC|24|348
+55908481|God Eater 3|2016/01/16|Code Mystics|PC|24|348
+65908481|God of War III Remastered|2016/01/16|Gamepires|PC|24|348
+75908481|God of War|2016/01/16|Arrowhead Studios|PC|24|348
+85908481|God Wars: Future Past|2016/01/16|Phosphor Games|PC|24|348
+95908481|God's Trigger|2016/01/16|Frame Studios|PC|24|348
+06908481|Godzilla: The Game|2016/01/16|Avalanche Studios|PC|24|348
+16908481|Going Under|2016/01/16|Cube Type|PC|24|348
+26908481|Golden Force|2016/01/16|Lucid Games|PC|24|348
+36908481|The Golf Club|2016/01/16|The Farm 51|PC|24|348
+46908481|The Golf Club 2|2016/01/16|Francis Cota|PC|24|348
+56908481|The Golf Club 2019 featuring PGA Tour|2016/01/16|Hucast|PC|24|348
+66908481|Golf with Your Friends|2016/01/16|Saber Interactive|PC|24|348
+76908481|Gone Home|2016/01/16|SeithCG|PC|24|348
+86908481|Gonner|2016/01/16|Sucker Punch Productions|PC|24|348
+96908481|Gonner 2|2016/01/16|One More Level|PC|24|348
+07908481|Goodbye Deponia|2016/01/16|Serkan Bakar|PC|24|348
+17908481|Goodbye Volcano High|2016/01/16|GameMill Entertainment|PC|24|348
+27908481|Goosebumps: The Game|2016/01/16|Black Forest Games|PC|24|348
+37908481|Gotham Knights|2016/01/16|Game Freak|PC|24|348
+47908481|Grab the Bottle|2016/01/16|Qute Corporation|PC|24|348
+57908481|Graceful Explosion Machine|2016/01/16|Atelier Mimina|PC|24|348
+67908481|Granblue Fantasy: Relink|2016/01/16|Bandai Namco Entertainment|PC|24|348
+77908481|Granblue Fantasy Versus|2016/01/16|Onyx Lute|PC|24|348
+87908481|Grand Ages: Medieval|2016/01/16|Onyx Lute|PC|24|348
+97908481|Grand Kingdom|2016/01/16|En House Studios|PC|24|348
+08908481|Grand Prix Rock N Racing|2016/01/16|KO_OP|PC|24|348
+18908481|Grand Theft Auto V|2016/01/16|Coffee Stain Studios|PC|24|348
+28908481|Gran Turismo Sport|2016/01/16|Bandai Namco Entertainment|PC|24|348
+38908481|Gravity Ghost: Deluxe Edition|2016/01/16|Bandai Namco Entertainment|PC|24|348
+48908481|Gravel|2016/01/16|Shift|PC|24|348
+58908481|Graveyard Keeper|2016/01/16|SCE Santa Monica Studio|PC|24|348
+68908481|Gravity Rush Remastered|2016/01/16|SIE Santa Monica Studio|PC|24|348
+78908481|Gravity Rush 2|2016/01/16|Kadokawa Games|PC|24|348
+88908481|GreedFall|2016/01/16|One More Level|PC|24|348
+98908481|Green Hell|2016/01/16|Bandai Namco Entertainment|PC|24|348
+09908481|Grid|2016/01/16|Aggro Crab Games|PC|24|348
+19908481|Gridd: Retroenhanced|2016/01/16|Storybird Studio|PC|24|348
+29908481|Grim Fandango Remastered|2016/01/16|HB Studios|PC|24|348
+39908481|Grim Legends: The Forsaken Bride|2016/01/16|HB Studios|PC|24|348
+49908481|Grim Legends 2: Song of the Dark Swan|2016/01/16|HB Studios|PC|24|348
+59908481|Grim Legends 3: The Dark City|2016/01/16|Blacklight Interactive|PC|24|348
+69908481|Grip: Combat Racing|2016/01/16|The Fullbright Company|PC|24|348
+79908481|Gris|2016/01/16|Art in Heart|PC|24|348
+89908481|Grow Home|2016/01/16|Art in Heart|PC|24|348
+99908481|Grow Up|2016/01/16|Daedalic Entertainment|PC|24|348

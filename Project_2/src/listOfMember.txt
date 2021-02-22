@@ -1,0 +1,1001 @@
+1000
+admin|adminpass|Hhlt Tdhh Tztd|koosaga@naver.com|Islands,Mariehamn|1983/12/20|S|1
+TestUser|T1234|Hmhk Twhm Krtw|dotorya@naver.com|Albania,Tirana|1987/07/04|S|9
+cki86201|9D5EC0WX|Dbec Wxvd Ecyw|cki86201@naver.com|Andorra,Andorra la Vella|1984/12/08|S|9
+portableangel|21K6T8E1T0ZXE|Hkmt Extg Xeih|portableangel@naver.com|Austria,Vienna|1978/08/16|S|9
+chogahui05|94HZ747BWB|Ahzt Nbwb Ahzt|chogahui05@sogang.ac.kr|Belarus,Minsk|1979/04/19|C|9
+jh05013|CAW38XZ|Awbw Zcaw Wxzc|jh05013@sogang.ac.kr|Belgium,Brussels|1986/08/27|C|9
+xiaowuc1|0BT19N9X|Bthp Vxqb Hpnv|xiaowuc1@gmail.com|Bosnia and Herzegovina,Sarajevo|1972/10/13|B|9
+ainta|T5G6T|Bgmt Bgmt Bgmt|ainta@naver.com|Bulgaria,Sofia|1984/11/27|S|9
+h0ngjun7|A803670D|Wgzc Gdaw Zcng|h0ngjun7@gmail.com|Croatia,Zagreb|1995/12/23|B|9
+kajebiii|77CXU5BB|Tcxu Bbdt Xubb|kajebiii@gmail.com|Czechia,Prague|1982/05/16|B|9
+jjwdi0|669W58|Cpwb Ccpw Wccp|jjwdi0@naver.com|Denmark,Copenhagen|1993/12/10|S|9
+kyo20111|DRHYWXXX|Rhyw Xxdr Ywxx|kyo20111@sogang.ac.kr|Estonia,Tallinn|1999/02/06|C|9
+cheetose|VAX16151|Axxm Lxva Xmhl|cheetose@gmail.com|Faroe Islands,Trshavn|1973/12/30|B|9
+snrnsidy|5G4G5B0R|Gkgl Wrlg Glbw|snrnsidy@daum.net|Finland,Helsinki|1982/08/01|A|9
+zych1751|219AX539|Rvax Bxsr Axdb|zych1751@gmail.com|France,Paris|1976/02/26|B|9
+14-Aug|9AT573|Atnn Xatn Zxat|14-Aug@daum.net|Germany,Berlin|1982/07/21|A|9
+subinium|5785GBNF|Nubg Nfln Bgbn|subinium@sogang.ac.kr|Gibraltar,Gibraltar|1981/10/12|C|9
+semteo04|5XF6X1W2|Xfmx Walx Mxhw|semteo04@gmail.com|Greece,Athens|1979/08/25|B|9
+kks227|7DL0YD|Dlyy Ddly Dddl|kks227@naver.com|Guernsey,Saint Peter Port|1973/04/16|S|9
+rkm0959|K79873F|Dfwf Fkdf Fbfk|rkm0959@naver.com|Hungary,Budapest|1983/07/14|S|9
+hellogaon|AX88H3T10|Xeeh Thga Eehz|hellogaon@naver.com|Iceland,Reykjavk|1971/10/23|S|9
+kesakiyo|7X5T7BR1|Xltd Rhdx Tdbr|kesakiyo@sogang.ac.kr|Ireland,Dublin|1983/06/07|C|9
+goooora|ZHH1HK7|Hhhh Tzhh Hktz|goooora@sogang.ac.kr|Isle of Man,Douglas|1977/12/22|C|9
+YunGoon|9NG11HG|Ngth Glng Hhgl|YunGoon@daum.net|Italy,Rome|1975/11/18|A|9
+jhnah917|CAGT4FX5|Agta Xdca Tafx|jhnah917@naver.com|Jersey,Saint Helier|1985/03/04|S|9
+ntopia|0M1257|Mhib Gmhi Tgmh|ntopia@gmail.com|Kosovo,Pristina|1978/10/10|B|9
+Green55|14X1GB3|Kxxg Btkx Gbbt|Green55@sogang.ac.kr|Latvia,Riga|1973/09/23|C|9
+ae04071|T182W59|Xwaw Xtxw Wdxt|ae04071@daum.net|Liechtenstein,Vaduz|1970/02/03|A|9
+scvhero|L9O41K1|Voax Hlvo Xkhl|scvhero@naver.com|Lithuania,Vilnius|1976/05/13|S|9
+pichulia|2594NEBT|Bvan Btib Aneb|pichulia@daum.net|Luxembourg,Luxembourg|1974/09/16|A|9
+citizen|95MBS1G|Bmbs Gvbm Sxgv|citizen@naver.com|Malta,Valletta|1976/05/25|S|9
+baactree|8TTV6KXX|Ttvm Xxut Vmkx|baactree@naver.com|Moldova,Chisinau|1977/05/25|S|9
+palilo|ITEB8H|Tebe Iteb Hite|palilo@naver.com|Monaco,Monaco|1976/07/27|S|9
+Juno|WN0H|Nghw Ghwn Hwng|Juno@daum.net|Montenegro,Podgorica|1972/03/07|A|9
+adh0463|7W4W241|Wawa Ztwa Aczt|adh0463@naver.com|Netherlands,Amsterdam|1989/05/29|S|9
+doju|W1CN|Hcnw Cnwh Nwhc|doju@sogang.ac.kr|North Macedonia,Skopje|1978/01/29|C|9
+alex9801|T81Q76W9|Exqf Wxte Qfew|alex9801@naver.com|Norway,Oslo|1988/10/24|S|9
+khj94811|7AC7A699|Acfa Xxda Faex|khj94811@naver.com|Poland,Warsaw|1985/06/10|S|9
+3587jjh|ZBE56C4|Bedc Azbe Ccaz|3587jjh@daum.net|Portugal,Lisbon|1986/09/09|A|9
+hyakintoss|4RTD50M1L5|Rtdb Mhll Rtdb|hyakintoss@naver.com|Romania,Bucharest|1972/09/14|S|9
+Nada|8707|Twta Wtat Tatw|Nada@gmail.com|Russia,Moscow|1988/04/03|B|9
+movie_jo|9HO51RCH|Hobx Chfh Bxrc|movie_jo@naver.com|San Marino,San Marino|1984/05/01|S|9
+shiftpsh|LA52MIL4|Abym Lala Ymil|shiftpsh@daum.net|Serbia,Belgrade|1991/07/28|A|9
+shareshate|LATKX54TMX|Atkx Atmx Atkx|shareshate@daum.net|Slovakia,Bratislava|1989/06/02|A|9
+yclock|1VEH97|Vehv Rveh Drve|yclock@gmail.com|Slovenia,Ljubljana|1984/08/29|B|9
+djm03178|WCFWZX56|Cfwz Dewc Wzxd|djm03178@gmail.com|Spain,Madrid|1971/08/25|B|9
+wowoto9772|91PH6H75D0|Hphm Fddy Hphm|wowoto9772@sogang.ac.kr|Svalbard,Longyearbyen|1981/02/11|C|9
+kjp4155|7CI2X3B|Ciax Bdci Xbbd|kjp4155@sogang.ac.kr|Sweden,Stockholm|1978/07/24|C|9
+sait2000|L7B6Y8WW|Tbmy Wwlt Myww|sait2000@gmail.com|Switzerland,Bern|1972/04/02|B|9
+rdd6584|K0WCB62|Wwcb Akww Beak|rdd6584@naver.com|Ukraine,Kiev|1984/01/03|S|9
+jwvg0425|69OZW2YB|Pozw Ybcp Zway|jwvg0425@daum.net|Anguilla,The Valley|1974/03/11|A|9
+sebinkim|51UB07B9|Xubg Bflx Bgdb|sebinkim@naver.com|Antigua and Barbuda,Saint John¡¯s|1989/01/20|S|9
+exponential_e|1QIHG1G6B7E51|Qihg Gmbt Rxxq|exponential_e@sogang.ac.kr|Argentina,Buenos Aires|1989/05/30|C|9
+yys11631|RRL9X4ZX|Rlxx Zxrr Xxcz|yys11631@gmail.com|Aruba,Oranjestad|1984/11/12|B|9
+compilers|9HFI58X4L|Hfib Xklv Fibe|compilers@sogang.ac.kr|Bahamas,Nassau|1997/03/11|C|9
+jame0313|6TF18191|Tfxw Xzct Xwzx|jame0313@sogang.ac.kr|Barbados,Bridgetown|1985/04/16|C|9
+cokcjswo|9HDV65P1|Hdvc Phvh Vclp|cokcjswo@sogang.ac.kr|Belize,Belmopan|1983/03/07|C|9
+tpdnjs94|MIW0C57A|Iwgc Fami Gclf|tpdnjs94@gmail.com|Bermuda,Hamilton|1990/09/05|B|9
+jason9319|67L10FZ9F|Tlhg Zxfc Lhgf|jason9319@gmail.com|Bolivia,Sucre|1980/02/06|B|9
+MenOfPassion|Z1G9Y0T5551G|Xgby Tllb Gzxg|MenOfPassion@gmail.com|Brazil,Braslia|1998/11/12|B|9
+kdh9949|704FFA7|Waff Fdwa Fafd|kdh9949@naver.com|British Virgin Islands,Road Town|1988/08/17|S|9
+gktgnjftm|ZDMZ0626F|Dmzg Ymfz Mzgc|gktgnjftm@gmail.com|Canada,Ottawa|1979/01/24|B|9
+thenitromefan|M410BM4H91YTG|Axgb Khfx Tgma|thenitromefan@sogang.ac.kr|Cayman Islands,George Town|1983/08/08|C|9
+lastknight00|ET5MD05Z4MW8|Tlmd Bzam Wetl|lastknight00@daum.net|Chile,Santiago|1988/10/19|A|9
+joonas|6H10TL|Hhgt Chhg Lchh|joonas@sogang.ac.kr|Colombia,Bogot|1977/01/22|C|9
+jsa3824|6L7Z602|Ltze Aclt Eyac|jsa3824@naver.com|Costa Rica,San Jos|1985/04/14|S|9
+kipa00|DBITW8|Bitw Dbit Wdbi|kipa00@sogang.ac.kr|Cuba,Havana|1992/05/28|C|9
+Lawali|67P7EB|Tpte Ytpt Bytp|Lawali@daum.net|Curacao,Willemstad|1997/10/14|A|9
+ho94949|417A72F|Hfaf Fahf Fafa|ho94949@naver.com|Dominica,Roseau|1998/04/29|S|9
+edenooo|X0X0HHH|Wxgh Hxwx Hhhx|edenooo@gmail.com|Dominican Republic,Santo Domingo|1983/02/19|B|9
+yukariko|RN7T45DH|Ndtk Dhrn Tkbd|yukariko@daum.net|Ecuador,Quito|1993/08/06|A|9
+csehydrogen|VL1A1WK1ZXG|Lxar Khzx Vlxa|csehydrogen@naver.com|El Salvador,San Salvador|1975/11/20|S|9
+qja0950|3C7873W|Ctwf Wjct Fbwj|qja0950@gmail.com|Falkland Islands,Stanley|1976/09/29|B|9
+unused|7G7510|Gnlx Ngnl Wngn|unused@daum.net|French Guiana,Cayenne|1973/02/05|A|9
+lobo_prix|8181RIK5Q|Huhr Kbqe Uhri|lobo_prix@naver.com|Greenland,Nuuk|1974/05/30|S|9
+singun11|L5G3N09X|Bgzn Xxlb Zngx|singun11@naver.com|Grenada,Saint George's|1987/06/14|S|9
+klimmek55|DE5991D33|Ebff Dbbd Bffx|klimmek55@daum.net|Guadeloupe,Basse-Terre|1999/07/17|A|9
+juseong|6N5X1GZ|Nlxh Zcnl Hgzc|juseong@naver.com|Guatemala,Guatemala City|1986/05/29|S|9
+fromis_9|2KH95557|Khfb Rfyk Fblr|fromis_9@daum.net|Guyana,Georgetown|1984/02/15|A|9
+2u_my_light|0759RREB3AM|Nrfr Ebza Ynrf|2u_my_light@naver.com|Haiti,Port-au-Prince|1980/03/09|S|9
+WeissBlume|JXB5LOE79X|Xbll Enfx Xbll|WeissBlume@naver.com|Honduras,Tegucigalpa|1984/10/07|S|9
+dtc03012|W69WZ890|Mvwz Xywm Wzwx|dtc03012@gmail.com|Jamaica,Kingston|1984/05/27|B|9
+dlwocks31|0EPHV7LZX|Ephv Lzxw Phvd|dlwocks31@sogang.ac.kr|Martinique,Fort-de-France|1997/07/07|C|9
+shmallow|LA978E1P|Afte Hpla Teeh|shmallow@naver.com|Mexico,Mexico City|1973/06/30|S|9
+sujin|L7CBG|Ncbg Ncbg Ncbg|sujin@naver.com|Montserrat,Brades|1988/05/01|S|9
+ruz|47S|Nskn Knsk Skns|ruz@daum.net|Nicaragua,Managua|1994/06/05|A|9
+solarmagic|518TK9735V|Hetk Tzbv Hetk|solarmagic@gmail.com|Panama,Panama City|1979/10/16|B|9
+orihehe|1KBAX4X|Kbax Xhkb Xaxh|orihehe@daum.net|Paraguay,Asuncin|1985/04/29|A|9
+newdeal|019017E|Xpwx Egxp Xteg|newdeal@gmail.com|Peru,Lima|1978/07/15|B|9
+tony9402|MHG1FAW0|Hgrf Wymh Rfaw|tony9402@daum.net|Puerto Rico,San Juan|1975/09/12|A|9
+myungwoo|9R7G3P11|Rngz Hhfr Gzph|myungwoo@gmail.com|Saint Barthelemy,Gustavia|1997/02/21|B|9
+tncks0121|60V7L890X|Gvdl Xyxm Vdlw|tncks0121@daum.net|Saint Kitts and Nevis,Basseterre|1986/08/20|A|9
+bupjae|U72671|Nict Unic Xuni|bupjae@gmail.com|Saint Lucia,Castries|1971/01/07|B|9
+zigui|25375|Bznb Bznb Bznb|zigui@daum.net|Saint Martin,Marigot|1976/03/28|A|9
+semteo|L196X1|Xfmx Lxfm Hlxf|semteo@daum.net|Saint Pierre and Miquelon,Saint-Pierre|1971/02/20|A|9
+kcm1700|DVFX58W|Vfxd Wdvf Dwwd|kcm1700@naver.com|Saint Vincent and the Grenadines,Kingstown|1988/06/19|S|9
+tkdgns685|M7W3GLCE3|Dwzg Cebm Wzgl|tkdgns685@daum.net|Sint Maarten,Philipsburg|1987/07/24|A|9
+cs71107|955XX8D|Ldxx Dvld Xwdv|cs71107@gmail.com|South Georgia and South Sandwich Islands,King Edward Point|1996/08/11|B|9
+tjrwodnjs999|6C491W065FFF|Ckph Gclf Fmck|tjrwodnjs999@gmail.com|Suriname,Paramaribo|1987/02/07|B|9
+exqt|XQ3M|Qjmx Jmxq Mxqj|exqt@sogang.ac.kr|Trinidad and Tobago,Port-of-Spain|1982/07/12|C|9
+happiness96|A7225GX5574|Tiib Xllf Atii|happiness96@naver.com|Turks and Caicos Islands,Cockburn Town|1990/03/04|S|9
+onjo0127|H061WX05|Gchw Ydhg Hwxy|onjo0127@daum.net|United States,"Washington, D.C."|1998/04/29|A|9
+ks9509|DL7387|Lfbw Dlfb Fdlf|ks9509@daum.net|Uruguay,Montevideo|1985/11/25|A|9
+myungum|9170ZNF|Rngz Ffrn Znff|myungum@daum.net|Venezuela,Caracas|1989/05/21|A|9
+gumgood|ZNFZHH0|Nfzh Wznf Hhwz|gumgood@sogang.ac.kr|Virgin Islands,Charlotte Amalie|1988/05/08|C|9
+Apple_Cplus|NII81RPIENL|Iiex Pien Niie|Apple_Cplus@sogang.ac.kr|Afghanistan,Kabul|1984/05/07|C|9
+lyzqm|E1SJF|Rsjf Rsjf Rsjf|lyzqm@gmail.com|Armenia,Yerevan|1988/05/15|B|9
+BaaaaaaaaaaarkingDog|6TT777TTTTTT47BGZQ1Z|Tttt Tttt Tkdb|BaaaaaaaaaaarkingDog@sogang.ac.kr|Azerbaijan,Baku|1987/06/09|C|9
+gojib2002|Z16B80WW0|Hcbu Wwyz Cbuy|gojib2002@naver.com|Bahrain,Manama|1985/02/04|S|9
+raararaara|4774T4774T|Ttkt Ttkt Ttkt|raararaara@sogang.ac.kr|Bangladesh,Dhaka|1985/05/12|C|9
+sys7961|LR5D749|Rldf Xlrl Fcxl|sys7961@naver.com|Bhutan,Thimphu|1977/06/11|S|9
+evenharder|1O1047KW14|Oxga Kwxk Oxga|evenharder@gmail.com|Brunei,Bandar Seri Begawan|1970/09/24|B|9
+jeong|C1103|Xhgz Xhgz Xhgz|jeong@gmail.com|Burma,Nay Pyi Taw|1998/08/20|B|9
+leecs0503|8X19LW3WZ|Xxvl Bwze Xvlw|leecs0503@sogang.ac.kr|Cambodia,Phnom Penh|1992/06/13|C|9
+functionx|YN0VM51G0|Ngvm Hgqy Gvmb|functionx@daum.net|China,Beijing|1999/09/19|A|9
+sunhong|LN041GZ|Ngah Zlng Hgzl|sunhong@daum.net|Cyprus,Nicosia|1978/10/20|A|9
+uk7880|ND56E8|Ddee Ndde Wndd|uk7880@gmail.com|East Timor,Dili|1989/10/17|B|9
+malkoring|FT8D1K5G3|Tedh Bgzf Edhk|malkoring@gmail.com|Georgia,Tbilisi|1973/11/10|B|9
+clrmt|V8KF6|Ekfm Ekfm Ekfm|clrmt@sogang.ac.kr|Hong Kong,Hong Kong|1986/04/23|C|9
+pch6828|2VACE06|Vace Eiva Eyei|pch6828@naver.com|India,New Delhi|1995/06/08|S|9
+san9407|L70728D|Tgfa Dltg Awdl|san9407@sogang.ac.kr|Indonesia,Jakarta|1998/01/11|C|9
+hello70825|4XEEH58E03|Xeeh Weyb Xeeh|hello70825@daum.net|Iran,Tehran|1975/12/05|A|9
+krhyunsoo|7KARNGL11|Karn Lhhd Arng|krhyunsoo@sogang.ac.kr|Iraq,Baghdad|1989/02/02|C|9
+minchae2930|FBGV4T10F18|Bgva Xyfz Fbgv|minchae2930@naver.com|Israel,Jerusalem|1982/12/20|S|9
+hyo123bin|4RHXY1UB0|Rhxy Ubga Hxyz|hyo123bin@daum.net|Japan,Tokyo|1979/06/15|A|9
+mksmk606|975F74WC|Dlfd Wcfd Fdcw|mksmk606@sogang.ac.kr|Jordan,Amman|1994/12/01|C|9
+spectaclehong|L2X9MT9E141GZ|Ixvm Vexa Gzli|spectaclehong@daum.net|Kazakhstan,Nursultan|1982/12/10|A|9
+lky7674|8DRDC5A|Drdc Aedr Cdae|lky7674@sogang.ac.kr|Kuwait,Kuwait City|1974/12/18|C|9
+anjupiter|T06NIBMX4|Gcni Mxkt Cnib|anjupiter@gmail.com|Kyrgyzstan,Bishkek|1982/09/11|B|9
+ainch96|75094FC|Bgva Ctbg Afct|ainch96@gmail.com|Laos,Vientiane|1994/04/09|B|9
+milkclouds|958D9EH7W5|Bedv Hnwl Bedv|milkclouds@sogang.ac.kr|Lebanon,Beirut|1983/12/30|C|9
+namnamseo|07FGT951H|Tfgt Lxhg Fgtf|namnamseo@naver.com|Macao,Concelho de Macau|1993/01/25|S|9
+kazel|7T2XE|Tsxe Tsxe Tsxe|kazel@gmail.com|Malaysia,Kuala Lumpur|1989/10/10|B|9
+inhau|5G477|Gatn Gatn Gatn|inhau@naver.com|Maldives,Mal|1990/05/27|S|9
+kth|DM4|Madm Dmad Adma|kth@sogang.ac.kr|Mongolia,Ulaanbaatar|1998/05/20|C|9
+ganghe74|3TGZ4X5A|Tgza Dazt Zaxd|ganghe74@gmail.com|Nepal,Kathmandu|1982/11/28|B|9
+pps789|22LD67|Ilde Iild Fiil|pps789@gmail.com|North Korea,Pyongyang|1992/10/08|B|9
+njchung99|0CVANG3FF|Cvan Zffg Vang|njchung99@sogang.ac.kr|Oman,Muscat|1981/10/11|C|9
+dofwk1526|W1YP79B04|Hypd Bycw Ypdx|dofwk1526@gmail.com|Pakistan,Islamabad|1988/08/16|B|9
+cgiosy|V3BH51|Zbhl Vzbh Rvzb|cgiosy@sogang.ac.kr|Palestine,Ramallah|1998/11/11|C|9
+Acka|59D7|Vdtn Dtnv Tnvd|Acka@gmail.com|Philippines,Manila|1994/11/01|B|9
+wlxyzlw|P8012E9|Eqrs Ppeq Sepp|wlxyzlw@gmail.com|Qatar,Doha|1989/01/14|B|9
+lakshimi|877LABF5|Tdla Fbet Labf|lakshimi@gmail.com|Saudi Arabia,Riyadh|1978/01/27|B|9
+choiking10|VAHB7BGZ9W|Ahbd Gzxw Ahbd|choiking10@naver.com|Singapore,Singapore|1983/05/12|S|9
+kdr06006|DWK8C884|Wkwc Wcdw Wcww|kdr06006@daum.net|South Korea,Seoul|1999/04/19|A|9
+ik_e|575X|Drxb Rxbd Xbdr|ik_e@daum.net|Sri Lanka,Colombo|1978/01/17|A|9
+sslktong|5L87MHG3|Ledm Gzll Dmhg|sslktong@naver.com|Syria,Damascus|1982/07/23|S|9
+njw1204|GC9908A|Cpxy Agcp Ywag|njw1204@daum.net|Taiwan,Taipei|1991/11/10|A|9
+ploffer11|IEHY2XKX9|Ehyy Kxxi Hyyx|ploffer11@sogang.ac.kr|Tajikistan,Dushanbe|1976/01/13|C|9
+usj0119|NLCWXX7|Lcwx Fnlc Xxfn|usj0119@naver.com|Thailand,Bangkok|1991/10/29|S|9
+imeimi2000|B91BFB0W88|Fxbf Ywww Fxbf|imeimi2000@daum.net|Turkey,Ankara|1981/09/16|A|9
+riew610|KB1P49W|Bxpc Wkbx Cxwk|riew610@sogang.ac.kr|Turkmenistan,Ashgabat|1989/11/14|C|9
+qwe123rt45|3PXX01462B|Pxxy Kmab Pxxy|qwe123rt45@gmail.com|United Arab Emirates,Abu Dhabi|1976/10/03|B|9
+gratus907|34T6NL785|Ktmn Fwdz Tmnl|gratus907@sogang.ac.kr|Uzbekistan,Tashkent|1973/09/28|C|9
+iljimae|B865FTX|Ecbf Xbec Ftxb|iljimae@sogang.ac.kr|Vietnam,Hanoi|1992/07/24|C|9
+dlftls38|W8YM85Z6|Eyme Zewe Melz|dlftls38@naver.com|Yemen,Sanaa|1977/01/17|S|9
+201023777|Y89WYZD5D|Wxwy Dddy Xwyz|201023777@sogang.ac.kr|Algeria,Algiers|1980/07/23|C|9
+sbjwin|L8C950|Ucpb Lucp Gluc|sbjwin@daum.net|Angola,Luanda|1985/05/09|A|9
+zagabi|27378B|Tztu Stzt Bstz|zagabi@naver.com|Benin,Porto-Novo|1987/11/19|S|9
+kimhunsu96|D59470LN7C|Bfan Lnfc Bfan|kimhunsu96@daum.net|Botswana,Gaborone|1991/03/11|A|9
+sm970124|LF75WXYA|Ffdw Yalf Dwxy|sm970124@sogang.ac.kr|Burkina Faso,Ouagadougou|1993/10/12|C|9
+ggj06281|ZZ684YE9|Zcwc Exzz Wcye|ggj06281@naver.com|Burundi,Bujumbura|1986/06/08|S|9
+ekwoo|1DP11|Dphh Dphh Dphh|ekwoo@sogang.ac.kr|Cameroon,Yaound|1997/08/09|C|9
+y305205|1Z83YW3|Zwby Brzw Ywbr|y305205@gmail.com|Cape Verde,Praia|1984/03/19|B|9
+henry1214|A1GKRX0XA|Xgkr Yxaa Gkrx|henry1214@gmail.com|Central African Republic,Bangui|1983/05/11|B|9
+dwax1324|WP70X10A|Ptqx Yawp Qxzy|dwax1324@sogang.ac.kr|Chad,N'Djamena|1988/08/21|C|9
+bakpark|87DITK7|Tdit Dutd Tkdu|bakpark@naver.com|Comoros,Moroni|1995/04/21|S|9
+sky1357|5DR9Z35|Drxz Dldr Zbdl|sky1357@gmail.com|Democratic Republic of the Congo,Kinshasa|1990/08/04|B|9
+lety|816R|Xmre Mrex Rexm|lety@daum.net|Djibouti,Djibouti|1972/05/11|A|9
+wjdtmdrbs88|P6WM904UL6E|Cwmf Kule Pcwm|wjdtmdrbs88@sogang.ac.kr|Egypt,Cairo|1999/04/02|C|9
+khsoo01|7ALHH8X|Alhh Xdal Hwxd|khsoo01@sogang.ac.kr|Equatorial Guinea,Malabo|1994/06/19|C|9
+dogdriip|0H3045BI|Hzwk Biwh Wkbb|dogdriip@daum.net|Eritrea,Asmara|1991/01/05|A|9
+gunwookim|Z709HHD5F|Ngph Dbfz Gphh|gunwookim@sogang.ac.kr|Ethiopia,Addis Ababa|1979/03/13|C|9
+fbdp1202|2802X080|Uwix Wyyu Ixyw|fbdp1202@naver.com|Gabon,Libreville|1972/04/16|S|9
+jaehoo1|CTX4H19|Txah Xctx Hhxc|jaehoo1@sogang.ac.kr|Gambia,Banjul|1989/12/06|C|9
+wkd48632|9D0AEC10|Dwae Zypd Aecz|wkd48632@naver.com|Ghana,Accra|1975/01/07|S|9
+petil777|21M5E555|Xmbe Ddix Bedd|petil777@gmail.com|Guinea,Conakry|1983/02/26|B|9
+dlwodnsdl|WE9100L08|Ephw Lwew Phwg|dlwodnsdl@daum.net|Guinea-Bissau,Bissau|1983/08/12|A|9
+hyunynim|ARNGRG5F|Rngr Bfar Grgb|hyunynim@gmail.com|Ivory Coast,Yamoussoukro|1977/10/20|B|9
+kookmin20103324|71HDFBG08X811YA|Hhdf Gywx Zzya|kookmin20103324@daum.net|Kenya,Nairobi|1981/08/24|A|9
+eaststar|X7L6LM7K|Tlml Tkxt Mlmt|eaststar@sogang.ac.kr|Lesotho,Maseru|1979/12/09|C|9
+p_0|258|Rwir Irwi Wirw|p_0@gmail.com|Liberia,Monrovia|1992/09/05|B|9
+drwolf1999|04P1EY9777|Kphe Xfff Kphe|drwolf1999@naver.com|Libya,Tripoli|1971/08/30|S|9
+sw6448|5PCA2E|Pcaa Lpca Elpc|sw6448@naver.com|Madagascar,Antananarivo|1989/06/17|S|9
+luckydyu|87V710R7|Nvdr Rnen Drwr|luckydyu@gmail.com|Malawi,Lilongwe|1980/03/26|B|9
+isku|5L7N|Ldnb Dnbl Nbld|isku@sogang.ac.kr|Mali,Bamako|1977/09/12|C|9
+upple1|NII8X9|Iiex Niie Xnii|upple1@gmail.com|Mauritania,Nouakchott|1981/12/28|B|9
+vjerksen|OC14751G|Cxkd Xgoc Kdlx|vjerksen@sogang.ac.kr|Mauritius,Port Louis|1989/04/13|C|9
+jooncco|6110991|Hhgv Hchh Vvhc|jooncco@daum.net|Mayotte,Mamoudzou|1980/02/12|A|9
+waylight3|97R8B3A61|Treb Amzp Rebz|waylight3@sogang.ac.kr|Morocco,Rabat|1984/11/05|C|9
+cprayer|9I4T1XK|Iktr Kvik Rxkv|cprayer@daum.net|Mozambique,Maputo|1994/02/24|A|9
+ckdgus2482|VDW3N502E0|Dwzn Yaey Dwzn|ckdgus2482@sogang.ac.kr|Namibia,Windhoek|1985/04/08|C|9
+denniskim|0XG05L7BF|Xggb Dbfw Ggbl|denniskim@sogang.ac.kr|Niger,Niamey|1982/05/18|C|9
+TAMREF|4N7ER0|Nzer Gnze Sgnz|TAMREF@sogang.ac.kr|Nigeria,Abuja|1990/02/29|C|9
+runnie0427|KN005X8A05|Nggb Wayd Nggb|runnie0427@naver.com|Republic of the Congo,Brazzaville|1988/09/29|S|9
+f52985|Y30763|Byfe Ybyf Byby|f52985@naver.com|Reunion,Saint-Denis|1989/01/01|S|9
+bongssi|81GZL5B|Hgzl Buhg Llbu|bongssi@sogang.ac.kr|Rwanda,Kigali|1997/11/06|C|9
+yongjun18|1H0ZCN0X6|Hgzc Gxer Gzcn|yongjun18@sogang.ac.kr|Sao Tome and Principe,So Tom|1997/01/11|C|9
+wjdclgns12|9609EZGL9Y|Cwve Glxy Cwve|wjdclgns12@daum.net|Senegal,Dakar|1977/10/21|A|9
+sogangcse|51Z7G3V5X|Hztg Vlxl Ztgz|sogangcse@daum.net|Seychelles,Victoria|1992/10/21|A|9
+holenet|41E1G16|Hexg Mahe Gxma|holenet@naver.com|Sierra Leone,Freetown|1982/02/21|S|9
+ehdrmsl2001|14W49LE08W9|Awkf Eyww Xawk|ehdrmsl2001@gmail.com|Somalia,Mogadishu|1976/08/14|B|9
+skcom|5DVHF|Dvhf Dvhf Dvhf|skcom@naver.com|South Africa,Pretoria|1977/01/04|S|9
+jung2381187|6N03YZEXXED|Ngzy Exxe Cngz|jung2381187@daum.net|South Sudan,Juba|1978/10/17|A|9
+chiller123|94BE8X4X0Z|Abee Kxyz Abee|chiller123@sogang.ac.kr|Sudan,Khartoum|1988/05/23|C|9
+degurii|0XZN4B5|Xznk Bwxz Kbbw|degurii@sogang.ac.kr|Swaziland,Mbabane|1998/04/23|C|9
+malratz|F7847MS|Tekt Sfte Tmsf|malratz@daum.net|Tanzania,Dodoma|1985/04/19|A|9
+kkw564|7D9B4A|Dpbc Ddpb Addp|kkw564@sogang.ac.kr|Togo,Lom|1978/09/16|C|9
+jihoon|CBAHHG|Bahh Cbah Gcba|jihoon@naver.com|Tunisia,Tunis|1993/01/21|S|9
+scw1130|LV9X9Z8|Vpxx Wlvp Xzwl|scw1130@naver.com|Uganda,Kampala|1993/02/18|S|9
+puzzledpublic|2N22EX02788B9|Nsse Winu Bvin|puzzledpublic@naver.com|Western Sahara,El Aain|1997/02/02|S|9
+imsehwan|5F5X4PT0|Flxa Tgbf Xapt|imsehwan@gmail.com|Zambia,Lusaka|1983/02/15|B|9
+game2k|ZTFXYD|Tfxy Ztfx Dztf|game2k@gmail.com|Zimbabwe,Harare|1999/03/15|B|9
+poketred12|2H7XM41W90|Hdxm Xwxy Hdxm|poketred12@gmail.com|Islands,Mariehamn|1983/10/16|B|9
+algoshipda|TE3HLABIWT|Ezhl Biwt Ezhl|algoshipda@sogang.ac.kr|Albania,Tirana|1977/12/23|C|9
+kalmiaa|DTEF57T|Tefb Tdte Bttd|kalmiaa@daum.net|Andorra,Andorra la Vella|1986/09/11|A|9
+kohandy|D1ATGW1|Hatg Rdha Gwrd|kohandy@gmail.com|Austria,Vienna|1973/12/30|B|9
+baekjoon|UT17CH1G|Txdc Hgut Dchh|baekjoon@naver.com|Belarus,Minsk|1992/08/15|S|9
+jmkk27|CFDDY5|Fddy Cfdd Dcfd|jmkk27@gmail.com|Belgium,Brussels|1977/11/19|B|9
+windflower|PB0W2EH9XK|Bgwy Hpxk Bgwy|windflower@gmail.com|Bosnia and Herzegovina,Sarajevo|1988/08/17|B|9
+devbelly|WX8U188R|Xoux Erwx Uxee|devbelly@sogang.ac.kr|Bulgaria,Sofia|1991/02/22|C|9
+busyhuman|8NL1AN97G|Nlra Ftgu Lran|busyhuman@daum.net|Croatia,Zagreb|1994/02/14|A|9
+choyi0521|VA115W309|Ahrb Byxv Hrbw|choyi0521@naver.com|Czechia,Prague|1990/01/22|S|9
+grands|ZK700L|Ktgw Zktg Lzkt|grands@daum.net|Denmark,Copenhagen|1997/04/08|A|9
+putdata|2NMW7MT|Nmwt Tinm Tmti|putdata@daum.net|Estonia,Tallinn|1988/08/22|A|9
+jh20s|C4YW5|Aywl Aywl Aywl|jh20s@sogang.ac.kr|Faroe Islands,Trshavn|1985/10/21|C|9
+zxcvber|20988X4|Qvou Ksqv Uxks|zxcvber@gmail.com|Finland,Helsinki|1990/07/19|B|9
+hihihi|ABAB45|Baba Abab Baba|hihihi@sogang.ac.kr|France,Paris|1974/05/30|C|9
+hahaha|A7A74T|Tata Atat Tata|hahaha@daum.net|Germany,Berlin|1991/06/15|A|9
+rubix|4N85Q|Nubq Nubq Nubq|rubix@naver.com|Gibraltar,Gibraltar|1997/08/19|S|9
+dlfgh159|WEYZA937|Eyza Bfwe Zaxb|dlfgh159@sogang.ac.kr|Greece,Athens|1982/08/19|C|9
+huisleee|AN55E111|Nble Xxan Lexx|huisleee@gmail.com|Guernsey,Saint Peter Port|1986/07/27|B|9
+dw1028|0998YE|Pxwy Wpxw Ewpx|dw1028@gmail.com|Hungary,Budapest|1998/01/26|B|9
+iknoom1107|BD01HFX9WD|Dghh Xxwd Dghh|iknoom1107@gmail.com|Iceland,Reykjavk|1976/01/15|B|9
+cea|VX7|Xtvx Vxtv Tvxt|cea@gmail.com|Ireland,Dublin|1986/10/16|B|9
+flflds0811|282E05W69X|Eyew Wexx Eyew|flflds0811@sogang.ac.kr|Isle of Man,Douglas|1997/03/19|C|9
+pjh9996|264777C|Caff Cica Ffci|pjh9996@gmail.com|Italy,Rome|1988/03/04|B|9
+seojeongwook2|51H6X103PH1DY|Xhcx Gzph Dylx|seojeongwook2@sogang.ac.kr|Jersey,Saint Helier|1994/12/04|C|9
+bsyun0571|U5170W35X|Lrng Bdxu Rngw|bsyun0571@naver.com|Kosovo,Pristina|1976/07/12|S|9
+sgc109|5ZV9WF|Zvxw Lzvx Flzv|sgc109@sogang.ac.kr|Latvia,Riga|1977/07/24|C|9
+rlaeogh89|4ET11ZAE7|Etxh Aefk Txhz|rlaeogh89@naver.com|Liechtenstein,Vaduz|1975/07/15|S|9
+worn1215|9H40X0XB|Hkgx Xbph Gxyx|worn1215@naver.com|Lithuania,Vilnius|1970/12/01|S|9
+chan4928|V470A70E|Atga Yeva Gafy|chan4928@daum.net|Luxembourg,Luxembourg|1976/01/22|A|9
+kyeongyong1|DRX103RHGZ9|Rxhg Rhgz Drxh|kyeongyong1@daum.net|Malta,Valletta|1970/08/19|A|9
+yu0524|R78BYA|Nwby Rnwb Arnw|yu0524@daum.net|Moldova,Chisinau|1988/08/13|A|9
+seuha516|L17A739C|Xnat Xclx Atbx|seuha516@naver.com|Monaco,Monaco|1974/07/08|S|9
+chungma900|9ANGZF77WW|Angz Tfww Angz|chungma900@naver.com|Montenegro,Podgorica|1986/08/09|S|9
+thak00|6477WW|Atdw Matd Wmat|thak00@daum.net|Netherlands,Amsterdam|1991/01/29|A|9
+hjbang|468TG3|Cutg Acut Zacu|hjbang@gmail.com|North Macedonia,Skopje|1977/02/28|B|9
+koko514|7HD13X2|Hdhb Adhd Bxad|koko514@gmail.com|Norway,Oslo|1980/04/24|B|9
+wookje|PH17C1|Hhdc Phhd Xphh|wookje@sogang.ac.kr|Poland,Warsaw|1995/05/13|C|9
+gallopsys|37EE1I5R5|Teeh Lrlz Eehi|gallopsys@gmail.com|Portugal,Lisbon|1993/03/04|B|9
+minjun623|F50C70CYZ|Bgcn Cyzf Gcng|minjun623@sogang.ac.kr|Romania,Bucharest|1985/04/19|C|9
+ksh021144|7L48YXXAA|Lawy Xaad Awyx|ksh021144@naver.com|Russia,Moscow|1987/08/22|S|9
+purelipss|I7KX8BIL5|Nkxe Illi Kxeb|purelipss@naver.com|San Marino,San Marino|1987/03/19|S|9
+hansc0320|AT0LV81YW|Tglv Zywa Glvw|hansc0320@daum.net|Serbia,Belgrade|1976/07/14|A|9
+ksj614|7L6CXA|Lccx Dlcc Adlc|ksj614@sogang.ac.kr|Slovakia,Bratislava|1981/07/19|C|9
+yooshnn|1HHL40G|Hhla Grhh Aggr|yooshnn@naver.com|Slovenia,Ljubljana|1975/11/10|S|9
+Kdogs|5W1Z5|Whzl Whzl Whzl|Kdogs@daum.net|Spain,Madrid|1975/10/08|A|9
+klight1994|78BZ46977A|Ebza Xffa Ebza|klight1994@gmail.com|Svalbard,Longyearbyen|1995/09/06|B|9
+kimjihoon|DBFC5A110|Bfcb Hhgd Fcba|kimjihoon@sogang.ac.kr|Sweden,Stockholm|1978/03/13|C|9
+Coxie|P1Q5X|Hqbx Hqbx Hqbx|Coxie@naver.com|Switzerland,Bern|1986/05/17|S|9
+dlstj0923|W8566W7YZ|Elmc Fyzw Lmcw|dlstj0923@naver.com|Ukraine,Kiev|1994/12/12|S|9
+okt1995|1DM97F3|Dmxf Bhdm Ffbh|okt1995@naver.com|Anguilla,The Valley|1998/07/05|S|9
+wjsqjawns|96LJC79G5|Cljc Pglp Ljct|wjsqjawns@naver.com|Antigua and Barbuda,Saint John¡¯s|1998/03/01|S|9
+dreammusic23|0KX79F7LBV0Z|Kxtf Nlbv Zwkx|dreammusic23@gmail.com|Argentina,Buenos Aires|1998/08/26|B|9
+tpwls1213|62PE5X0XZ|Ipel Yxzm Pelx|tpwls1213@daum.net|Aruba,Oranjestad|1990/04/11|A|9
+Diuven|8B78X0|Bnox Qbno Gqbn|Diuven@naver.com|Bahamas,Nassau|1999/08/07|S|9
+heiler|41BEX4|Xbex Axbe Kaxb|heiler@gmail.com|Barbados,Bridgetown|1996/10/15|B|9
+noru0114|GHK7WXXA|Hknw Xagh Nwxx|noru0114@sogang.ac.kr|Belize,Belmopan|1987/04/08|C|9
+crasy111|VKT51999|Ktlr Xxvk Lrxx|crasy111@daum.net|Bermuda,Hamilton|1981/02/22|A|9
+mantissa|9T0MB5L7|Tgmb Ltft Mbll|mantissa@gmail.com|Bolivia,Sucre|1982/02/18|B|9
+qwebnm7788|JPXU09DDE6|Pxug Ddee Pxug|qwebnm7788@daum.net|Brazil,Braslia|1998/06/01|A|9
+luke0201|E77XW089|Ndxw Wxen Xwyw|luke0201@daum.net|British Virgin Islands,Road Town|1989/07/22|A|9
+shjgkwo|L46ZD91|Aczd Hlac Dphl|shjgkwo@daum.net|Canada,Ottawa|1988/12/23|A|9
+nlkey2022|G871RY800|Edxr Wyyg Dxry|nlkey2022@gmail.com|Cayman Islands,George Town|1973/12/13|B|9
+kimchist|7BFVAB56|Bfva Lmdb Vabl|kimchist@gmail.com|Chile,Santiago|1996/07/17|B|9
+zvxc222|28QV0Y0|Oqvy Ysoq Yyys|zvxc222@gmail.com|Colombia,Bogot|1976/09/01|B|9
+kimsy96|759L1FC|Bflr Cdbf Rfcd|kimsy96@gmail.com|Costa Rica,San Jos|1999/01/22|B|9
+young920503|11NG3FY838Z|Hngz Ywbw Rhng|young920503@sogang.ac.kr|Cuba,Havana|1973/05/19|C|9
+junie|C7051|Ngbx Ngbx Ngbx|junie@naver.com|Curacao,Willemstad|1976/01/15|S|9
+ljk0411jg|E6DWA9X63|Cdwa Xcze Dwax|ljk0411jg@daum.net|Dominica,Roseau|1985/11/20|A|9
+oldos|H8WH5|Ewhl Ewhl Ewhl|oldos@daum.net|Dominican Republic,Santo Domingo|1994/03/24|A|9
+jaydoubluel|CTRW17U8NXE|Trwh Uenx Ctrw|jaydoubluel@gmail.com|Ecuador,Quito|1976/12/08|B|9
+rlatkddn212|4ETMD000Y9Y|Etmd Wgyx Ketm|rlatkddn212@sogang.ac.kr|El Salvador,San Salvador|1971/04/18|C|9
+mwy3055|F9RZ8B3|Przw Bfpr Wbbf|mwy3055@sogang.ac.kr|Falkland Islands,Stanley|1992/07/29|C|9
+waninoko|P70BGH7H|Tgbg Dhpt Bghd|waninoko@sogang.ac.kr|French Guiana,Cayenne|1980/03/28|C|9
+79brue|D78K71|Fukn Dfuk Xdfu|79brue@sogang.ac.kr|Greenland,Nuuk|1982/06/04|C|9
+lekonell|8X71G1EE|Xdhg Eeex Hgxe|lekonell@gmail.com|Grenada,Saint George's|1981/01/16|B|9
+bone|81G1|Hgxu Gxuh Xuhg|bone@daum.net|Guadeloupe,Basse-Terre|1983/05/28|A|9
+juchan1220|CNV4T0X008|Nvat Xyyw Nvat|juchan1220@naver.com|Guatemala,Guatemala City|1975/08/11|S|9
+woong10sae|9HHGZ9WL71|Hhgz Wltx Hhgz|woong10sae@daum.net|Guyana,Georgetown|1979/10/11|A|9
+chsun0303|94570WZ81|Alng Zwzv Lngw|chsun0303@naver.com|Haiti,Port-au-Prince|1970/01/16|S|9
+lycka|819D7|Rvdt Rvdt Rvdt|lycka@sogang.ac.kr|Honduras,Tegucigalpa|1970/01/28|C|9
+hibye1217|A5URX9YX5|Burx Yxda Urxx|hibye1217@naver.com|Jamaica,Kingston|1984/03/06|S|9
+convert7342|VHG8XKMDZ2Y|Hgox Mdza Vhgo|convert7342@sogang.ac.kr|Martinique,Fort-de-France|1992/11/15|C|9
+chris2tg|94KB5063|Akbl Mzva Blym|chris2tg@gmail.com|Mexico,Mexico City|1979/01/20|B|9
+david9224|0T8B070YA|Tobw Yyaw Obwf|david9224@gmail.com|Montserrat,Brades|1992/11/14|B|9
+yhytoto12|R416HMH90|Armh Hxyr Rmhm|yhytoto12@sogang.ac.kr|Nicaragua,Managua|1987/08/30|C|9
+gomyk12|3191DX0|Hfrd Yzhf Dxyz|gomyk12@naver.com|Panama,Panama City|1983/11/19|S|9
+edecudo|1WXVN01|Wxvn Hxwx Nwhx|edecudo@sogang.ac.kr|Paraguay,Asuncin|1989/11/06|C|9
+wnsqlehlswk|PGL381A8LPD|Glje Aelp Pglj|wnsqlehlswk@sogang.ac.kr|Peru,Lima|1995/09/11|C|9
+chatterboy|V4TMMXKUH1|Atmm Kuhr Atmm|chatterboy@sogang.ac.kr|Puerto Rico,San Juan|1979/02/20|C|9
+se93wo|LX71PH|Xfzp Lxfz Hlxf|se93wo@gmail.com|Saint Barthelemy,Gustavia|1991/08/09|B|9
+18sht1710|9E5AM9DXW|Elam Dxwx Lamx|18sht1710@gmail.com|Saint Kitts and Nevis,Basseterre|1995/07/27|B|9
+stonejjun03|5MH0XCCNG8Z|Mhgx Cngw Lmhg|stonejjun03@gmail.com|Saint Lucia,Castries|1978/09/05|B|9
+smu201111192|L97YWX9X9X7Y|Fnyw Xxxx Ylfn|smu201111192@gmail.com|Saint Martin,Marigot|1991/07/20|B|9
+jaimemin|6TBFX9B0|Tbfx Bgct Fxfb|jaimemin@sogang.ac.kr|Saint Pierre and Miquelon,Saint-Pierre|1992/04/26|C|9
+topology|6HIH813R|Hihe Zrmh Hehz|topology@daum.net|Saint Vincent and the Grenadines,Kingstown|1975/06/28|A|9
+gs15120|3LXB9Y8|Lxbx Wzlx Xywz|gs15120@naver.com|Sint Maarten,Philipsburg|1986/08/01|S|9
+steeveelee2|5M1181X8110|Mxxo Xexx Lmxx|steeveelee2@daum.net|South Georgia and South Sandwich Islands,King Edward Point|1981/02/20|A|9
+sean9892|5XT0FEF0|Xtgf Fylx Gfef|sean9892@gmail.com|Suriname,Paramaribo|1972/12/30|B|9
+hakgb11|47D389X|Tdzu Xatd Uxxa|hakgb11@naver.com|Trinidad and Tobago,Port-of-Spain|1970/03/09|S|9
+hithere314|45MAX411XA|Bmax Xzxa Bmax|hithere314@daum.net|Turks and Caicos Islands,Cockburn Town|1973/05/07|A|9
+sbrus_1213|5UKNL590X1|Uknl Xyxz Uknl|sbrus_1213@sogang.ac.kr|United States,"Washington, D.C."|1983/01/10|C|9
+tongnamuu|MHGZ0TF7N|Hgzg Fnnm Gzgt|tongnamuu@sogang.ac.kr|Uruguay,Montevideo|1990/12/08|C|9
+james66won|6T9XLCCP1G|Tfxl Cphg Tfxl|james66won@sogang.ac.kr|Venezuela,Caracas|1980/03/18|C|9
+tjdwo5313|M6WPHBZ91|Cwph Zxzm Wphb|tjdwo5313@gmail.com|Virgin Islands,Charlotte Amalie|1983/09/28|B|9
+tinyfrog|M5G12KHZ|Bgry Hzmb Rykh|tinyfrog@sogang.ac.kr|Afghanistan,Kabul|1976/07/30|C|9
+lovinix|8H8B0B0|Hobg Qeho Gbqe|lovinix@sogang.ac.kr|Armenia,Yerevan|1997/12/27|C|9
+lsn1106|E5GXX8C|Lgxx Celg Xwce|lsn1106@sogang.ac.kr|Azerbaijan,Baku|1970/02/11|C|9
+blutics|8876B95|Enmb Luen Bvlu|blutics@gmail.com|Bahrain,Manama|1988/03/16|B|9
+sjsjsj1246|5CLCLCX024|Clcl Xyac Clcl|sjsjsj1246@daum.net|Bangladesh,Dhaka|1991/08/17|A|9
+man_of_learning|F70RH2581TKGBGZ|Tgrh Rext Gbgz|man_of_learning@naver.com|Bhutan,Thimphu|1985/02/04|S|9
+tg314|63ZXA|Zzxa Zzxa Zzxa|tg314@daum.net|Brunei,Bandar Seri Begawan|1972/03/30|A|9
+sky0331|5DRW11X|Drwz Xldr Zzxl|sky0331@gmail.com|Burma,Nay Pyi Taw|1996/11/07|B|9
+cozyyg|912113|Hsrr Vhsr Zvhs|cozyyg@gmail.com|Cambodia,Phnom Penh|1991/08/25|B|9
+xowns9418|Q1PG57AXE|Hpgl Axeq Pglf|xowns9418@gmail.com|China,Beijing|1999/05/09|B|9
+skdudn321|57W700Z0X|Dwnw Zyxl Wnwg|skdudn321@naver.com|Cyprus,Nicosia|1994/12/25|S|9
+prarie|I474BX|Ktkb Iktk Xikt|prarie@sogang.ac.kr|East Timor,Dili|1988/02/22|C|9
+hongjg3229|A10Z63Z0YF|Hgzc Zyyf Hgzc|hongjg3229@daum.net|Georgia,Tbilisi|1971/08/22|A|9
+twinparadox|69BGIT47W10|Pbgi Ktwh Mpbg|twinparadox@gmail.com|Hong Kong,Hong Kong|1991/01/02|B|9
+ohtuna|H467G7|Amng Hamn Tham|ohtuna@daum.net|India,New Delhi|1993/08/29|A|9
+tlsrudejr123|6E54NWXC4X01|Elkn Xckx Zmel|tlsrudejr123@gmail.com|Indonesia,Jakarta|1993/01/01|B|9
+didwlvv|WBWP8O8|Bwpe Owbw Eoow|didwlvv@sogang.ac.kr|Iran,Tehran|1979/11/07|C|9
+onnoo|10G1H|Gghh Gghh Gghh|onnoo@daum.net|Iraq,Baghdad|1972/05/23|A|9
+whdgurclzls|P403NKVES85|Awzn Vese Pawz|whdgurclzls@daum.net|Israel,Jerusalem|1982/03/22|A|9
+yuseok89|17L1HDEF|Nlxh Efrn Xhde|yuseok89@daum.net|Japan,Tokyo|1971/03/07|A|9
+silvercube|55EOX4VNU1|Beox Vnux Beox|silvercube@gmail.com|Jordan,Amman|1970/05/22|B|9
+tlwpdus|ME920N5|Epiw Lmep Wnlm|tlwpdus@sogang.ac.kr|Kazakhstan,Nursultan|1990/08/02|C|9
+veydpz|OXR022|Xrwi Oxrw Soxr|veydpz@sogang.ac.kr|Kuwait,Kuwait City|1988/05/16|C|9
+ansemddl97|T0L1FWW8F5|Glxf Wefd Glxf|ansemddl97@naver.com|Kyrgyzstan,Bishkek|1982/01/29|S|9
+0917jong|W79DCHGZ|Fxdc Gzwf Dchg|0917jong@sogang.ac.kr|Laos,Vientiane|1973/10/12|C|9
+greenblatt|3KX1GU8TMM|Kxxg Etmm Kxxg|greenblatt@daum.net|Lebanon,Beirut|1971/04/23|A|9
+jthis|6M455|Mabl Mabl Mabl|jthis@naver.com|Macao,Concelho de Macau|1978/02/04|S|9
+so4644009|LH242A887|Haca Wwfl Acaa|so4644009@naver.com|Malaysia,Kuala Lumpur|1981/12/27|S|9
+qkrclrl701|J74VE4E5WX|Dkve Edwx Dkve|qkrclrl701@daum.net|Maldives,Mal|1981/09/28|A|9
+peter1201|IXM1490W9|Xmxk Ywxi Mxkx|peter1201@sogang.ac.kr|Mongolia,Ulaanbaatar|1976/07/26|C|9
+wyldecat|PR801VTM|Rewx Tmpr Wxvt|wyldecat@sogang.ac.kr|Nepal,Kathmandu|1982/08/04|C|9
+dj910401|WCF9W289|Cfxw Wxwc Xwaw|dj910401@gmail.com|North Korea,Pyongyang|1990/08/22|B|9
+foryou1006ll|YHKRH79W84EE|Hkrh Xwwc Eyhk|foryou1006ll@sogang.ac.kr|Oman,Muscat|1985/02/07|C|9
+sgchoi5|L3V41B3|Zvah Blzv Hbbl|sgchoi5@naver.com|Pakistan,Islamabad|1971/08/07|S|9
+dranger97|WK7G3X4FD|Ktgz Kfdw Tgzx|dranger97@sogang.ac.kr|Palestine,Ramallah|1991/06/21|C|9
+sean617|5XTG49D|Xtgc Dlxt Cxdl|sean617@daum.net|Philippines,Manila|1974/08/20|A|9
+kjh9267|7C4FY4D|Cafy Ddca Ycdd|kjh9267@naver.com|Qatar,Doha|1988/11/05|S|9
+hsu2016|A57Y8X4|Lnyw Caln Wxca|hsu2016@naver.com|Saudi Arabia,Riyadh|1998/03/30|S|9
+sochun1518|5H94NG9B9E|Hvan Xbxe Hvan|sochun1518@daum.net|Singapore,Singapore|1995/05/26|A|9
+comseung18|91F51N0ZX6|Hflx Gzxe Hflx|comseung18@daum.net|South Korea,Seoul|1992/04/10|A|9
+brcps12|UK92LXY|Kvil Yukv Lxyu|brcps12@gmail.com|Sri Lanka,Colombo|1993/10/12|B|9
+jongwook123|C1039HHDXYZ|Hgzp Hdxy Chgz|jongwook123@sogang.ac.kr|Syria,Damascus|1992/03/13|C|9
+songuno1|L10370HX|Hgzn Hxlh Zngh|songuno1@daum.net|Taiwan,Taipei|1995/08/07|A|9
+applebuddy|T22EX87W01|Iiex Nwwr Iiex|applebuddy@daum.net|Tajikistan,Dushanbe|1985/06/11|A|9
+gjdms611|ZCW9L4X9|Cwfl Xxzc Flcx|gjdms611@gmail.com|Thailand,Bangkok|1980/01/13|B|9
+skynet|L71GX6|Drgx Ldrg Mldr|skynet@sogang.ac.kr|Turkey,Ankara|1990/06/01|C|9
+gydbslove|3RW85EHO1|Rwul Hoxz Wule|gydbslove@gmail.com|Turkmenistan,Ashgabat|1983/11/10|B|9
+plzrun|IE24NG|Eskn Iesk Gies|plzrun@sogang.ac.kr|United Arab Emirates,Abu Dhabi|1995/06/17|C|9
+lll4592|EEE23FY|Eeab Yeee Bfye|lll4592@sogang.ac.kr|Uzbekistan,Tashkent|1991/05/30|C|9
+scared22|LVT410YY|Vtkx Yylv Kxwy|scared22@sogang.ac.kr|Vietnam,Hanoi|1986/10/17|C|9
+annaria|TG07K57|Ggtk Ttgg Kbtt|annaria@sogang.ac.kr|Yemen,Sanaa|1999/12/12|C|9
+ehddml3|1AWWF8Z|Awwf Zxaw Fezx|ehddml3@naver.com|Algeria,Algiers|1989/07/11|S|9
+wxogus25|P0137LY3|Qhzn Ybpq Znly|wxogus25@sogang.ac.kr|Angola,Luanda|1994/11/27|C|9
+cake_monotone|VT7159HGH61GX|Tdxr Hghm Gxvt|cake_monotone@gmail.com|Benin,Porto-Novo|1988/09/26|B|9
+he1fire|419YB41|Xxyb Xaxx Bkxa|he1fire@daum.net|Botswana,Gaborone|1977/12/06|A|9
+powerkim417|IH914DBFAX5|Hpxk Bfax Ihpx|powerkim417@daum.net|Burkina Faso,Ouagadougou|1976/08/27|A|9
+dongwoo338|WH0ZP11ZZ6|Hgzp Hzze Hgzp|dongwoo338@gmail.com|Burundi,Bujumbura|1971/08/15|B|9
+suhgyuho|LNAZRN4H|Nazr Ahln Zrna|suhgyuho@gmail.com|Cameroon,Yaound|1986/06/12|B|9
+tearsmore|61TK591KX|Xtkl Hkxm Tklf|tearsmore@sogang.ac.kr|Cape Verde,Praia|1976/07/12|C|9
+b8goal|U631T8|Ezht Uezh Euez|b8goal@sogang.ac.kr|Central African Republic,Bangui|1990/12/30|C|9
+lg970325|E3758ZY3|Zfdw Ybez Dwzy|lg970325@naver.com|Chad,N'Djamena|1982/01/13|S|9
+zmtn94|2FM0F2|Fmgf Sfmg Asfm|zmtn94@daum.net|Comoros,Moroni|1985/02/19|A|9
+david1403|WT85W9A8Z|Tobw Awzw Obwx|david1403@naver.com|Democratic Republic of the Congo,Kinshasa|1988/08/21|S|9
+corea|9H4X7|Hkxt Hkxt Hkxt|corea@naver.com|Djibouti,Djibouti|1991/02/16|S|9
+pda_pro12|IW7RIKHXY|Wtri Hxyi Trik|pda_pro12@gmail.com|Egypt,Cairo|1986/02/17|B|9
+kyujeong|DR7C110Z|Rncx Gzdr Cxhg|kyujeong@gmail.com|Equatorial Guinea,Malabo|1996/03/18|B|9
+claor123|V8THK901|Ethk Yzve Hkxy|claor123@daum.net|Eritrea,Asmara|1972/09/30|A|9
+hschoi1104|4L94H599WA|Lvah Xxwa Lvah|hschoi1104@naver.com|Ethiopia,Addis Ababa|1994/08/08|S|9
+dlaud5379|WETNW315F|Etnw Zdfw Tnwb|dlaud5379@gmail.com|Gabon,Libreville|1989/11/06|B|9
+sh0416|LA8AX4|Awax Lawa Claw|sh0416@daum.net|Gambia,Banjul|1985/03/02|A|9
+exupery|XQN21K1|Qnix Rxqn Xkrx|exupery@naver.com|Ghana,Accra|1997/07/28|S|9
+king7282|D50Z5Y6Y|Bgzd Eydb Zdye|king7282@sogang.ac.kr|Guinea,Conakry|1999/12/02|C|9
+isac322|5LTVZ0Y|Ltvz Yblt Zyyb|isac322@sogang.ac.kr|Guinea-Bissau,Bissau|1987/04/15|C|9
+solft|L1EYM|Heym Heym Heym|solft@daum.net|Ivory Coast,Yamoussoukro|1991/10/18|A|9
+s0j0s|5WC85|Wcwl Wcwl Wcwl|s0j0s@sogang.ac.kr|Kenya,Nairobi|1975/12/09|C|9
+aru0504|TKNWB82|Knwb Atkn Bwat|aru0504@naver.com|Lesotho,Maseru|1977/07/26|S|9
+scka|L9DT|Vdtl Dtlv Tlvd|scka@gmail.com|Liberia,Monrovia|1987/03/25|B|9
+heo122|4X190Y|Xhxy Axhx Yaxh|heo122@gmail.com|Libya,Tripoli|1986/02/17|B|9
+minpago|95G2TZ1|Bgit Hfbg Tzhf|minpago@naver.com|Madagascar,Antananarivo|1986/10/02|S|9
+ray5273|K7R30D1|Trby Zktr Ydzk|ray5273@sogang.ac.kr|Malawi,Lilongwe|1972/05/20|C|9
+rueng564|4N1GZ342|Nxgz Cakn Gzbc|rueng564@naver.com|Mali,Bamako|1972/10/15|S|9
+wonsik|91G557|Hglb Phgl Dphg|wonsik@daum.net|Mauritania,Nouakchott|1999/01/30|A|9
+panda959595|27G07F3FBF3|Tgwt Bfbf Itgw|panda959595@gmail.com|Mauritius,Port Louis|1975/04/07|B|9
+yeongjae8066|1X103CT16844|Xhgz Txew Crxh|yeongjae8066@daum.net|Mayotte,Mamoudzou|1997/11/09|A|9
+harinboy|A745G8H1|Tkbg Hrat Bguh|harinboy@naver.com|Morocco,Rabat|1990/06/26|S|9
+hagtfms|4TZM2FL|Tzmy Latz Yfla|hagtfms@naver.com|Mozambique,Maputo|1971/09/04|S|9
+tkqlzz|67J8SS|Djes Mdje Smdj|tkqlzz@sogang.ac.kr|Namibia,Windhoek|1974/01/24|C|9
+gyuho965|Z174HF43|Rnah Cbzr Ahfc|gyuho965@gmail.com|Niger,Niamey|1995/05/20|B|9
+GGuu|T1NN|Tnnt Nntt Nttn|GGuu@daum.net|Nigeria,Abuja|1993/02/03|A|9
+gaelim|37X8BF|Txeb Ztxe Fztx|gaelim@sogang.ac.kr|Republic of the Congo,Brazzaville|1984/11/04|C|9
+ca00229|V788007|Twwy Fvtw Yyfv|ca00229@naver.com|Reunion,Saint-Denis|1988/09/13|S|9
+barcelonamessi|U7K9181GTF15LB|Tkvx Hgtf Llbu|barcelonamessi@daum.net|Rwanda,Kigali|1994/12/10|A|9
+shyram|L41KTF|Arkt Lark Flar|shyram@sogang.ac.kr|Sao Tome and Principe,So Tom|1984/02/19|C|9
+ryuwhale95|4RNP47E173|Rnpa Exfb Rnpa|ryuwhale95@naver.com|Senegal,Dakar|1980/05/30|S|9
+seonh4996|511GA2774|Xhga Ffcl Hgaa|seonh4996@naver.com|Seychelles,Victoria|1981/08/10|S|9
+tofhddl9|6H24WWEF|Hyaw Efmh Awwe|tofhddl9@gmail.com|Sierra Leone,Freetown|1999/05/14|B|9
+wlsth1004100|9856498W2X8W|Elma Wwax Wpel|wlsth1004100@sogang.ac.kr|Somalia,Mogadishu|1977/09/14|C|9
+eota|X1M7|Hmtx Mtxh Txhm|eota@daum.net|South Africa,Pretoria|1980/09/06|A|9
+ggbbng|ZZUUG3|Zuug Zzuu Zzzu|ggbbng@sogang.ac.kr|South Sudan,Juba|1988/12/21|C|9
+tolelom|6H81819|Hexe Fmhe Ehfm|tolelom@naver.com|Sudan,Khartoum|1997/10/12|S|9
+HowlingOfSouL|UHP8BGZBY3HN6|Hpeb Zbyf Nyuh|HowlingOfSouL@sogang.ac.kr|Swaziland,Mbabane|1994/07/16|C|9
+steve11344|L6181XX1AA|Mxox Xzaa Mxox|steve11344@daum.net|Tanzania,Dodoma|1998/05/24|A|9
+beenpow|U1XG2H9|Xxgi Puxx Ihpu|beenpow@naver.com|Togo,Lom|1997/11/21|S|9
+naldo|07EW1|Tewh Tewh Tewh|naldo@daum.net|Tunisia,Tunis|1980/06/13|A|9
+dth04019|W64W289F|Mawa Xfwm Wawx|dth04019@sogang.ac.kr|Uganda,Kampala|1994/02/28|C|9
+rhksdn6227|4AD5WGC005|Adlw Cyyd Adlw|rhksdn6227@sogang.ac.kr|Western Sahara,El Aain|1988/09/05|C|9
+zidarn|SBW7KG|Bwtk Sbwt Gsbw|zidarn@gmail.com|Zambia,Lusaka|1970/12/28|B|9
+sksdong1|L75WHGZ9|Dlwh Zxld Whgz|sksdong1@sogang.ac.kr|Zimbabwe,Harare|1982/08/11|C|9
+axcee|T0911|Qvxx Qvxx Qvxx|axcee@sogang.ac.kr|Islands,Mariehamn|1989/02/05|C|9
+psi0613|255WC91|Lbwc Zilb Cxzi|psi0613@daum.net|Albania,Tirana|1981/11/27|A|9
+whdnddh|PA0GW04|Awgw Apaw Wwap|whdnddh@daum.net|Andorra,Andorra la Vella|1983/02/13|A|9
+jjim9417|66B9FA9D|Cbff Xdcc Ffax|jjim9417@naver.com|Austria,Vienna|1981/04/06|S|9
+kdk8361|DW76Z49|Wdez Xdwd Zcxd|kdk8361@sogang.ac.kr|Belarus,Minsk|1984/03/14|C|9
+Picasso|0B9T551|Bvtl Hcbv Llhc|Picasso@sogang.ac.kr|Belgium,Brussels|1982/12/07|C|9
+yaachi|17T945|Ttva Rttv Brtt|yaachi@daum.net|Bosnia and Herzegovina,Sarajevo|1980/12/12|A|9
+lego0901|E1Z1WF89|Xzhw Wxex Hwfw|lego0901@gmail.com|Bulgaria,Sofia|1974/12/25|B|9
+gdfssd|Z0YLL0|Wyll Zwyl Wzwy|gdfssd@naver.com|Croatia,Zagreb|1987/11/16|S|9
+upsk1|N2L79|Ildx Ildx Ildx|upsk1@sogang.ac.kr|Czechia,Prague|1978/04/29|C|9
+powdragon1|IH9W4T3HG9|Hpwk Zhgx Hpwk|powdragon1@naver.com|Denmark,Copenhagen|1990/12/16|S|9
+ufoet|NYHXM|Yhxm Yhxm Yhxm|ufoet@gmail.com|Estonia,Tallinn|1971/02/17|B|9
+park780172|IT47568950|Tkdd Wxdy Tkdd|park780172@sogang.ac.kr|Faroe Islands,Trshavn|1982/09/19|C|9
+whquddn55|94370W033|Ajnw Gbbp Jnww|whquddn55@gmail.com|Finland,Helsinki|1970/11/11|B|9
+dj035|W6W13|Cwzb Cwzb Cwzb|dj035@naver.com|France,Paris|1987/01/27|S|9
+zeikar|S1B774|Xbdt Sxbd Ksxb|zeikar@daum.net|Germany,Berlin|1983/04/14|A|9
+ydk1104|R07998A|Wdxx Arwd Xwar|ydk1104@gmail.com|Gibraltar,Gibraltar|1980/05/01|B|9
+glanceyes|3E70VXR1L|Etgv Rxlz Tgvx|glanceyes@sogang.ac.kr|Greece,Athens|1984/10/02|C|9
+yjun|16NG|Cngr Ngrc Grcn|yjun@naver.com|Guernsey,Saint Peter Port|1990/07/23|S|9
+jangzzang|6TG32S703|Tgzs Tgzc Gzss|jangzzang@daum.net|Hungary,Budapest|1976/12/16|A|9
+smilu2245|5FB87002B|Fben Yabl Beny|smilu2245@daum.net|Iceland,Reykjavk|1975/11/24|A|9
+pica4500|IB972388|Bvta Wwib Tabw|pica4500@naver.com|Ireland,Dublin|1983/03/18|S|9
+vega|8XZT|Xzto Ztox Toxz|vega@daum.net|Isle of Man,Douglas|1973/10/20|A|9
+tyoungs|MR17G3L|Rhng Lmrh Gzlm|tyoungs@daum.net|Italy,Rome|1973/12/15|A|9
+unilep|70581I|Gbex Ngbe Ingb|unilep@sogang.ac.kr|Jersey,Saint Helier|1984/01/04|C|9
+hist0613|AB568CXZ|Blmw Xzab Mwcx|hist0613@naver.com|Kosovo,Pristina|1990/04/19|S|9
+eric00513|XK59WWBX1|Kbvw Bxzx Bvww|eric00513@naver.com|Latvia,Riga|1978/08/01|S|9
+djqtdjehfdkrk|W63M0C1AYW747|Cjmw Xayw Kdwc|djqtdjehfdkrk@sogang.ac.kr|Liechtenstein,Vaduz|1983/06/09|C|9
+sys0927|LRLWF0D|Rlwf Dlrl Fydl|sys0927@naver.com|Lithuania,Vilnius|1983/12/19|S|9
+lemidia|EXFBW5T|Xfbw Texf Wbte|lemidia@naver.com|Luxembourg,Luxembourg|1987/01/09|S|9
+alohajm|78H4TCF|Ehat Fteh Tcft|alohajm@sogang.ac.kr|Malta,Valletta|1994/08/29|C|9
+scintillator|5V5G6BEETMHK|Vbgm Eetm Klvb|scintillator@daum.net|Moldova,Chisinau|1989/08/12|A|9
+rhs0266|445WYCC|Alwy Ckal Ycck|rhs0266@sogang.ac.kr|Monaco,Monaco|1997/04/24|C|9
+csh519|VLA3XF|Labx Vlab Fvla|csh519@gmail.com|Montenegro,Podgorica|1994/01/07|B|9
+wiz9243|9BSFYAZ|Bsfy Zpbs Yazp|wiz9243@gmail.com|Netherlands,Amsterdam|1999/11/25|B|9
+vhxpffltm|840I2YEMF|Aqiy Emfo Qiyy|vhxpffltm@sogang.ac.kr|North Macedonia,Skopje|1987/08/01|C|9
+alsidnf|T85BWG2|Elbw Ytel Wgyt|alsidnf@gmail.com|Norway,Oslo|1976/11/28|B|9
+mjhmjh1104|96AF6A9X8A|Cafc Xxwa Cafc|mjhmjh1104@naver.com|Poland,Warsaw|1981/04/21|S|9
+hos921019|A1L7Y9WX7|Hlfy Wxfa Lfyx|hos921019@naver.com|Portugal,Lisbon|1993/05/16|S|9
+yaji0510|17CBWB9W|Tcbw Xwrt Bwbx|yaji0510@gmail.com|Romania,Bucharest|1985/01/19|B|9
+juhongkim2|C741GZD59Y|Nahg Dbfy Nahg|juhongkim2@daum.net|Russia,Moscow|1971/06/18|A|9
+mitnegativeinfinity|F56G137M5OX5G25G5M1|Bmgx Tmbo Bgyb|mitnegativeinfinity@naver.com|San Marino,San Marino|1992/06/15|S|9
+zlzmsrhak|S8SFLKA7D|Esfl Atds Sflk|zlzmsrhak@sogang.ac.kr|Serbia,Belgrade|1992/05/05|C|9
+snowchori|L0HPV4HKB|Ghpv Hkbl Hpva|snowchori@gmail.com|Slovakia,Bratislava|1986/01/09|B|9
+hbk388|4U71EE|Udze Audz Eaud|hbk388@naver.com|Slovenia,Ljubljana|1991/10/22|S|9
+rhdqor213|KAW3H4091|Awjh Yxzk Wjhk|rhdqor213@gmail.com|Spain,Madrid|1992/11/12|B|9
+tmd3282|6901Y60|Fwzy Ymfw Yeym|tmd3282@daum.net|Svalbard,Longyearbyen|1974/06/27|A|9
+hj_d|ACRW|Crwa Rwac Wacr|hj_d@sogang.ac.kr|Sweden,Stockholm|1977/05/16|C|9
+geon08|Z11086|Xhgw Zxhg Ezxh|geon08@sogang.ac.kr|Switzerland,Bern|1979/01/13|C|9
+sg1774|LZXDDA|Zxdd Lzxd Alzx|sg1774@daum.net|Ukraine,Kiev|1995/10/01|A|9
+tdm1223|MWFXY01|Wfxy Zmwf Yyzm|tdm1223@daum.net|Anguilla,The Valley|1998/08/22|A|9
+mystika|9R56BD7|Rlmb Tfrl Bdtf|mystika@sogang.ac.kr|Antigua and Barbuda,Saint John¡¯s|1998/08/04|C|9
+kjo7811|DCH5EXX|Chde Xdch Exxd|kjo7811@gmail.com|Argentina,Buenos Aires|1998/03/10|B|9
+skygarlics|LD137K8595|Drzt Ebvl Drzt|skygarlics@sogang.ac.kr|Aruba,Oranjestad|1992/04/30|C|9
+pyw0564|IRP83C2|Rpwb Airp Bcai|pyw0564@naver.com|Bahamas,Nassau|1978/09/04|S|9
+occidere|H9VBWXK1|Vvbw Kxhv Bwxk|occidere@gmail.com|Barbados,Bridgetown|1977/03/01|B|9
+kimyeonwoo0506|D59R1H09118B8C|Bfrx Gphh Bwcd|kimyeonwoo0506@naver.com|Belize,Belmopan|1981/09/19|S|9
+oree2113|HKX1YX91|Kxxy Xzhk Xyxx|oree2113@naver.com|Bermuda,Hamilton|1995/05/26|S|9
+mic1021|959X80X|Bvxw Xfbv Wyxf|mic1021@gmail.com|Bolivia,Sucre|1994/10/11|B|9
+wnsgur9648|905Z7K7CA6|Glzn Fcae Glzn|wnsgur9648@gmail.com|Brazil,Braslia|1971/12/08|B|9
+ghdic|Z40BV|Awbv Awbv Awbv|ghdic@sogang.ac.kr|British Virgin Islands,Road Town|1997/01/28|C|9
+quarter814|J77KM1K6X2|Ntkm Kexa Ntkm|quarter814@naver.com|Canada,Ottawa|1994/10/06|S|9
+forget1026|YH43XMX804|Hkzx Xwyc Hkzx|forget1026@sogang.ac.kr|Cayman Islands,George Town|1994/02/23|C|9
+pjshwa|265AP7|Clap Icla Ticl|pjshwa@naver.com|Chile,Santiago|1995/02/06|S|9
+neomind75|0X1F5GW53|Xhfb Wdbg Hfbg|neomind75@gmail.com|Colombia,Bogot|1996/03/13|B|9
+yajungi|R7CNGZ5|Tcng Brtc Gzbr|yajungi@gmail.com|Costa Rica,San Jos|1997/10/20|B|9
+qkqhxla1|3734Q8TX|Djaq Txjd Aqet|qkqhxla1@sogang.ac.kr|Cuba,Havana|1970/04/12|C|9
+khj878|74C6DE|Aced Dace Edac|khj878@gmail.com|Curacao,Willemstad|1994/04/13|B|9
+surung9898|57470ZF6F6|Nkng Fefe Nkng|surung9898@naver.com|Dominica,Roseau|1979/02/15|S|9
+wogus23|9H37LY1|Hznl Zphz Lyzp|wogus23@daum.net|Dominican Republic,Santo Domingo|1987/01/03|A|9
+ivymso13|B8R951XZ|Orfl Xzbo Flhx|ivymso13@daum.net|Ecuador,Quito|1984/06/29|A|9
+tjwjdgjs22|MCP6WZ65YY|Cpcw Clyy Cpcw|tjwjdgjs22@naver.com|El Salvador,San Salvador|1973/10/16|S|9
+bcc0830|UVV861W|Vvwe Wuvv Ezwu|bcc0830@naver.com|Falkland Islands,Stanley|1996/08/20|S|9
+seong2035|51H03081B|Xhgz Wzbl Hgzy|seong2035@naver.com|French Guiana,Cayenne|1977/08/09|S|9
+egod1537|X3HWXB1D|Zhwx Zdxz Wxbz|egod1537@naver.com|Greenland,Nuuk|1983/09/30|S|9
+whdgnsdl887|9AW305WEEE5|Awzg Weee Pawz|whdgnsdl887@daum.net|Grenada,Saint George's|1989/07/22|A|9
+zayne|2TRGX|Trgx Trgx Trgx|zayne@naver.com|Guadeloupe,Basse-Terre|1971/11/22|S|9
+arnold518|7KGHEWB96|Kghe Bxet Ghew|arnold518@naver.com|Guatemala,Guatemala City|1977/02/09|S|9
+srand|5K7GW|Ktgw Ktgw Ktgw|srand@daum.net|Guyana,Georgetown|1984/03/26|A|9
+leechhe|EX19A41|Xxva Xexx Aaxe|leechhe@daum.net|Haiti,Port-au-Prince|1990/08/10|A|9
+typhoon|6RIA1H0|Riah Gmri Hhgm|typhoon@gmail.com|Honduras,Tegucigalpa|1973/05/06|B|9
+tmdghks944|M9WZA7L72A|Fwza Lfaa Fwza|tmdghks944@gmail.com|Jamaica,Kingston|1987/07/07|B|9
+woonikim|911G57BF|Hhgb Bfph Gbdb|woonikim@naver.com|Martinique,Fort-de-France|1971/11/22|S|9
+herdson|A14W510|Xkwl Gaxk Lhga|herdson@daum.net|Mexico,Mexico City|1971/05/14|A|9
+suhangr|574TG3K|Natg Klna Gzkl|suhangr@naver.com|Montserrat,Brades|1995/01/04|S|9
+dkim|0D59|Dbfw Bfwd Fwdb|dkim@gmail.com|Nicaragua,Managua|1985/02/07|B|9
+pdm0205|I09W08B|Wfwy Biwf Ywbi|pdm0205@daum.net|Panama,Panama City|1985/09/18|A|9
+3038ksh|ZWZ6754|Wzed Azwz Dlaz|3038ksh@sogang.ac.kr|Paraguay,Asuncin|1976/12/28|C|9
+magic4424|FT3B92A02|Tzbv Ayaf Zbva|magic4424@gmail.com|Peru,Lima|1994/06/28|B|9
+sj6188|LC4XEE|Ccxe Lccx Elcc|sj6188@gmail.com|Puerto Rico,San Juan|1982/07/23|B|9
+kims1901|DB9L9789|Bflx Wxdb Lxfw|kims1901@daum.net|Saint Barthelemy,Gustavia|1975/04/26|A|9
+shfshfdl|542L4208|Ayla Wela Layw|shfshfdl@daum.net|Saint Kitts and Nevis,Basseterre|1982/12/29|A|9
+djghdy|WCZAWR|Czaw Wcza Rwcz|djghdy@daum.net|Saint Lucia,Castries|1982/08/11|A|9
+wider93|PB0X47Z|Bwxk Zpbw Kfzp|wider93@daum.net|Saint Martin,Marigot|1981/12/15|A|9
+sk7755|LD5DBB|Dddb Lddd Bldd|sk7755@daum.net|Saint Pierre and Miquelon,Saint-Pierre|1981/12/14|A|9
+katecode|7761V10X|Tmxv Wxdt Xvhw|katecode@naver.com|Saint Vincent and the Grenadines,Kingstown|1986/01/03|S|9
+corea_kyj|9H417R7RC|Hkxt Drcv Kxtr|corea_kyj@naver.com|Sint Maarten,Philipsburg|1981/06/28|S|9
+andy627|TGWR4Y5|Gwrc Dtgw Cydt|andy627@naver.com|South Georgia and South Sandwich Islands,King Edward Point|1979/09/17|S|9
+asm9677|7LF745D|Lffc Dtlf Cddt|asm9677@naver.com|Suriname,Paramaribo|1977/07/27|S|9
+dkw01015|WDPWX8XB|Dpwx Xbwd Wxwx|dkw01015@sogang.ac.kr|Trinidad and Tobago,Port-of-Spain|1985/01/17|C|9
+cuhcuh1|VNAV7A9|Navn Xvna Naxv|cuhcuh1@sogang.ac.kr|Turks and Caicos Islands,Cockburn Town|1988/11/16|C|9
+cnrywjd11|V0KRP6099|Gkrp Wxxv Krpc|cnrywjd11@daum.net|United States,"Washington, D.C."|1979/02/11|A|9
+ha_ram|4TRK79|Trkt Atrk Fatr|ha_ram@gmail.com|Uruguay,Montevideo|1987/03/26|B|9
+urd05|N4WW3|Kwwb Kwwb Kwwb|urd05@sogang.ac.kr|Venezuela,Caracas|1995/11/29|C|9
+seok9311|5X177ZX9|Xhdf Xxlx Dfzx|seok9311@daum.net|Virgin Islands,Charlotte Amalie|1977/01/30|A|9
+kcan1416|79T0XA9C|Vtgx Xcdv Gxax|kcan1416@gmail.com|Afghanistan,Kabul|1994/06/06|B|9
+gloomy_sunday|Z811FR55N0W71|Ehhf Rlng Trze|gloomy_sunday@naver.com|Armenia,Yerevan|1993/01/28|S|9
+aloha_seungwon|78HA75L1NG391G|Ehat Lxng Phgt|aloha_seungwon@gmail.com|Azerbaijan,Baku|1976/03/29|B|9
+b0n0b0n0|8W0W8W0W|Wgwu Gwuw Wuwg|b0n0b0n0@sogang.ac.kr|Bahrain,Manama|1984/01/18|C|9
+y103kim|R9WZDB9|Xwzd Frxw Dbfr|y103kim@daum.net|Bangladesh,Dhaka|1971/07/13|A|9
+leejseo|EXXC5X1|Xxcl Hexx Lxhe|leejseo@sogang.ac.kr|Bhutan,Thimphu|1998/04/11|C|9
+cmkang8128|V977036XY6|Fdtg Exye Fdtg|cmkang8128@sogang.ac.kr|Brunei,Bandar Seri Begawan|1996/11/29|C|9
+cseteram|9516XK79|Lxmx Tfvl Mxkt|cseteram@gmail.com|Burma,Nay Pyi Taw|1999/12/02|B|9
+spat|LI7M|Itml Tmli Mlit|spat@daum.net|Cambodia,Phnom Penh|1980/09/22|A|9
+eldsg|18WLZ|Ewlz Ewlz Ewlz|eldsg@sogang.ac.kr|China,Beijing|1977/08/05|C|9
+zulight|SN8534M|Nebz Msne Zams|zulight@daum.net|Cyprus,Nicosia|1990/01/21|A|9
+jks4745|6DLAD2B|Dlad Bcdl Dabc|jks4745@gmail.com|East Timor,Dili|1994/10/10|B|9
+kthss01|D64LLWX|Mall Xdma Lwxd|kthss01@naver.com|Georgia,Tbilisi|1971/09/25|S|9
+jumpingz|67F250ZS|Nfib Zscn Ibgz|jumpingz@gmail.com|Hong Kong,Hong Kong|1979/03/19|B|9
+arhbit|7448BM|Kaub Tkau Mtka|arhbit@daum.net|India,New Delhi|1978/05/03|A|9
+shnam28|LAG79YE|Agtf Elag Fyel|shnam28@daum.net|Indonesia,Jakarta|1987/02/18|A|9
+dbtlwns|08689G5|Umep Lwum Pglw|dbtlwns@gmail.com|Iran,Tehran|1988/04/03|B|9
+akaishuichi|77TB54N5VA5|Dtbl Nbva Tdtb|akaishuichi@naver.com|Iraq,Baghdad|1999/09/03|S|9
+hp3265|421Y43|Izyc Aizy Baiz|hp3265@gmail.com|Israel,Jerusalem|1982/11/20|B|9
+skeep194|57XX2X72|Dxxi Fald Xixf|skeep194@naver.com|Japan,Tokyo|1984/07/04|S|9
+906bc|7W4UV|Wcuv Wcuv Wcuv|906bc@gmail.com|Jordan,Amman|1982/01/06|B|9
+kimkh7534|7BFDA5B1A|Bfda Bzad Fdad|kimkh7534@daum.net|Kazakhstan,Nursultan|1983/04/29|A|9
+yjyj1027|16RCXW05|Crcx Ydrc Cxwy|yjyj1027@naver.com|Kuwait,Kuwait City|1973/04/18|S|9
+skdty87|LD0MR65|Dwmr Dldw Redl|skdty87@sogang.ac.kr|Kyrgyzstan,Bishkek|1975/12/28|C|9
+cktmdgns|VDMF03G5|Dmfw Glvd Fwzg|cktmdgns@naver.com|Laos,Vientiane|1987/11/21|S|9
+pipim468|IB2B9A4E|Bibf Ceib Bfac|pipim468@gmail.com|Lebanon,Beirut|1998/07/22|B|9
+kshy9598|7L4RFBF6|Larf Fedl Rfbf|kshy9598@gmail.com|Macao,Concelho de Macau|1977/02/30|B|9
+mygumi|9R3NFB|Rznf Frzn Bfrz|mygumi@daum.net|Malaysia,Kuala Lumpur|1995/01/17|A|9
+rstz|KLM2|Lmsk Mskl Sklm|rstz@daum.net|Maldives,Mal|1974/09/11|A|9
+young3609|1HNG31C8F|Hngz Cwfr Ngzz|young3609@gmail.com|Mongolia,Ulaanbaatar|1990/06/28|B|9
+fredhur|Y41047K|Kxwa Kykx Anky|fredhur@naver.com|Nepal,Kathmandu|1984/08/30|S|9
+knon0501|D01083WX|Ghgw Wxdg Gwbw|knon0501@naver.com|North Korea,Pyongyang|1979/02/23|S|9
+dreamsboat|041795U1T6|Kxtf Uhtm Kxtf|dreamsboat@sogang.ac.kr|Oman,Muscat|1971/05/25|C|9
+willi19|P5E8597|Beeb Fpbe Bxfp|willi19@sogang.ac.kr|Pakistan,Islamabad|1994/02/05|C|9
+yongwhan|R1G3947G|Hgzp Tgrh Zpat|yongwhan@daum.net|Palestine,Ramallah|1980/05/28|A|9
+lee107601d|E11XWD4W90|Xxxw Cwxw Xxxw|lee107601d@sogang.ac.kr|Philippines,Manila|1996/08/06|C|9
+psst54|ILLMBA|Llmb Illm Aill|psst54@daum.net|Qatar,Doha|1998/08/14|A|9
+pks9013|I757891|Dlfw Zidl Wxzi|pks9013@sogang.ac.kr|Saudi Arabia,Riyadh|1999/05/10|C|9
+beginner1234|813BG014XY1A|Xzbg Xkxy Auxz|beginner1234@naver.com|Singapore,Singapore|1986/11/05|S|9
+mracmicpc|F479FBVIV|Ktvf Vivf Tvfb|mracmicpc@gmail.com|South Korea,Seoul|1982/01/18|B|9
+p_ce1052|I591XWBY|Rvxx Byir Xxwb|p_ce1052@sogang.ac.kr|Sri Lanka,Colombo|1996/06/21|C|9
+rootsquare|KH1M53N741|Hhml Ntkx Hhml|rootsquare@naver.com|Syria,Damascus|1989/06/27|S|9
+knslyr|705E14|Gler Dgle Kdgl|knslyr@daum.net|Taiwan,Taipei|1986/06/03|A|9
+anima94|TG59TFA|Gbft Atgb Tfat|anima94@daum.net|Tajikistan,Dushanbe|1982/03/07|A|9
+shw2495|5A9Y2FB|Apya Blap Afbl|shw2495@sogang.ac.kr|Thailand,Bangkok|1981/12/11|C|9
+ansol4328|70LHEA1Y6|Glhe Zyet Lhea|ansol4328@naver.com|Turkey,Ankara|1982/06/03|S|9
+lja9702|ECTF580|Ctfd Yect Dwye|lja9702@naver.com|Turkmenistan,Ashgabat|1996/07/24|S|9
+shg9411|LAZ729X|Azfa Xlaz Axxl|shg9411@gmail.com|United Arab Emirates,Abu Dhabi|1977/04/26|B|9
+tlsdydaud1|M850RW7709|Elwr Tnwx Elwr|tlsdydaud1@gmail.com|Uzbekistan,Tashkent|1996/01/13|B|9
+truthseeker|64N64L11DX4|Knma Xxdx Mknm|truthseeker@sogang.ac.kr|Vietnam,Hanoi|1977/12/27|C|9
+kwan765|DP7G5C3|Ptgd Bdpt Dcbd|kwan765@naver.com|Yemen,Sanaa|1990/11/05|S|9
+cko301|VD11W9|Dhzw Vdhz Xvdh|cko301@sogang.ac.kr|Algeria,Algiers|1971/09/06|C|9
+k5nen|D3GXG|Bgxg Bgxg Bgxg|k5nen@gmail.com|Angola,Luanda|1976/06/04|B|9
+asdjke|75W67X|Lwcd Tlwc Xtlw|asdjke@daum.net|Benin,Porto-Novo|1975/08/13|A|9
+ydj2030|106081W|Wcyw Wrwc Wzwr|ydj2030@gmail.com|Botswana,Gaborone|1999/12/21|B|9
+SORINAMU|FBE38N75|Beva Zhfb Vanz|SORINAMU@sogang.ac.kr|Burkina Faso,Ouagadougou|1988/01/23|C|9
+junsu1023|C70L79W01|Ngln Wyzc Glnx|junsu1023@naver.com|Burundi,Bujumbura|1998/08/18|S|9
+bsgreentea|853K11G6XT|Lzkx Gmxt Lzkx|bsgreentea@gmail.com|Cameroon,Yaound|1998/05/26|B|9
+gi1dong2|3BX01030|Bxwh Zyzb Whgz|gi1dong2@naver.com|Cape Verde,Praia|1973/09/15|S|9
+lktgt|8DMZ6|Dmzm Dmzm Dmzm|lktgt@daum.net|Central African Republic,Bangui|1977/04/04|A|9
+onlyhim|HG8RA59|Gera Fhge Abfh|onlyhim@sogang.ac.kr|Chad,N'Djamena|1989/03/09|C|9
+cocogod|VHVHZH0|Hvhz Wvhv Zhwv|cocogod@gmail.com|Comoros,Moroni|1970/03/03|B|9
+heize|A15SX|Xbsx Xbsx Xbsx|heize@sogang.ac.kr|Democratic Republic of the Congo,Kinshasa|1985/03/16|C|9
+riverlike14|K581K8B71X2|Boxk Bdxx Kbox|riverlike14@naver.com|Djibouti,Djibouti|1978/02/30|S|9
+qawbecrdtey|JTP81V40MX1|Tpux Kwmx Jtpu|qawbecrdtey@naver.com|Egypt,Cairo|1983/09/15|S|9
+showme011|L41991WXX|Ahpf Wxxl Hpfx|showme011@daum.net|Equatorial Guinea,Malabo|1991/07/25|A|9
+moa2app|9H70722|Htyt Ifht Tiif|moa2app@naver.com|Eritrea,Asmara|1973/05/27|S|9
+auddl0756|T7WW885B4|Nwwe Dbct Wwew|auddl0756@naver.com|Ethiopia,Addis Ababa|1977/06/22|S|9
+zzapCoder|SSTIPH0X4|Stip Wxks Tiph|zzapCoder@naver.com|Gabon,Libreville|1995/03/14|S|9
+inc5025|5G9380B|Gvbw Bbgv Wybb|inc5025@gmail.com|Gambia,Banjul|1982/06/24|B|9
+algogogo|7831ZH31|Ezhz Zhte Hzhz|algogogo@gmail.com|Ghana,Accra|1993/08/04|B|9
+cubalys|9NUT815|Nute Lvnu Erlv|cubalys@gmail.com|Guinea,Conakry|1998/10/28|B|9
+hyida7|A1B075|Rbwt Arbw Darb|hyida7@daum.net|Guinea-Bissau,Bissau|1987/04/05|A|9
+cmk5432|99DB2Z0|Fdba Yvfd Azyv|cmk5432@sogang.ac.kr|Ivory Coast,Yamoussoukro|1993/08/02|C|9
+alex4409|781Q22W7|Exqa Wfte Qaaw|alex4409@sogang.ac.kr|Kenya,Nairobi|1971/05/30|C|9
+hacerrumbo|4TVXKK7F81|Tvxk Nfuh Tvxk|hacerrumbo@naver.com|Lesotho,Maseru|1993/10/24|S|9
+wpghks7|9I347L5|Izad Dpiz Dldp|wpghks7@daum.net|Liberia,Monrovia|1983/08/27|A|9
+rasauq1122|4TLT73XXYY|Tltn Xxyy Tltn|rasauq1122@sogang.ac.kr|Libya,Tripoli|1982/12/03|C|9
+chojl1125|94H6E990B|Ahce Xybv Hcex|chojl1125@gmail.com|Madagascar,Antananarivo|1983/12/03|B|9
+rickmccoy|KBV7F9VHR|Bvdf Vhrk Vdfv|rickmccoy@sogang.ac.kr|Malawi,Lilongwe|1983/02/24|C|9
+yeonjung0813|11H0C70Z86XZ|Xhgc Gzwe Zrxh|yeonjung0813@naver.com|Mali,Bamako|1983/11/19|S|9
+Hibbah|U5UUT4|Buut Ubuu Aubu|Hibbah@sogang.ac.kr|Mauritania,Nouakchott|1990/03/08|C|9
+cbkpar|V8DI74|Udit Vudi Kvud|cbkpar@daum.net|Mauritius,Port Louis|1988/12/06|A|9
+shinwoon|545G911G|Abgp Hgla Gphh|shinwoon@sogang.ac.kr|Mayotte,Mamoudzou|1975/12/08|C|9
+se1620236|5194Y8YZ4|Xxcy Yzcl Xcyw|se1620236@naver.com|Morocco,Rabat|1995/06/07|S|9
+vumbumy|8NFUNF1|Nfun Ronf Nfro|vumbumy@naver.com|Mozambique,Maputo|1988/06/17|S|9
+leethyun|8X16A170|Xxma Ngex Marn|leethyun@daum.net|Namibia,Windhoek|1988/04/17|A|9
+zebra|21847|Xukt Xukt Xukt|zebra@naver.com|Niger,Niamey|1994/05/23|S|9
+nosiar|GH5574|Hlbt Ghlb Kghl|nosiar@daum.net|Nigeria,Abuja|1976/03/07|A|9
+gumdung|3N90N03|Nfwn Zznf Ngzz|gumdung@gmail.com|Republic of the Congo,Brazzaville|1998/10/13|B|9
+parameter|ITK79XM1K|Tktf Mxki Ktfx|parameter@gmail.com|Reunion,Saint-Denis|1970/05/30|B|9
+rootcucu|KH1M9NVN|Hhmv Vnkh Mvnv|rootcucu@gmail.com|Rwanda,Kigali|1976/05/04|B|9
+crazymi|VK72195|Ktsr Bvkt Rfbv|crazymi@daum.net|Sao Tome and Principe,So Tom|1986/09/01|A|9
+navata|GT876T|Totm Gtot Tgto|navata@sogang.ac.kr|Senegal,Dakar|1992/04/22|C|9
+dbflwla|W828987|Uyep Twuy Petw|dbflwla@naver.com|Seychelles,Victoria|1975/06/22|S|9
+lsh000805|E54WWW68B|Laww Ewbe Awww|lsh000805@sogang.ac.kr|Sierra Leone,Freetown|1993/10/08|C|9
+kwanghyunon|7970ZA1N0HG|Ptgz Rngh Dptg|kwanghyunon@gmail.com|Somalia,Mogadishu|1972/04/15|B|9
+uyk0329|7RD8ZY7|Rdwz Fnrd Zyfn|uyk0329@naver.com|South Africa,Pretoria|1997/11/18|S|9
+badit|8705M|Twbm Twbm Twbm|badit@daum.net|South Sudan,Juba|1988/01/05|A|9
+tttuer|MM6NXK|Mmnx Mmmn Kmmm|tttuer@sogang.ac.kr|Sudan,Khartoum|1991/02/15|C|9
+seastar105|5X7LM7KX8B|Xtlm Kxwb Xtlm|seastar105@gmail.com|Swaziland,Mbabane|1987/09/08|B|9
+hiasince12|4B7L5G919Y|Btlb Vxxy Btlb|hiasince12@sogang.ac.kr|Tanzania,Dodoma|1980/12/30|C|9
+Nyan101|A17GXW9|Rtgx Xart Xwxa|Nyan101@naver.com|Togo,Lom|1989/03/25|S|9
+candy|970WR|Tgwr Tgwr Tgwr|candy@daum.net|Tunisia,Tunis|1994/01/30|A|9
+robustflame|4H8NL62879X|Hunl Yetf Khun|robustflame@naver.com|Uganda,Kampala|1985/09/28|S|9
+ahgus89|74375E7|Aznl Ftaz Left|ahgus89@gmail.com|Western Sahara,El Aain|1974/12/22|B|9
+hpk23|A2D01|Idyz Idyz Idyz|hpk23@gmail.com|Zambia,Lusaka|1993/03/12|B|9
+starjrm00|L67K6K9W8|Mtkc Fwwl Tkck|starjrm00@daum.net|Zimbabwe,Harare|1981/10/07|A|9
+hanjungv|4706N038|Tgcn Zoat Cngz|hanjungv@naver.com|Islands,Mariehamn|1995/07/04|S|9
+dart|WTK6|Tkmw Kmwt Mwtk|dart@naver.com|Albania,Tirana|1971/07/08|S|9
+psychobabo|IL194H8T81|Lrva Utuh Lrva|psychobabo@naver.com|Andorra,Andorra la Vella|1970/01/02|S|9
+jh280722|C4Y68500|Ayew Yyca Ewdy|jh280722@naver.com|Austria,Vienna|1974/05/12|S|9
+maki90|F77BFW|Tdbf Ftdb Wftd|maki90@sogang.ac.kr|Belarus,Minsk|1992/10/25|C|9
+chosh95|VAHLA7B|Ahla Bvah Afbv|chosh95@gmail.com|Belgium,Brussels|1984/12/25|B|9
+recursive|4X9NKLB8X|Xvnk Boxk Vnkl|recursive@sogang.ac.kr|Bosnia and Herzegovina,Sarajevo|1978/06/24|C|9
+gyunghoe|ZRNGZ41X|Rngz Hxzr Gzah|gyunghoe@sogang.ac.kr|Bulgaria,Sofia|1986/06/24|C|9
+kingkk31|D5G37D1X|Bgzd Zxdb Zddz|kingkk31@sogang.ac.kr|Croatia,Zagreb|1993/04/15|C|9
+1111111111|99X99XXX99|Xxxx Xxxx Xxxx|1111111111@sogang.ac.kr|Czechia,Prague|1990/04/12|C|9
+Rose|2151|Hlxe Lxeh Xehl|Rose@naver.com|Denmark,Copenhagen|1988/10/14|S|9
+keunbum|DXN0UNF|Xngu Fdxn Unfd|keunbum@sogang.ac.kr|Estonia,Tallinn|1999/10/13|C|9
+gugudan|ZN370T0|Nznw Gznz Wtgz|gugudan@gmail.com|Faroe Islands,Trshavn|1989/07/07|B|9
+jjongwuner|CC1GZP7G14|Chgz Ngxk Chgz|jjongwuner@naver.com|Finland,Helsinki|1997/07/26|S|9
+jeongdongha|61H030H0Z4T|Xhgz Hgza Cxhg|jeongdongha@naver.com|France,Paris|1981/05/25|S|9
+zealtez|2XT8MX2|Xtem Ssxt Mxss|zealtez@gmail.com|Germany,Berlin|1971/02/04|B|9
+naneun|0TGX70|Tgxn Gtgx Ggtg|naneun@daum.net|Gibraltar,Gibraltar|1998/03/06|A|9
+chlwnsgud7|V4EPGL3NWD|Aepg Znwd Aepg|chlwnsgud7@gmail.com|Greece,Athens|1991/07/06|B|9
+deuslovelt|WX7LEH8X8M|Xnle Oxem Xnle|deuslovelt@sogang.ac.kr|Guernsey,Saint Peter Port|1989/07/14|C|9
+jdj1211|C0690X9|Wcxy Xcwc Yxxc|jdj1211@daum.net|Hungary,Budapest|1996/09/22|A|9
+rhdmstjr|44WF566K|Awfl Ckka Flmc|rhdmstjr@daum.net|Iceland,Reykjavk|1993/05/03|A|9
+chw0501|V4983W9|Apwb Xvap Bwxv|chw0501@gmail.com|Ireland,Dublin|1974/02/24|B|9
+csh4096|9L4AW7C|Laaw Cvla Wfcv|csh4096@sogang.ac.kr|Isle of Man,Douglas|1989/10/30|C|9
+2468ab|0ACETU|Acet Yace Uyac|2468ab@gmail.com|Italy,Rome|1986/11/09|B|9
+smmaker118|LFF7DX49XE|Fftd Kxxe Fftd|smmaker118@daum.net|Jersey,Saint Helier|1976/10/24|A|9
+houma757|4HNFTD3D|Hnft Bdah Ftdb|houma757@sogang.ac.kr|Kosovo,Pristina|1970/05/19|C|9
+chiseungii|9A5L17G3B5|Ablx Gzbb Ablx|chiseungii@naver.com|Latvia,Riga|1996/05/16|S|9
+gh5976|ZA3F5C|Abfd Zabf Czab|gh5976@naver.com|Liechtenstein,Vaduz|1985/10/20|S|9
+bmw777|U99D55|Fpdd Ufpd Dufp|bmw777@naver.com|Lithuania,Vilnius|1981/02/21|S|9
+yukino|RN75G1|Ndbg Rndb Hrnd|yukino@gmail.com|Luxembourg,Luxembourg|1975/02/11|B|9
+jabbong|CT88H0Z|Tuuh Zctu Hgzc|jabbong@daum.net|Malta,Valletta|1997/01/07|A|9
+parkpkww|I74D27P9|Tkdi Ppit Didp|parkpkww@naver.com|Moldova,Chisinau|1983/01/05|S|9
+mhkim4886|9A7B9AE6C|Adbf Eecf Dbfa|mhkim4886@naver.com|Monaco,Monaco|1987/04/13|S|9
+anstjaos|7GL66T1L|Glmc Hltg Mcth|anstjaos@gmail.com|Montenegro,Podgorica|1970/04/13|B|9
+qkdtmdeh|37069WX4|Dwmf Xajd Mfwx|qkdtmdeh@daum.net|Netherlands,Amsterdam|1988/10/30|A|9
+extra1563|10647XB4Z|Qmkt Bczx Mktx|extra1563@gmail.com|North Macedonia,Skopje|1983/06/22|B|9
+tjqtjq0516|663M6JW39C|Cjmc Wbxc Cjmc|tjqtjq0516@sogang.ac.kr|Norway,Oslo|1984/11/06|C|9
+jhwest2|C4PXLM0|Apxl Ycap Lmyc|jhwest2@naver.com|Poland,Warsaw|1971/02/21|S|9
+skesswswkk|5DX55P59D7|Dxll Lpdd Dxll|skesswswkk@naver.com|Portugal,Lisbon|1979/10/19|S|9
+junek3|CNGXDZ|Ngxd Cngx Zcng|junek3@daum.net|Romania,Bucharest|1972/02/18|A|9
+ssffwert|LLYYPXKM|Lyyp Kmll Ypxk|ssffwert@gmail.com|Russia,Moscow|1993/12/28|B|9
+jow1025|C19XWYB|Hpxw Bchp Wybc|jow1025@sogang.ac.kr|San Marino,San Marino|1983/01/27|C|9
+erolf0123|1K18YW9YZ|Khey Xyzx Heyw|erolf0123@gmail.com|Serbia,Belgrade|1981/11/05|B|9
+dadada2413|0T0707Y29Z|Twtw Yaxz Twtw|dadada2413@gmail.com|Slovakia,Bratislava|1987/04/27|B|9
+112ckek|99YVD17|Xyvd Dxxy Dxdx|112ckek@naver.com|Slovenia,Ljubljana|1992/02/20|S|9
+alohajihwan|78H4T6B4P7G|Ehat Bapt Teha|alohajihwan@gmail.com|Spain,Madrid|1998/03/08|B|9
+pce913|I9XF9Z|Vxfx Ivxf Zivx|pce913@gmail.com|Svalbard,Longyearbyen|1982/05/10|B|9
+altair2713|TEMT5KYD91|Emtb Ydxz Emtb|altair2713@sogang.ac.kr|Sweden,Stockholm|1998/01/02|C|9
+sang7|5TG35|Tgzd Tgzd Tgzd|sang7@naver.com|Switzerland,Bern|1992/02/18|S|9
+zozond|SHSH0W|Hshg Shsh Wshs|zozond@sogang.ac.kr|Ukraine,Kiev|1997/12/28|C|9
+HJY|2WL|Wluw Uwlu Luwl|HJY@sogang.ac.kr|Anguilla,The Valley|1999/06/27|C|9
+nahwasa|0TAPT5T|Tapt Tgta Tltg|nahwasa@sogang.ac.kr|Antigua and Barbuda,Saint John¡¯s|1990/10/16|C|9
+cjmp1|9C9IX|Cfix Cfix Cfix|cjmp1@naver.com|Argentina,Buenos Aires|1973/10/28|S|9
+kinssang|D5GLLT0Z|Bgll Gzdb Lltg|kinssang@naver.com|Aruba,Oranjestad|1997/07/12|S|9
+jjmjm2002|66F690WW0|Cfcf Wwyc Fcfy|jjmjm2002@naver.com|Bahamas,Nassau|1998/01/20|S|9
+lsh1oo4|E5AXH12|Laxh Aela Hhae|lsh1oo4@gmail.com|Barbados,Bridgetown|1985/05/04|B|9
+tmdghks9574|MFW3A75F35A|Fwza Lfbd Mfwz|tmdghks9574@daum.net|Belize,Belmopan|1980/03/02|A|9
+1207koo|XYW57HH|Ywdd Hxyw Dhhx|1207koo@daum.net|Bermuda,Hamilton|1991/02/06|A|9
+monch98|F1GVA76|Hgva Efhg Afef|monch98@naver.com|Bolivia,Sucre|1987/01/09|S|9
+isalpha|5L7EI4T|Ltei Tblt Iatb|isalpha@daum.net|Brazil,Braslia|1994/06/14|A|9
+judicat0r|C70597MWK|Nwbv Mwkc Wbvt|judicat0r@gmail.com|British Virgin Islands,Road Town|1975/04/08|B|9
+limssi|8BFLL5|Bfll Ebfl Bebf|limssi@daum.net|Canada,Ottawa|1976/08/23|A|9
+Conatuseus|71GTMNL17L|Hgtm Lxnl Hgtm|Conatuseus@gmail.com|Cayman Islands,George Town|1975/10/15|B|9
+lomotos10|81FH6H5X8|Hfhm Lxwe Fhmh|lomotos10@sogang.ac.kr|Chile,Santiago|1977/10/06|C|9
+olbbemi|H8UUXF5|Euux Bheu Xfbh|olbbemi@naver.com|Colombia,Bogot|1982/04/30|S|9
+nicegml|05V13F8|Bvxz Egbv Zfeg|nicegml@sogang.ac.kr|Costa Rica,San Jos|1981/08/18|C|9
+rosedskim|K15X0LD5F|Hlxw Dbfk Lxwl|rosedskim@gmail.com|Cuba,Havana|1983/07/30|B|9
+gglifer|3385214|Zeby Kzze Yxkz|gglifer@gmail.com|Curacao,Willemstad|1980/04/29|B|9
+20183016|YW9E189C|Wxez Xcyw Ezwx|20183016@naver.com|Dominica,Roseau|1978/09/21|S|9
+logwns|8HZP05|Hzpg Ehzp Lehz|logwns@gmail.com|Dominican Republic,Santo Domingo|1977/10/11|B|9
+akswnd98|7D5PGW7E|Dlpg Fetd Pgwf|akswnd98@sogang.ac.kr|Ecuador,Quito|1989/07/14|C|9
+chhun|94470|Aang Aang Aang|chhun@daum.net|El Salvador,San Salvador|1996/02/25|A|9
+9507ym|7BWD1F|Bwdr Fbwd Ffbw|9507ym@naver.com|Falkland Islands,Stanley|1994/01/26|S|9
+namhong2001|0TF4HG30WW9|Tfah Zyww Gtfa|namhong2001@sogang.ac.kr|French Guiana,Cayenne|1974/10/03|C|9
+123jhlee|9Y164E1X|Yzca Xxxy Caex|123jhlee@naver.com|Greenland,Nuuk|1988/03/22|S|9
+rhksdlr134|KA75WEKXZ2|Adlw Kxza Adlw|rhksdlr134@sogang.ac.kr|Grenada,Saint George's|1974/07/02|C|9
+wonmo|9H09H|Hgfh Hgfh Hgfh|wonmo@naver.com|Guadeloupe,Basse-Terre|1984/10/21|S|9
+djs100201|WC5XWWY89|Clxw Ywxw Lxww|djs100201@gmail.com|Guatemala,Guatemala City|1989/11/04|B|9
+kwang0e|79TGZW1|Ptgz Xdpt Zwxd|kwang0e@naver.com|Guyana,Georgetown|1987/10/02|S|9
+whoru|PAH47|Ahkn Ahkn Ahkn|whoru@sogang.ac.kr|Haiti,Port-au-Prince|1970/05/12|C|9
+4011hjs|2WX9AC5|Wxxa Lawx Acla|4011hjs@naver.com|Honduras,Tegucigalpa|1973/02/28|S|9
+infoefficiency|BGYHX225VB10V1|Gyhx Ybvb Gvrb|infoefficiency@gmail.com|Jamaica,Kingston|1974/09/02|B|9
+starlett|LMT4EXMM|Mtke Mmlm Kexm|starlett@sogang.ac.kr|Martinique,Fort-de-France|1998/03/11|C|9
+shie44167|54BXAA9CD|Abxa Xcdl Bxaa|shie44167@daum.net|Mexico,Mexico City|1974/06/26|A|9
+gse123|35XXY1|Lxxy Zlxx Zzlx|gse123@naver.com|Montserrat,Brades|1984/05/15|S|9
+cyk6545|91D4BAB|Rdcb Bvrd Babv|cyk6545@daum.net|Nicaragua,Managua|1979/10/08|A|9
+cocobino|V19HU5G1|Hvhu Ghvh Hubg|cocobino@gmail.com|Panama,Panama City|1995/02/25|B|9
+leehosu01|EXXAHLN89|Xxah Nwxe Xahl|leehosu01@gmail.com|Paraguay,Asuncin|1992/02/07|B|9
+birdy1229|U540RXY07|Bkwr Yyfu Kwrx|birdy1229@daum.net|Peru,Lima|1984/01/26|A|9
+peter0708|IXM1K8D8E|Xmxk Dwei Mxkw|peter0708@naver.com|Puerto Rico,San Juan|1979/05/18|S|9
+be_ok91|81R1D7X|Xrhd Xuxr Dfxu|be_ok91@naver.com|Saint Barthelemy,Gustavia|1984/10/10|S|9
+ychooni|R9AHHG5|Vahh Brva Hgbr|ychooni@naver.com|Saint Kitts and Nevis,Basseterre|1986/04/15|S|9
+wjdrkrwnd|96047KP00|Cwkd Pgwp Wkdk|wjdrkrwnd@gmail.com|Saint Lucia,Castries|1972/02/12|B|9
+jak5022|CT73WYY|Tdbw Yctd Wyyc|jak5022@daum.net|Saint Martin,Marigot|1983/08/09|A|9
+wjdwithyou|96W95MA117|Cwpb Arhn Cwpb|wjdwithyou@sogang.ac.kr|Saint Pierre and Miquelon,Saint-Pierre|1995/09/07|C|9
+slimshady5|585F54T013|Ebfl Twrb Ebfl|slimshady5@gmail.com|Saint Vincent and the Grenadines,Kingstown|1988/02/11|B|9
+sunga201|L7GZTY8X|Ngzt Wxln Ztyw|sunga201@sogang.ac.kr|Sint Maarten,Philipsburg|1986/04/24|C|9
+sweatpotato|5PXT6I16T6H|Pxtm Hmtm Lpxt|sweatpotato@gmail.com|South Georgia and South Sandwich Islands,King Edward Point|1994/06/04|B|9
+CookieHCl|P1H75XU7E|Hhdb Upep Hdbx|CookieHCl@sogang.ac.kr|Suriname,Paramaribo|1971/01/04|C|9
+polohee81|I1814X1EX|Heha Xexi Ehax|polohee81@daum.net|Trinidad and Tobago,Port-of-Spain|1971/04/23|A|9
+xloolx03|0E1HE0W1|Ehhe Wzqe Heqw|xloolx03@gmail.com|Turks and Caicos Islands,Cockburn Town|1973/11/03|B|9
+2005rladudwo|Y8W3K8T0709H|Wwbk Twnw Hyww|2005rladudwo@daum.net|United States,"Washington, D.C."|1970/09/10|A|9
+sjh931125|LCA7Z9X0B|Cafz Xybl Afzx|sjh931125@naver.com|Uruguay,Montevideo|1987/05/11|S|9
+haja|4TC7|Tcta Ctat Tatc|haja@naver.com|Venezuela,Caracas|1981/05/11|S|9
+chltmdals111|9A8MF0TELXX9|Aemf Telx Xvae|chltmdals111@naver.com|Virgin Islands,Charlotte Amalie|1971/07/28|S|9
+ncy09|GVR8F|Vrwf Vrwf Vrwf|ncy09@sogang.ac.kr|Afghanistan,Kabul|1988/07/22|C|9
+chhi0123|V445W9YZ|Aabw Yzva Bwxy|chhi0123@sogang.ac.kr|Armenia,Yerevan|1978/10/28|C|9
+snailgod86|5G7BE310E4|Gtbe Hwec Gtbe|snailgod86@daum.net|Azerbaijan,Baku|1990/09/26|A|9
+loveyourself|8H8X1174LXEY|Hoxr Nklx Yeho|loveyourself@sogang.ac.kr|Bahrain,Manama|1973/01/06|C|9
+codek|VHW1D|Hwxd Hwxd Hwxd|codek@daum.net|Bangladesh,Dhaka|1995/01/30|A|9
+somuch0321|51F7VA81YX|Hfnv Wzyx Hfnv|somuch0321@naver.com|Bhutan,Thimphu|1977/01/03|S|9
+oyu8201|H1N608X|Rney Xhrn Ywxh|oyu8201@daum.net|Brunei,Bandar Seri Begawan|1984/02/21|A|9
+khk080618|7AD8E8CX6|Adwe Cxed Dwew|khk080618@gmail.com|Burma,Nay Pyi Taw|1976/11/11|B|9
+kjmin622|7CF5G4YY|Cfbg Yydc Bgcy|kjmin622@sogang.ac.kr|Cambodia,Phnom Penh|1985/11/30|C|9
+kadragon|DT0K731G|Twkt Hgdt Ktzh|kadragon@sogang.ac.kr|China,Beijing|1999/02/03|C|9
+cepiloth|91IB81M4|Xibe Mavx Behm|cepiloth@sogang.ac.kr|Cyprus,Nicosia|1989/05/25|C|9
+dkvmflzk98|0789Y8SD76|Dofy Sdfe Dofy|dkvmflzk98@naver.com|East Timor,Dili|1991/10/15|S|9
+nsj6646|GL6C42C|Lccc Cglc Cacg|nsj6646@gmail.com|Georgia,Tbilisi|1981/09/13|B|9
+mario34|97K5HZ2|Tkbh Aftk Hzaf|mario34@naver.com|Hong Kong,Hong Kong|1981/12/12|S|9
+msjeong|F561H03|Lcxh Zflc Hgzf|msjeong@daum.net|India,New Delhi|1985/04/02|A|9
+bluefire|UE712BK1|Enxy Kxue Xybk|bluefire@naver.com|Indonesia,Jakarta|1977/07/01|S|9
+kyitss|DR5ML5|Rbml Drbm Ldrb|kyitss@sogang.ac.kr|Iran,Tehran|1973/07/24|C|9
+cjypassion93|96127LL51071|Crit Lbhg Zvcr|cjypassion93@daum.net|Iraq,Baghdad|1982/06/06|A|9
+jokerkwu|CHDXK7PN|Hdxk Pnch Xkdp|jokerkwu@daum.net|Israel,Jerusalem|1987/02/28|A|9
+soo7652|LH1D4B0|Hhdc Ylhh Cbyl|soo7652@gmail.com|Japan,Tokyo|1982/10/24|B|9
+suji1802|L765X68Y|Ncbx Wyln Bxew|suji1802@sogang.ac.kr|Jordan,Amman|1981/07/07|C|9
+139|9Z7|Zfxz Xzfx Fxzf|139@daum.net|Kazakhstan,Nursultan|1986/05/27|A|9
+dlqudrjs|WEJNWKCL|Ejnw Clwe Nwkc|dlqudrjs@daum.net|Kuwait,Kuwait City|1987/10/26|A|9
+pppgod|2I2ZH0|Iizh Iiiz Wiii|pppgod@naver.com|Kyrgyzstan,Bishkek|1984/09/20|S|9
+yohan5050|1HAT0B83W|Hatg Wbwr Atgb|yohan5050@sogang.ac.kr|Laos,Vientiane|1985/12/30|C|9
+genius_choi|Z1GB7L5VA15|Xgbn Rvah Zxgb|genius_choi@naver.com|Lebanon,Beirut|1985/10/07|S|9
+bomeayo|8H9X7R1|Hfxt Huhf Trhu|bomeayo@daum.net|Macao,Concelho de Macau|1994/01/12|A|9
+coinchuu|V1BGV477|Hbgv Nnvh Gvan|coinchuu@sogang.ac.kr|Malaysia,Kuala Lumpur|1982/10/14|C|9
+kibbomi|75UU1F5|Buuh Bdbu Hfbd|kibbomi@sogang.ac.kr|Maldives,Mal|1997/04/26|C|9
+cwd0525|9P08B0B|Pwwb Bvpw Bybv|cwd0525@sogang.ac.kr|Mongolia,Ulaanbaatar|1986/12/28|C|9
+tothesky7|M16AXL71D|Hmax Drdm Maxl|tothesky7@daum.net|Nepal,Kathmandu|1995/04/10|A|9
+ksq111|753999|Ljxx Dljx Xdlj|ksq111@daum.net|North Korea,Pyongyang|1985/08/06|A|9
+greedev|34X1W18|Kxxw Ozkx Wxoz|greedev@gmail.com|Oman,Muscat|1991/02/06|B|9
+fumire|2N9B4X|Nfbk Ynfb Xynf|fumire@gmail.com|Pakistan,Islamabad|1982/11/16|B|9
+aig0016|7B38WX4|Bzww Ctbz Wxct|aig0016@naver.com|Palestine,Ramallah|1986/08/24|S|9
+kioio5|D5H5HB|Bhbh Dbhb Bdbh|kioio5@daum.net|Philippines,Manila|1984/07/22|A|9
+enochjung|101VA67G3|Ghva Ngzx Hvac|enochjung@gmail.com|Qatar,Doha|1973/03/21|B|9
+easter3163|1TL6XKZ9C1|Tlmx Zxcz Tlmx|easter3163@naver.com|Saudi Arabia,Riyadh|1983/08/13|S|9
+phpmysql|2A2FR538|Aifr Jeia Frlj|phpmysql@gmail.com|Singapore,Singapore|1991/10/26|B|9
+njh215|G6A093|Cayx Gcay Bgca|njh215@gmail.com|South Korea,Seoul|1983/10/18|B|9
+5123khw|BX01749|Xyzd Pbxy Dapb|5123khw@daum.net|Sri Lanka,Colombo|1979/05/21|A|9
+opop20207|12120W08D|Ihiy Ywdh Hiyw|opop20207@daum.net|Syria,Damascus|1988/01/17|A|9
+isbidip|B5U505I|Lubw Iblu Wbib|isbidip@daum.net|Taiwan,Taipei|1985/01/12|A|9
+inju2403|BG6NY28Z|Gcny Wzbg Nyaw|inju2403@daum.net|Tajikistan,Dushanbe|1988/08/10|A|9
+jhj967878|CAC745E56|Acfc Edec Cfcd|jhj967878@gmail.com|Thailand,Bangkok|1995/10/27|B|9
+ls4154|85AXBA|Laxb Elax Aela|ls4154@naver.com|Turkey,Ankara|1986/07/30|S|9
+renkousami|41G717LT95|Xgdh Ltfb Xgdh|renkousami@sogang.ac.kr|Turkmenistan,Ashgabat|1997/12/19|C|9
+q9922000|3FF0Y88W|Ffyy Wwjf Yyww|q9922000@sogang.ac.kr|United Arab Emirates,Abu Dhabi|1991/06/19|C|9
+readyq|K1TWRJ|Xtwr Kxtw Jkxt|readyq@naver.com|Uzbekistan,Tashkent|1981/02/07|S|9
+khsh5592|DA5A3370|Alab Fyda Abbf|khsh5592@naver.com|Vietnam,Hanoi|1973/06/08|S|9
+akrja4|T74C72|Dkct Tdkc Atdk|akrja4@daum.net|Yemen,Sanaa|1991/10/10|A|9
+yuiop8747|R7BH2ED25|Nbhi Dadr Bhie|yuiop8747@sogang.ac.kr|Algeria,Algiers|1999/03/13|C|9
+appleshy3205|TI2E1L4RZ08B|Iiex Arzy Btii|appleshy3205@daum.net|Angola,Luanda|1992/12/17|A|9
+rnjstpgns91|4065623GLFX|Gclm Zglf Kgcl|rnjstpgns91@gmail.com|Benin,Porto-Novo|1988/02/10|B|9
+kaskandk|D7L7T00D|Tldt Wddt Dtgw|kaskandk@daum.net|Botswana,Gaborone|1984/03/17|A|9
+iooqooo|BH1JH11|Hhjh Hbhh Hhhb|iooqooo@naver.com|Burkina Faso,Ouagadougou|1991/02/04|S|9
+kangbada0728|DTG38707W506|Tgzu Wtwd Edtg|kangbada0728@sogang.ac.kr|Burundi,Bujumbura|1992/12/13|C|9
+Joon|W1H0|Hhgw Hgwh Gwhh|Joon@naver.com|Cameroon,Yaound|1984/11/28|S|9
+sunho0371|L7G4HWZ59|Ngah Zdxl Gahw|sunho0371@daum.net|Cape Verde,Praia|1970/05/22|A|9
+nsjpys|056215|Lcir Glci Lglc|nsjpys@naver.com|Central African Republic,Bangui|1976/11/06|S|9
+oct301|H9MZ8X|Vmzw Hvmz Xhvm|oct301@sogang.ac.kr|Chad,N'Djamena|1983/08/22|C|9
+kimdr123|DB90KX01|Bfwk Yzdb Wkxy|kimdr123@daum.net|Comoros,Moroni|1988/05/17|A|9
+eldkqmfhf123|XE07J924YXY1|Ewdj Yayx Zxew|eldkqmfhf123@daum.net|Democratic Republic of the Congo,Kinshasa|1988/03/13|A|9
+wh2per|940I1K|Ayix Payi Kpay|wh2per@daum.net|Djibouti,Djibouti|1974/06/09|A|9
+ish333|55A1Z1|Lazz Blaz Zbla|ish333@sogang.ac.kr|Egypt,Cairo|1987/07/20|C|9
+woojw911|P1H697X9|Hhcp Xxph Cpfx|woojw911@daum.net|Equatorial Guinea,Malabo|1978/02/09|A|9
+poljjak|21E6677|Hecc Dihe Ctdi|poljjak@gmail.com|Eritrea,Asmara|1994/07/18|B|9
+hun6728|470C5Y6|Ngcd Eang Dyea|hun6728@sogang.ac.kr|Ethiopia,Addis Ababa|1979/06/13|C|9
+moonhi123|F110AB90Z|Hhga Xyzf Hgab|moonhi123@daum.net|Gabon,Libreville|1971/01/11|A|9
+wwiiiii|9PBB555|Pbbb Bppb Bbbp|wwiiiii@gmail.com|Gambia,Banjul|1983/02/04|B|9
+shhj1998|L44CXF7E|Aacx Fela Cxff|shhj1998@naver.com|Ghana,Accra|1997/05/08|S|9
+qkrwjdfbf|3749C0Y8Y|Dkpc Yuyj Kpcw|qkrwjdfbf@sogang.ac.kr|Guinea,Conakry|1991/04/08|C|9
+wooljs|91H865|Hhec Phhe Lphh|wooljs@sogang.ac.kr|Guinea-Bissau,Bissau|1980/04/23|C|9
+xhdxhl|Q4WQAE|Awqa Qawq Eqaw|xhdxhl@sogang.ac.kr|Ivory Coast,Yamoussoukro|1978/08/30|C|9
+h0ng|A8GZ|Wgza Gzaw Zawg|h0ng@sogang.ac.kr|Kenya,Nairobi|1972/12/09|C|9
+ontael333|10M71E1ZZ|Gmtx Zzzh Mtxe|ontael333@naver.com|Lesotho,Maseru|1997/03/27|S|9
+pcj01142|IV6WX9AY|Vcwx Ayiv Wxxa|pcj01142@daum.net|Liberia,Monrovia|1994/05/21|A|9
+blackiron|88797BK10|Etvd Khgu Tvdb|blackiron@gmail.com|Libya,Tripoli|1970/02/26|B|9
+jinhan814|65G4T06XA|Bgat Exac Gatg|jinhan814@daum.net|Madagascar,Antananarivo|1998/09/08|A|9
+xcm1321|Q9FX1Y9|Vfxz Xqvf Zyxq|xcm1321@daum.net|Malawi,Lilongwe|1990/08/20|A|9
+ukjinlee|776B0EXX|Dcbg Xxnd Bgex|ukjinlee@sogang.ac.kr|Mali,Bamako|1973/03/09|C|9
+ghssh1|ZAL5AX|Alla Zall Xzal|ghssh1@daum.net|Mauritania,Nouakchott|1973/02/05|A|9
+jaeung95|CT1NG37B|Txng Fbct Ngzf|jaeung95@daum.net|Mauritius,Port Louis|1984/03/11|A|9
+tmdahr1245|MFWTA49YAB|Fwta Xyab Fwta|tmdahr1245@naver.com|Mayotte,Mamoudzou|1970/10/19|S|9
+sjy366|LC1ZC4|Crzc Lcrz Clcr|sjy366@daum.net|Morocco,Rabat|1990/04/01|A|9
+poohbilly2|I11AUB8E1Y|Hhau Eery Hhau|poohbilly2@naver.com|Mozambique,Maputo|1982/08/08|S|9
+pkiop|2751I|Dbhi Dbhi Dbhi|pkiop@daum.net|Namibia,Windhoek|1984/04/03|A|9
+kyaryunha_cpp|DR7KRN0A7R9I2|Rtkr Gatr Iidr|kyaryunha_cpp@naver.com|Niger,Niamey|1978/02/02|S|9
+xgboost|Q3811L6|Zuhh Mqzu Hlmq|xgboost@naver.com|Nigeria,Abuja|1993/12/15|S|9
+woo960131|PH1748XZX|Hhfc Xzxp Hfcw|woo960131@naver.com|Republic of the Congo,Brazzaville|1986/12/18|S|9
+hani0714|4T05859A|Tgbw Xaat Bwdx|hani0714@sogang.ac.kr|Reunion,Saint-Denis|1980/12/29|C|9
+helloworld123|4X881P14E0XY1|Xeeh Hkew Yzax|helloworld123@sogang.ac.kr|Rwanda,Kigali|1982/09/26|C|9
+ac259bj|790378C|Vybf Ctvy Fuct|ac259bj@naver.com|Sao Tome and Principe,So Tom|1983/07/14|S|9
+yehyun|1XA17G|Xarn Rxar Grxa|yehyun@gmail.com|Senegal,Dakar|1987/08/28|B|9
+ngd|GZW|Zwgz Gzwg Wgzw|ngd@gmail.com|Seychelles,Victoria|1973/12/05|B|9
+pcw109550|IV9X8F33W|Vpxw Bbwi Pxwf|pcw109550@sogang.ac.kr|Sierra Leone,Freetown|1981/01/27|C|9
+02ek9fgurghyr845|WYXDF237434R4EAB|Yxdf Znkz Rkea|02ek9fgurghyr845@gmail.com|Somalia,Mogadishu|1987/10/08|B|9
+cwa7510|99TDB9W|Ptdb Wvpt Bxwv|cwa7510@gmail.com|South Africa,Pretoria|1984/01/03|B|9
+rycbar2592|K1V8TK037Y|Rvut Ybfy Rvut|rycbar2592@sogang.ac.kr|South Sudan,Juba|1979/01/29|C|9
+poirin|I15K5G|Hbkb Ihbk Gihb|poirin@gmail.com|Sudan,Khartoum|1982/10/16|B|9
+akane|7D701|Dtgx Dtgx Dtgx|akane@daum.net|Swaziland,Mbabane|1984/05/20|A|9
+fuzzy|27221|Nssr Nssr Nssr|fuzzy@sogang.ac.kr|Tanzania,Dodoma|1978/05/03|C|9
+hjhj97|AC46FD|Cacf Acac Daca|hjhj97@gmail.com|Togo,Lom|1985/02/07|B|9
+gs18115|ZLX6XX3|Lxex Bzlx Xxbz|gs18115@sogang.ac.kr|Tunisia,Tunis|1982/04/23|C|9
+kth990303|DM4FFWZ81|Maff Zwzd Affw|kth990303@gmail.com|Uganda,Kampala|1996/09/01|B|9
+39dll|Z708E|Fwee Fwee Fwee|39dll@daum.net|Western Sahara,El Aain|1986/04/27|A|9
+minjunkweon|9BG6N07P11G|Bgcn Dpxh Fbgc|minjunkweon@naver.com|Zambia,Lusaka|1996/05/09|S|9
+pjh6792|2CACDF0|Cacd Yica Dfyi|pjh6792@sogang.ac.kr|Zimbabwe,Harare|1997/04/16|C|9
+previc1|24XOB99|Kxob Xikx Bvxi|previc1@daum.net|Islands,Mariehamn|1999/09/23|A|9
+si0sul|55W5NE|Bwln Lbwl Elbw|si0sul@sogang.ac.kr|Albania,Tirana|1982/05/05|C|9
+yoonsang9114|R1HGL70Z7X92|Hhgl Gzfx Arhh|yoonsang9114@daum.net|Andorra,Andorra la Vella|1981/09/05|A|9
+tuscanigt|M75V7GBZ6|Nlvt Bzmm Lvtg|tuscanigt@sogang.ac.kr|Austria,Vienna|1984/11/05|C|9
+dnjsdudals32|0G650707E51Y|Gclw Wtel Ywgc|dnjsdudals32@daum.net|Belarus,Minsk|1970/04/05|A|9
+hanhb1011|4T04UX89X|Tgau Wxxa Gaux|hanhb1011@daum.net|Belgium,Brussels|1983/01/20|A|9
+choo0618|94HH84XE|Ahhw Xeva Hwcx|choo0618@sogang.ac.kr|Bosnia and Herzegovina,Sarajevo|1989/01/16|C|9
+nova9128|0H8TF9YE|Hotf Yegh Tfxy|nova9128@naver.com|Bulgaria,Sofia|1997/02/18|S|9
+hoyasmh|A1R7L9A|Hrtl Aahr Lfaa|hoyasmh@gmail.com|Croatia,Zagreb|1980/02/04|B|9
+wjdgud0621|P603NW840X|Cwzn Wcyx Cwzn|wjdgud0621@gmail.com|Czechia,Prague|1982/02/14|B|9
+ggi411|Z35A99|Zbax Zzba Xzzb|ggi411@naver.com|Denmark,Copenhagen|1977/08/28|S|9
+ejnahc|1607A9|Cgta Xcgt Vxcg|ejnahc@gmail.com|Estonia,Tallinn|1973/01/02|B|9
+daddy0h|0T00R8A|Twwr Awtw Rwaw|daddy0h@daum.net|Faroe Islands,Trshavn|1993/04/22|A|9
+junghun1997|67G34N0X775|Ngza Gxff Cngz|junghun1997@naver.com|Finland,Helsinki|1998/07/14|S|9
+dnjs2113|W0C50XX1|Gcly Xzwg Lyxx|dnjs2113@gmail.com|France,Paris|1997/08/15|B|9
+antdkfa|TG60727|Gmwd Ttgm Dytt|antdkfa@daum.net|Germany,Berlin|1982/01/03|A|9
+kimyh9797|D5FRAF5F5|Bfra Dfdd Fraf|kimyh9797@sogang.ac.kr|Gibraltar,Gibraltar|1970/10/18|C|9
+d252b|0Y3YU|Ybyu Ybyu Ybyu|d252b@daum.net|Greece,Athens|1980/11/12|A|9
+hun222y|A7G0YYR|Ngyy Rang Yyra|hun222y@sogang.ac.kr|Guernsey,Saint Peter Port|1993/12/25|C|9
+ssyth19|5LR64XF|Lrma Fllr Axfl|ssyth19@daum.net|Hungary,Budapest|1982/06/09|A|9
+hnsk2109|AG570X87|Gldy Wfag Dyxw|hnsk2109@sogang.ac.kr|Iceland,Reykjavk|1993/11/09|C|9
+kkt89|D76EF|Dmef Dmef Dmef|kkt89@gmail.com|Ireland,Dublin|1999/05/14|B|9
+coffeetea|9H2Y11MX7|Hyyx Mxtv Yyxx|coffeetea@sogang.ac.kr|Isle of Man,Douglas|1980/08/01|C|9
+gauss148|3T755X26|Tnll Aezt Llxa|gauss148@gmail.com|Italy,Rome|1974/12/08|B|9
+wjdgur9534|960ZNKF312|Cwzn Fbza Cwzn|wjdgur9534@gmail.com|Jersey,Saint Helier|1997/12/26|B|9
+kdcal035|DWV7881B|Wvte Zbdw Tewz|kdcal035@sogang.ac.kr|Kosovo,Pristina|1981/09/26|C|9
+dksu40|W7572W|Dlna Wdln Wwdl|dksu40@sogang.ac.kr|Latvia,Riga|1978/04/28|C|9
+bysu|URLN|Rlnu Lnur Nurl|bysu@gmail.com|Liechtenstein,Vaduz|1976/02/29|B|9
+blackgt|8E7VDZM|Etvd Muet Dzmu|blackgt@daum.net|Lithuania,Vilnius|1981/10/04|A|9
+hahawjstk|A74TPCLMD|Tatp Lmda Atpc|hahawjstk@daum.net|Luxembourg,Luxembourg|1980/02/03|A|9
+openingsound|H2X0B03LHNG0|Ixgb Zlhn Whix|openingsound@daum.net|Malta,Valletta|1991/12/13|A|9
+wintershadow|PB06X4L4701P|Bgmx Latw Ppbg|wintershadow@sogang.ac.kr|Moldova,Chisinau|1999/03/15|C|9
+ljiho1998|86BA197F6|Cbah Ffee Bahx|ljiho1998@sogang.ac.kr|Monaco,Monaco|1995/01/05|C|9
+curnurx|V7K0NKQ|Nkgn Qvnk Nkqv|curnurx@sogang.ac.kr|Montenegro,Podgorica|1970/09/24|C|9
+hhhh1352|A44A913Y|Aaax Byaa Axzb|hhhh1352@daum.net|Netherlands,Amsterdam|1984/08/13|A|9
+pasa3232|ITLT1YZ0|Tltz Zyit Tzyz|pasa3232@sogang.ac.kr|North Macedonia,Skopje|1989/11/02|C|9
+dudn134|0N009Z2|Nwgx Awnw Xzaw|dudn134@sogang.ac.kr|Norway,Oslo|1988/01/12|C|9
+lim551|859BBX|Bfbb Ebfb Xebf|lim551@sogang.ac.kr|Poland,Warsaw|1975/03/11|C|9
+shvk54|5AO7B2|Aodb Laod Alao|shvk54@sogang.ac.kr|Portugal,Lisbon|1981/07/25|C|9
+average10|7OXK73X98|Oxkt Xxwt Xktz|average10@daum.net|Romania,Bucharest|1985/07/30|A|9
+junsmilevv|6NG5F5EXOO|Nglf Exoo Nglf|junsmilevv@naver.com|Russia,Moscow|1988/03/24|S|9
+aza1200|T2T908W|Stxy Wtst Ywwt|aza1200@daum.net|San Marino,San Marino|1982/05/17|A|9
+wshin|9LA5G|Labg Labg Labg|wshin@naver.com|Serbia,Belgrade|1994/07/30|S|9
+kthng|7M40Z|Magz Magz Magz|kthng@naver.com|Slovakia,Bratislava|1993/02/30|S|9
+drater|0K7MX4|Ktmx Wktm Kwkt|drater@naver.com|Slovenia,Ljubljana|1992/04/06|S|9
+eovh1962|1H84X74Y|Hoax Cyxh Axfc|eovh1962@naver.com|Spain,Madrid|1993/01/03|S|9
+kimchangyoung|7B99AT0Z1H7G3|Bfva Gzrh Gzdb|kimchangyoung@sogang.ac.kr|Svalbard,Longyearbyen|1981/08/30|C|9
+0218jhlee|809ECA8X1|Yxec Exxw Xeca|0218jhlee@sogang.ac.kr|Sweden,Stockholm|1971/06/13|C|9
+cocomo1316|9H9191XZX4|Hvhf Xzxc Hvhf|cocomo1316@naver.com|Switzerland,Bern|1997/08/04|S|9
+acebroad|791U4H7W|Vxuk Twtv Ukht|acebroad@gmail.com|Ukraine,Kiev|1998/05/14|B|9
+lacrimak|ETV4BF77|Tvkb Tdet Kbft|lacrimak@gmail.com|Anguilla,The Valley|1988/04/26|B|9
+kwonhj0116|7PH04C89X4|Phga Wxxc Phga|kwonhj0116@sogang.ac.kr|Antigua and Barbuda,Saint John¡¯s|1996/11/27|C|9
+jeongbeen|C1H038XX0|Xhgz Xxgc Hgzu|jeongbeen@daum.net|Argentina,Buenos Aires|1974/11/11|A|9
+adamdoha|T079W14T|Wtfw Attw Fwha|adamdoha@sogang.ac.kr|Aruba,Oranjestad|1978/09/20|C|9
+awdcgy|79093R|Pwvz Tpwv Rtpw|awdcgy@daum.net|Bahamas,Nassau|1988/09/02|A|9
+haung921209|477037090W7|Tngz Yxyw Atng|haung921209@sogang.ac.kr|Barbados,Bridgetown|1994/11/07|C|9
+leaps|81TI5|Xtil Xtil Xtil|leaps@sogang.ac.kr|Belize,Belmopan|1994/06/16|C|9
+fafnir|2TY0B4|Tygb Ytyg Kyty|fafnir@naver.com|Bermuda,Hamilton|1983/08/27|S|9
+pkc4913|I7927XZ|Dvaf Zidv Fxzi|pkc4913@daum.net|Bolivia,Sucre|1991/02/07|A|9
+gs11008|Z5XXW8E|Lxxw Ezlx Wwez|gs11008@sogang.ac.kr|Brazil,Braslia|1988/11/28|C|9
+kts1801|7ML968X|Mlxe Xdml Ewxd|kts1801@daum.net|British Virgin Islands,Road Town|1985/04/12|A|9
+godmoon00|31091H08W|Hwfh Gwwz Wfhh|godmoon00@gmail.com|Canada,Ottawa|1988/02/18|B|9
+mbkim95|9UD5973|Udbf Bfud Ffbf|mbkim95@sogang.ac.kr|Cayman Islands,George Town|1975/09/19|C|9
+kium100|757F988|Bnfx Wdbn Xwwd|kium100@daum.net|Chile,Santiago|1981/07/05|A|9
+esspks21|15LID509|Llid Yxxl Idly|esspks21@gmail.com|Colombia,Bogot|1988/02/13|B|9
+jungh93|6N0ZAF1|Ngza Zcng Afzc|jungh93@sogang.ac.kr|Costa Rica,San Jos|1985/02/29|C|9
+woolim|9H18B9|Hheb Phhe Fphh|woolim@sogang.ac.kr|Cuba,Havana|1971/11/03|C|9
+tmd3283|6F01Y6Z|Fwzy Zmfw Yezm|tmd3283@naver.com|Curacao,Willemstad|1977/04/28|S|9
+nisroeld99|G554H1EWF7|Blkh Ewff Blkh|nisroeld99@sogang.ac.kr|Dominica,Roseau|1996/01/25|C|9
+behappyis|UX4TII1B5|Xati Rblu Atii|behappyis@sogang.ac.kr|Dominican Republic,Santo Domingo|1979/08/10|C|9
+hanwjdgh|A70P6034|Tgpc Zaat Pcwz|hanwjdgh@gmail.com|Ecuador,Quito|1975/09/23|B|9
+bannplayer|UTG0I87R1K|Tggi Trxk Tggi|bannplayer@daum.net|El Salvador,San Salvador|1971/05/23|A|9
+roccokjs|KHVVH765|Hvvh Clkh Vhdc|roccokjs@gmail.com|Falkland Islands,Stanley|1982/10/21|B|9
+hshoon01|45A1HGW9|Lahh Wxal Hhgw|hshoon01@naver.com|French Guiana,Cayenne|1993/09/07|S|9
+brown597|84190BF5|Khpg Fduk Pgbf|brown597@naver.com|Greenland,Nuuk|1998/09/29|S|9
+wogns1026|P13G59804|Hzgl Wycp Zglx|wogns1026@sogang.ac.kr|Grenada,Saint George's|1974/04/09|C|9
+hazxz|47SQ2|Tsqs Tsqs Tsqs|hazxz@naver.com|Guadeloupe,Basse-Terre|1995/02/10|S|9
+ymjoo12|R9CHHX0|Fchh Yrfc Hxyr|ymjoo12@daum.net|Guatemala,Guatemala City|1999/03/04|A|9
+gs16109|ZLXCX87|Lxcx Fzlx Xwfz|gs16109@daum.net|Guyana,Georgetown|1998/04/04|A|9
+jongheon0204|C1GZAX10808A|Hgza Hgwy Achg|jongheon0204@gmail.com|Haiti,Port-au-Prince|1975/03/27|B|9
+a891|T6F9|Efxt Fxte Xtef|a891@daum.net|Honduras,Tegucigalpa|1987/10/06|A|9
+kisrin4319|7B545G21X7|Blkb Azxf Blkb|kisrin4319@sogang.ac.kr|Jamaica,Kingston|1983/04/13|C|9
+cedar0|910TK8|Xwtk Vxwt Wvxw|cedar0@daum.net|Martinique,Fort-de-France|1982/01/04|A|9
+semtax|519MTQ|Xfmt Lxfm Qlxf|semtax@gmail.com|Mexico,Mexico City|1975/09/03|B|9
+minjae200|9BG67X0W8|Bgct Ywwf Gctx|minjae200@daum.net|Montserrat,Brades|1994/11/11|A|9
+dusdn10tkf|0NL009W6DY|Nlwg Wmdy Nlwg|dusdn10tkf@sogang.ac.kr|Nicaragua,Managua|1983/09/08|C|9
+shinsy11|L4B05199|Abgl Xxla Glrx|shinsy11@naver.com|Panama,Panama City|1971/05/01|S|9
+zoskeksk|SH5717L7|Hldx Ldsh Dxdl|zoskeksk@gmail.com|Paraguay,Asuncin|1980/12/04|B|9
+yomyom0824|11F119W6YA|Hfrh Weya Hfrh|yomyom0824@sogang.ac.kr|Peru,Lima|1976/06/22|C|9
+gun2841|Z7G062X|Ngye Xzng Eaxz|gun2841@gmail.com|Puerto Rico,San Juan|1994/10/04|B|9
+skyepodium|5DRXI1WBNF|Drxi Wbnf Drxi|skyepodium@daum.net|Saint Barthelemy,Gustavia|1991/11/21|A|9
+c4big|V285Z|Aubz Aubz Aubz|c4big@naver.com|Saint Kitts and Nevis,Basseterre|1996/04/21|S|9
+llllilll|8EE85888|Eeeb Eeee Ebee|llllilll@gmail.com|Saint Lucia,Castries|1979/12/18|B|9
+tyle47|MR8XAD|Rexa Mrex Dmre|tyle47@daum.net|Saint Martin,Marigot|1992/03/17|A|9
+ioskya|B1LDRT|Hldr Bhld Tbhl|ioskya@sogang.ac.kr|Saint Pierre and Miquelon,Saint-Pierre|1980/05/05|C|9
+junseo|67G511|Nglx Cngl Hcng|junseo@sogang.ac.kr|Saint Vincent and the Grenadines,Kingstown|1997/10/23|C|9
+youk0273|R1N7805Z|Hndw Dzrh Dwyd|youk0273@daum.net|Sint Maarten,Philipsburg|1970/09/12|A|9
+michro1|9BV441X|Bvak Xfbv Khxf|michro1@naver.com|South Georgia and South Sandwich Islands,King Edward Point|1978/10/18|S|9
+bvba|8O8T|Outu Utuo Tuou|bvba@daum.net|Suriname,Paramaribo|1983/06/11|A|9
+artichoke42|7K65V4HDX20|Kmbv Hdxa Tkmb|artichoke42@gmail.com|Trinidad and Tobago,Port-of-Spain|1972/12/26|B|9
+jiwon9187|6B9HG79ED|Bphg Xedc Phgf|jiwon9187@naver.com|Turks and Caicos Islands,Cockburn Town|1973/06/30|S|9
+parksjin01|I7KD56BG89|Tkdl Bgwx Tkdl|parksjin01@naver.com|United States,"Washington, D.C."|1987/04/24|S|9
+cbs0615|VULWC9B|Ulwc Bvul Cxbv|cbs0615@naver.com|Uruguay,Montevideo|1998/08/10|S|9
+baegyu3|87X3R7Z|Txzr Zutx Rnzu|baegyu3@daum.net|Venezuela,Caracas|1980/08/04|A|9
+jjang36524|66703Z4BY2|Ctgz Cbya Ctgz|jjang36524@naver.com|Virgin Islands,Charlotte Amalie|1981/12/14|S|9
+hasw7569|4759D34F|Tlpd Cfat Pdbc|hasw7569@daum.net|Afghanistan,Kabul|1992/02/05|A|9
+112224|99000A|Xyyy Xxyy Axxy|112224@naver.com|Armenia,Yerevan|1994/10/09|S|9
+kmg8280|DFZE0EW|Fzey Wdfz Yewd|kmg8280@gmail.com|Azerbaijan,Baku|1980/01/08|B|9
+kth004|DM4W82|Maww Dmaw Adma|kth004@gmail.com|Bahrain,Manama|1991/02/24|B|9
+hyo01116|AR1WXX94|Rhwx Xcar Wxxx|hyo01116@gmail.com|Bangladesh,Dhaka|1987/07/26|B|9
+cafemug|9TY1FN3|Tyxf Zvty Fnzv|cafemug@naver.com|Bhutan,Thimphu|1977/04/12|S|9
+kch1285|DVAX06B|Vaxy Bdva Yebd|kch1285@daum.net|Brunei,Bandar Seri Begawan|1983/03/20|A|9
+rose0310|K15181X8|Hlxw Xwkh Xwzx|rose0310@daum.net|Burma,Nay Pyi Taw|1999/03/15|A|9
+skeksk91|57XD5D7X|Dxdl Fxld Dldf|skeksk91@daum.net|Cambodia,Phnom Penh|1972/02/06|A|9
+durano|07KT0H|Nktg Wnkt Hwnk|durano@gmail.com|China,Beijing|1977/08/30|B|9
+dps2|02L0|Ilyw Lywi Ywil|dps2@sogang.ac.kr|Cyprus,Nicosia|1996/09/14|C|9
+jiho5993|6B41377Z|Bahb Fzcb Hbff|jiho5993@gmail.com|East Timor,Dili|1989/05/12|B|9
+dmsghkp|09LZ4DI|Flza Iwfl Adiw|dmsghkp@sogang.ac.kr|Georgia,Tbilisi|1977/09/27|C|9
+jinjh0707|6B0648DW5|Bgca Dwdc Gcaw|jinjh0707@naver.com|Hong Kong,Hong Kong|1970/12/09|S|9
+starwarscks|LMT4P7KLV7L|Mtkp Klvd Lmtk|starwarscks@sogang.ac.kr|India,New Delhi|1978/07/06|C|9
+zxcv551133|S0V8B3X9ZZ|Qvob Xxzz Qvob|zxcv551133@daum.net|Indonesia,Jakarta|1976/01/10|A|9
+sung1104hyun|570Z99W24170|Ngzx Waar Glng|sung1104hyun@gmail.com|Iran,Tehran|1999/02/04|B|9
+swh98|5P4F6|Pafe Pafe Pafe|swh98@gmail.com|Iraq,Baghdad|1995/02/17|B|9
+201313987|YWXZ917E5|Wxzx Fedy Xzxz|201313987@gmail.com|Israel,Jerusalem|1980/06/24|B|9
+ZZangZZang|0MT0300TG3|Mtgz Mtgz Mtgz|ZZangZZang@daum.net|Japan,Tokyo|1980/12/30|A|9
+kfc|7Y9|Yvdy Dyvd Vdyv|kfc@gmail.com|Jordan,Amman|1995/03/30|B|9
+baekwoo|8T17PH1|Txdp Hutx Phhu|baekwoo@sogang.ac.kr|Kazakhstan,Nursultan|1994/01/18|C|9
+osm1892|1LF9670|Lfxe Yhlf Efyh|osm1892@sogang.ac.kr|Kuwait,Kuwait City|1992/11/26|C|9
+kgstiger|7356BZ14|Zlmb Xkdz Mbzx|kgstiger@sogang.ac.kr|Kyrgyzstan,Bishkek|1990/01/28|C|9
+kuroie|DNK151|Nkhb Dnkh Xdnk|kuroie@sogang.ac.kr|Laos,Vientiane|1983/11/07|C|9
+leeym95|8X1R9F3|Xxrf Bexx Ffbe|leeym95@gmail.com|Lebanon,Beirut|1974/07/30|B|9
+supercom|57I14VH9|Nixk Hfln Xkvh|supercom@daum.net|Macao,Concelho de Macau|1997/07/06|A|9
+kwakmeensoo|D97DF1XGLHH|Ptdf Xglh Dptd|kwakmeensoo@daum.net|Malaysia,Kuala Lumpur|1981/02/05|A|9
+qjatn0120baek|JC760W908U71D|Ctmg Xywu Xdjc|qjatn0120baek@daum.net|Maldives,Mal|1980/04/25|A|9
+rjw210|4CP09W|Cpyx Kcpy Wkcp|rjw210@sogang.ac.kr|Mongolia,Ulaanbaatar|1971/08/07|C|9
+helloneo|AX88HGXH|Xeeh Xhax Ehgx|helloneo@sogang.ac.kr|Nepal,Kathmandu|1978/06/28|C|9
+michro|F5VAKH|Bvak Fbva Hfbv|michro@sogang.ac.kr|North Korea,Pyongyang|1975/04/22|C|9
+coep1234|9H1IXY12|Hxix Zavh Ixyz|coep1234@naver.com|Oman,Muscat|1999/02/23|S|9
+dlalswp25|W87ELPIYB|Etel Iybw Telp|dlalswp25@gmail.com|Pakistan,Islamabad|1982/01/05|B|9
+makgeolli|9T7ZXHE85|Tdzx Eebf Dzxh|makgeolli@daum.net|Palestine,Ramallah|1979/06/26|A|9
+serity|L14BMR|Xkbm Lxkb Rlxk|serity@naver.com|Philippines,Manila|1979/11/09|S|9
+Utenie|561G5X|Mxgb Hmxg Xhmx|Utenie@daum.net|Qatar,Doha|1970/07/03|A|9
+himyu|459R7|Bfrn Bfrn Bfrn|himyu@daum.net|Saudi Arabia,Riyadh|1995/02/23|A|9
+gdlife|30E5Y1|Weby Zweb Xzwe|gdlife@sogang.ac.kr|Singapore,Singapore|1986/04/19|C|9
+nosqeil24|GHL31BEY2|Hljx Eyag Ljxb|nosqeil24@sogang.ac.kr|South Korea,Seoul|1988/03/08|C|9
+reversing|4XO1K5B03|Xoxk Bgzk Oxkl|reversing@daum.net|Sri Lanka,Colombo|1973/11/08|A|9
+dotoleeoak|W1MHEXXHTD|Hmhe Xhtd Hmhe|dotoleeoak@daum.net|Syria,Damascus|1988/02/27|A|9
+hananakajima|4TGT077TC5F7|Tgtg Dtcb Tatg|hananakajima@daum.net|Taiwan,Taipei|1983/05/06|A|9

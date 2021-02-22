@@ -1,0 +1,1001 @@
+1000
+00002877|Funtime|2007/05/26|OneGuyGames|PC|57|709
+10001864|#killallzombies|2017/10/23|Beatshapers|PC|55|390
+20006762|10 Second Ninja X|2017/11/08|Four Circle Interactive|PC|93|441
+30005263|100ft Robot Golf|2001/01/13|No Goblin|PC|53|607
+40007367|101 Ways to Die|2013/09/13|Four Door Lemon|PS4|25|769
+50000572|11-11: Memories Retold|2004/07/26|Aardman|PS4|50|398
+60001195|13 Sentinels: Aegis Rim|2002/12/27|DigixArt|XBOX|26|482
+70004081|140|2004/10/08|Vanillaware|PC|12|103
+80004124|198X|2002/02/04|Double Fine Productions|XBOX|93|896
+90003967|1001 Spikes|2008/06/29|Hi-Bit Studios|XBOX|95|528
+01003257|1979 Revolution: Black Friday|2012/09/03|8bits Fanatics|PC|65|095
+11005413|2064: Read Only Memories|2000/08/06|iNK Stories|PS4|22|226
+21006317|20XX|2005/04/02|MidBoss|XBOX|76|170
+31006210|The 25th Ward: The Silver Case|2010/03/20|Batterystaple Games|Switch|67|112
+41005536|2Dark|2010/03/28|Grasshopper Manufacture|XBOX|44|851
+51006836|39 Days to Mars|2002/04/07|Gloomywood|Switch|10|229
+61006544|3D Billiards|2015/09/22|It's Anecdotal|PS4|15|246
+71007617|3D MiniGolf|2005/11/03|Z-Software|XBOX|83|324
+81004770|428: Shibuya Scramble|2000/03/24|Z-Software|PC|21|211
+91007232|5 Star Wrestling: ReGenesis|2000/04/10|Abstraction Games|PC|68|963
+02001931|60 Seconds!|2001/04/29|Serious Parody|PC|10|991
+12000757|7 Days to Die|2003/02/26|Robot Gentleman|PS4|84|477
+22007819|7th Sector|2000/11/07|The Fun Pimps|PS4|11|012
+32005306|8-bit Adventure Anthology: Volume I|2019/10/17|Noskov Sergey|Switch|82|949
+42000302|8-Bit Armies|2014/09/26|Abstraction Games|PC|94|711
+52001181|8-Bit Hordes|2009/09/11|Petroglyph Games|XBOX|80|403
+62000632|8-Bit Invaders|2012/11/07|Petroglyph Games|PS4|12|377
+72003703|88 Heroes|2004/12/10|Petroglyph Games|Switch|90|438
+82004487|8 to Glory|2017/11/06|Bitmap Bureau|PC|20|495
+92008413|9 Monkeys of Shaolin|2014/11/12|Three Gates|Switch|21|203
+03007946|911 Operator|2015/04/23|Sobaka Studio|PC|25|334
+13009790|99Vidas|2019/01/15|Jutsu Games|PC|18|230
+23003506|Aaero|2010/07/13|QuByte Interactive|PC|68|222
+33004609|Aaru's Awakening|2003/10/16|Mad Fellows Games|Switch|24|580
+43003777|A Boy and His Blob|2008/07/04|Lumenox Games|PC|60|419
+53005530|Absolute Drift: Zen Edition|2003/01/10|Abstraction Games|PS4|17|563
+63006977|Absolver|2010/03/15|Funselektor Labs|PC|60|193
+73008084|Abyss Odyssey|2009/12/14|Sloclap|PC|96|053
+83000166|Abyss: The Wraiths of Eden|2008/02/11|ACE Team|Switch|55|395
+93007045|Abz?|2006/11/07|Artifex Mundi|PC|72|274
+04003517|Accel World vs. Sword Art Online: Millennium Twilight|2016/02/15|Giant Squid|XBOX|14|542
+14009629|Ace Combat 7: Skies Unknown|2014/03/23|Artdink|PC|91|114
+24000182|Ace of Seafood|2014/05/09|Project Aces|Switch|77|274
+34003696|A Certain Magical Virtual-On|2008/06/18|Nussoft|Switch|54|125
+44006607|Aces of the Luftwaffe|2013/01/01|Sega|XBOX|35|831
+54002015|Achtung! Cthulhu Tactics|2002/04/10|HandyGames|XBOX|36|083
+64009616|Act It Out! A Game of Charades|2009/06/09|Auroch Digital|PS4|84|775
+74006526|Action Henk|2008/10/27|Snap Finger Click|PS4|10|870
+84006798|Active Neurons|2002/09/21|RageSquid|XBOX|21|509
+94006609|Adrift|2013/08/05|Nikolai Usachev|PC|65|508
+05005555|The Adventure Pals|2006/06/02|Three One Zero|Switch|06|038
+15002134|Adventures of Pip|2015/08/19|Massive Monster|PC|29|550
+25004997|Adventures of Scarlet Curiosity|2000/03/22|Tic Toc Games|PS4|63|386
+35003897|Adventure Time: Finn & Jake Investigations|2005/09/23|Ankake Supa|XBOX|02|553
+45007799|Aegis Defenders|2010/03/30|Vicious Cycle Software|PS4|18|647
+55004762|Aegis of Earth: Protonovus Assault|2018/02/20|Guts Department|PS4|19|217
+65004130|AER: Memories of Old|2016/07/18|Acquire|PS4|73|294
+75002493|AeternoBlade|2013/03/04|Forgotten Key|XBOX|24|465
+85002812|AeternoBlade II|2012/08/19|Corecell Technology|XBOX|47|529
+95009470|AFL Evolution|2003/07/19|Corecell Technology|XBOX|53|278
+06006217|AFL Evolution 2|2001/01/01|Wicked Witch Software|PC|92|558
+16002693|A Fold Apart|2014/07/22|Wicked Witch Software|XBOX|21|180
+26002112|Afterparty|2018/08/28|Lightning Rod Games|PS4|92|211
+36002047|Agatha Christie: The ABC Murders|2016/09/09|Night School Studio|Switch|62|317
+46007085|Agent A: A Puzzle in Disguise|2004/04/22|Artefacts Studio|PS4|02|681
+56005742|Agents of Mayhem|2011/07/24|Yak|PC|74|706
+66004219|Age of Wonders: Planetfall|2008/11/28|Volition|PS4|51|519
+76003673|Aggelos|2009/11/15|Triumph Studios|Switch|08|836
+86002360|Agony|2012/04/23|Storybird Games|PC|54|516
+96006764|A Hat in Time|2014/12/02|Madmind Studio|XBOX|92|927
+07002767|A Healer Only Lives Twice|2009/01/15|Gears for Breakfast|Switch|33|510
+17000682|AI-Limit|2009/08/27|Pon Pon Games|PC|66|337
+27001666|AI: The Somnium Files|2014/11/19|Sense Games|XBOX|16|551
+37000817|Aikano: Yukizora no Triangle|2014/03/11|Spike Chunsoft|Switch|90|202
+47004165|AIPD|2001/02/10|Prekano|PC|56|124
+57002261|Air Conflicts: Pacific Carriers|2003/01/25|Blazing Badger|PC|42|508
+67008057|Air Conflicts: Vietnam|2016/08/25|Games Farm|Switch|87|921
+77009989|Aircraft Evolution|2006/01/24|Games Farm|PC|22|064
+87002709|Airport Simulator 2019|2005/10/15|Satur Entertainment|Switch|09|997
+97007270|Airship Q|2002/04/19|Toplitz Productions|PC|56|733
+08008675|A Juggler's Tale|2015/06/15|Miracle Positive|PC|19|524
+18005012|Akiba's Beat|2006/06/23|Kaleidoscube|XBOX|63|395
+28008695|Akiba's Trip: Undead & Undressed|2013/09/18|Acquire|PS4|50|682
+38002116|Alaloth: Champions of The Four Kingdoms|2008/02/30|Acquire|PC|63|780
+48001045|Alekhine's Gun|2011/12/14|Gamera|PC|91|041
+58008333|Alex Kidd in Miracle World DX|2018/02/27|Haggard Games|Switch|93|257
+68000570|Alienation|2012/12/05|Merge Games|XBOX|55|019
+78006417|Alien: Isolation|2011/04/17|Jankenteam|Switch|60|405
+88001778|The Alliance Alive HD Remastered|2001/07/17|Housemarque|XBOX|38|830
+98004082|All-Star Fruit Racing|2005/08/03|Creative Assembly|Switch|68|066
+09001480|Alone with You|2012/04/25|Cattle Call|XBOX|47|535
+19000193|The Alto Collection|2008/07/28|Blowfish Studios|Switch|97|633
+29005403|Alwa's Awakening|2011/06/02|Benjamin Rivers|XBOX|65|909
+39007880|Alwa's Legacy|2019/10/20|Team Alto|Switch|02|595
+49001295|Always Sometimes Monsters|2007/07/02|Elden Pixels|Switch|43|192
+59008402|Amazing Discoveries in Outer Space|2008/03/07|Elden Pixels|PC|05|961
+69003145|The Amazing Spider-Man 2|2006/12/30|Vagabond Dog|Switch|51|859
+79000024|American Fugitive|2019/06/23|Cosmic Picnic|XBOX|35|998
+89007711|Amnesia Collection|2017/09/16|Beenox|XBOX|60|236
+99006709|Amnesia: Rebirth|2014/09/21|JP:?Teyon Japan|PS4|93|020
+00102231|Amoeba Battle: Microscopic RTS Action|2007/03/10|WW:?Curve Digital|PC|81|784
+10106434|Among the Sleep|2008/11/12|Frictional Games|Switch|01|823
+20107482|Amplitude|2005/09/05|Frictional Games|Switch|81|560
+30109181|Anarcute|2012/01/12|Grab Games|Switch|32|921
+40106861|Ancestors Legacy|2005/05/22|Krillbite Studio|PS4|42|606
+50108234|Ancestors: The Humankind Odyssey|2015/05/15|Harmonix|PS4|97|745
+60102733|Anew: The Distant Light|2002/10/04|AnarTeam|XBOX|58|830
+70100964|AngerForce: Reloaded|2010/12/23|Destructive Creations|PS4|80|722
+80104502|Angry Birds Star Wars|2017/07/30|Panache Digital Games|PC|33|629
+90109033|Anima: Gate of Memories|2005/12/18|Resonator|PS4|19|080
+01106076|Anno: Mutationem|2002/11/23|Screambox Studio|PC|91|872
+11109848|Anodyne|2007/08/14|Exient Entertainment|XBOX|00|384
+21105374|Anoko wa Ore kara Hanarenai|2009/04/15|Anima Project|XBOX|27|137
+31100174|Anomaly 2|2009/04/27|ThinkingStars|PS4|23|983
+41103361|Anonymous;Code|2006/05/15|Analgesic Productions|Switch|78|803
+51108196|Another World: 20th Anniversary Edition|2012/04/09|Giga|Switch|84|678
+61106879|Anthem|2009/12/25|11 Bit Studios|XBOX|96|412
+71101061|Antiquia Lost|2007/02/19|5pb.|XBOX|26|956
+81100130|Aokana: Four Rhythm Across the Blue|2016/08/10|Chiyomaru Studio|PS4|69|130
+91100814|AO Tennis|2000/08/14|The Digital Lounge|PC|57|559
+02101492|AO Tennis 2|2006/10/09|BioWare|PS4|08|558
+12103989|A Pixel Story|2002/01/29|Exe Create|Switch|92|601
+22109854|A Plague Tale: Innocence|2002/02/05|Sprite|PS4|64|946
+32106345|Apocalypse|2007/02/15|Big Ant Studios|PC|12|194
+42101218|Apotheon|2010/11/18|Big Ant Studios|Switch|03|540
+52108267|Aqua Moto Racing Utopia|2012/07/09|Lamplight Studios|PS4|08|371
+62108068|The Aquatic Adventure of the Last Human|2009/09/23|Asobo Studio|Switch|74|981
+72102722|Ara Fell: Enhanced Edition|2000/12/04|Future Tech|PS4|00|606
+82101809|Aragami|2007/11/16|Alientrap|XBOX|06|388
+92105203|Aragami 2|2006/09/04|Zordix|XBOX|65|969
+03105198|Arcade Classics Anniversary Collection|2012/03/04|Stage Clear Studios|PS4|24|440
+13101670|Arcade Spirits|2001/06/20|Stegosoft|PC|40|923
+23106559|Arcania: The Complete Tale|2007/03/30|Lince Works|XBOX|76|660
+33109310|Archaica: The Path of Light|2005/07/15|Lince Works|PC|96|074
+43109538|Arc of Alchemist|2003/05/20|Konami|PS4|82|556
+53100920|Arise: A Simple Story|2017/12/11|Fiction Factory Games|XBOX|43|079
+63105605|Ark: Survival Evolved|2017/09/09|Black Forest Games|XBOX|00|770
+73109583|Armello|2015/01/08|TwoMammoths|PS4|53|960
+83107865|Arslan: The Warriors of Legend|2002/12/04|Compile Heart|XBOX|44|049
+93108207|Art of Balance|2018/04/03|Piccolo Studio|PS4|59|351
+04107247|Ary and the Secret of Seasons|2005/06/23|Studio Wildcard|XBOX|72|134
+14100763|Asdivine Dios|2019/06/16|League of Geeks|XBOX|71|225
+24101307|Asdivine Hearts|2001/12/21|Koei Tecmo|XBOX|04|687
+34109628|Asdivine Hearts II|2008/11/04|Shin'en Multimedia|PC|74|422
+44108177|Asdivine Kamura|2010/09/07|Exiin|Switch|80|545
+54105005|Asdivine Menace|2016/08/30|Exe Create|Switch|32|689
+64107781|Asemblance|2015/02/03|Kotobuki Solution|PC|50|709
+74104093|Asemblance: Oversight|2008/12/06|Exe Create|Switch|40|002
+84108087|Ashen|2009/06/12|Exe Create|PS4|93|825
+94103027|Ashes Cricket|2015/01/04|Exe Create|PC|85|043
+05103675|A Space for the Unbound|2002/04/30|Nilo Studios|Switch|03|992
+15108691|Assassin's Creed III Remastered|2019/10/23|Nilo Studios|PS4|89|603
+25108336|Assassin's Creed IV: Black Flag|2017/11/05|A44|XBOX|02|901
+35106575|Assassin's Creed Chronicles: China|2018/06/12|Big Ant Studios|PS4|20|152
+45105304|Assassin's Creed Chronicles: India|2015/09/02|Mojiken Studio|PS4|36|444
+55107859|Assassin's Creed Chronicles: Russia|2010/12/27|Ubisoft Montreal|PC|54|380
+65108276|Assassin's Creed: The Ezio Collection|2014/03/14|Ubisoft Montreal|PS4|66|704
+75107828|Assassin's Creed Odyssey|2018/10/08|Climax Studios|Switch|02|786
+85108196|Assassin's Creed: Origins|2018/11/01|Climax Studios|PC|40|450
+95100638|Assassin's Creed Rogue Remastered|2003/05/13|Climax Studios|Switch|05|792
+06102235|Assassin's Creed Syndicate|2019/04/16|Virtuos|PS4|45|151
+16105757|Assassin's Creed Unity|2016/07/02|Ubisoft Quebec|PC|25|387
+26106598|Assassin's Creed Valhalla|2014/03/21|Ubisoft|PS4|70|685
+36102209|Assault Android Cactus|2005/11/14|Ubisoft Sofia|XBOX|63|418
+46104628|Assault Suit Leynos|2019/04/08|Ubisoft Quebec|XBOX|04|800
+56104625|The Assembly|2009/10/16|Ubisoft Toronto|PS4|49|943
+66103274|Assetto Corsa|2015/10/19|Ubisoft Montreal|PC|64|210
+76100825|Assetto Corsa Competizione|2006/09/15|Witch Beam|XBOX|03|357
+86106300|Asterix & Obelix XXL 2: Mission: Las Vegum|2000/04/21|Dracue Software|Switch|09|467
+96108653|Asterix & Obelix XXL 3: The Crystal Menhir|2004/07/05|nDreams|PS4|04|806
+07103628|Astroneer|2006/03/01|Kunos Simulazioni|PS4|85|483
+17100133|Atari Flashback Classics: Volume 1|2010/09/03|Kunos Simulazioni|Switch|25|713
+27105139|Atari Flashback Classics: Volume 2|2009/03/26|OSome Studios|PS4|46|497
+37105725|Atari Flashback Classics: Volume 3|2014/03/26|OSome Studios|PC|08|075
+47100139|Atelier Ayesha: The Alchemist of Dusk DX|2012/08/20|System Era Softworks|PS4|81|361
+57107505|Atelier Escha & Logy: Alchemists of the Dusk Sky DX|2012/09/17|Atari|PC|68|451
+67101388|Atelier Firis: The Alchemist and the Mysterious Journey|2001/05/18|Atari|XBOX|91|510
+77102221|Atelier Lulua: The Scion of Arland|2002/06/22|Code Mystics|Switch|40|590
+87109224|Atelier Lydie & Suelle: Alchemists of the Mysterious Painting|2011/09/03|Gust|XBOX|58|584
+97100196|Atelier Meruru: The Apprentice of Arland|2006/09/09|Gust|Switch|61|805
+08108765|Atelier Rorona: The Alchemist of Arland|2013/09/07|Gust|PS4|37|800
+18103265|Atelier Ryza: Ever Darkness & the Secret Hideout|2017/08/29|Gust|XBOX|39|611
+28106703|Atelier Ryza 2: Lost Legends & the Secret Fairy|2008/03/12|Gust|PC|51|341
+38101837|Atelier Shallie: Alchemists of the Dusk Sea DX|2012/06/16|Gust|PC|72|598
+48105818|Atelier Sophie: The Alchemist of the Mysterious Book|2014/05/06|Gust|XBOX|98|427
+58107365|Atelier Totori: The Adventurer of Arland|2014/11/28|Gust|PS4|97|714
+68107171|Atomic Heart|2014/12/06|Gust|XBOX|91|995
+78104035|Atomicrops|2002/11/17|Gust|PS4|23|937
+88104934|A-Train Express|2009/01/14|Gust|Switch|39|819
+98102289|Attack on Titan|2012/03/28|Gust|PS4|66|111
+09104768|Attack on Titan 2|2014/01/10|Mundfish|Switch|46|762
+19105671|Attractio|2012/10/15|Bird Bath Games|PS4|77|127
+29105272|ATV Drift and Tricks|2005/09/23|Artdink|PS4|56|053
+39106053|Auto Chess|2004/07/05|Omega Force|PS4|30|154
+49104366|Aven Colony|2005/10/15|Omega Force|PC|57|213
+59108641|Away: Journey to the Unexpected|2019/04/07|GameCoder|PC|30|593
+69108863|Away: The Survival Series|2000/03/20|Renderfarm|PS4|16|362
+79107921|A Way Out|2019/06/24|Artefacts Studio|PS4|73|489
+89101612|Awesomenauts Assemble|2006/03/21|Drodo Studio|Switch|11|686
+99104060|A Hole New World|2010/05/16|Dragonest|Switch|07|466
+00206061|AVICII Invector|2008/06/19|Mothership Entertainment|PC|88|766
+10208996|Axiom Verge|2016/12/02|Playdius Entertainment|XBOX|11|082
+20207623|Azkend 2: The World Beneath|2004/07/02|Breaking Walls|PC|97|750
+30203694|Azur Lane: Crosswave|2013/03/23|Hazelight Studios|Switch|12|149
+40205834|Azure Reflections|2009/11/10|Abstraction Games|PS4|67|214
+50201666|Azure Striker Gunvolt: Striker Pack|2001/08/09|Mad Gear Games|PS4|91|683
+60200047|Babylon's Fall|2009/10/08|Hello There Games|Switch|87|460
+70205755|Backbone|2007/05/24|Thomas Happ Games|PS4|97|559
+80204318|Backgammon Blitz|2018/11/22|10tons|PC|47|408
+90200719|Back to Bed|2009/05/03|Compile Heart|PC|83|122
+01209815|Back to the Future: The Game ? 30th Anniversary Edition|2005/02/02|Felistella|PC|65|307
+11208119|Badland: Game of the Year Edition|2015/12/17|Souvenir Circ.|XBOX|02|044
+21204821|Bad North|2008/09/01|Inti Creates|XBOX|04|615
+31209750|Baja: Edge of Control HD|2005/11/27|PlatinumGames|XBOX|73|365
+41207735|Bake 'n Switch|2008/11/15|EggNut|PS4|87|089
+51209802|Balan Wonderworld|2008/11/18|VooFoo Studios|Switch|31|613
+61207738|Baldur's Gate: Enhanced Edition|2009/05/17|Loot Interactive|XBOX|10|838
+71203675|Baldur's Gate II: Enhanced Edition|2010/06/23|Telltale Games|PC|94|429
+81205250|Baldur's Gate: Siege of Dragonspear|2008/06/23|Frogmind|XBOX|79|039
+91200913|Banner of the Maid|2000/12/24|Plausible Concept|XBOX|37|236
+02206291|The Banner Saga|2019/10/14|2XL Games|PS4|99|120
+12209555|The Banner Saga 2|2013/06/25|Streamline Games|Switch|51|270
+22206936|The Banner Saga 3|2006/01/26|Balan Company|PC|42|454
+32200266|The Bard's Tale: Remastered and Resnarkled|2015/09/02|Beamdog|Switch|53|112
+42205789|The Bard's Tale IV: Director's Cut|2019/04/17|Beamdog|Switch|67|488
+52202986|A Bastard's Tale|2001/04/08|Beamdog|PS4|17|325
+62204278|Bastion|2016/02/24|Azure Flame Studio|XBOX|69|646
+72201429|Basement Crawl|2019/12/17|Stoic Studio|PS4|32|440
+82204563|Batman: Arkham Knight|2002/10/12|Stoic Studio|Switch|46|842
+92209890|Batman: Return to Arkham|2018/07/24|Stoic Studio|PC|75|482
+03206464|Batman: The Enemy Within|2003/05/14|InXile Entertainment|PS4|85|019
+13207163|Batman: The Telltale Series|2012/10/13|inXile Entertainment|XBOX|42|160
+23205251|Battalion 1944|2001/04/02|No Pest Productions|XBOX|06|359
+33202545|Battle Chasers: Nightwar|2011/08/07|Supergiant Games|XBOX|44|469
+43200958|Battlefield 1|2008/02/01|Bloober Team|XBOX|21|329
+53200579|Battlefield 4|2006/10/22|Rocksteady Studios|PS4|06|388
+63206719|Battlefield V|2018/08/17|Rocksteady Studios|XBOX|08|260
+73205653|Battlefield Hardline|2005/06/14|Telltale Games|PS4|56|902
+83205341|Battle Garegga Rev.2016|2016/07/29|Telltale Games|PC|92|630
+93207625|Battle of the Bulge|2013/03/27|Bulkhead Interactive|PS4|55|169
+04200828|Battle Princess Madelyn|2007/07/10|Airship Syndicate|PC|59|590
+14200793|Battleship|2018/04/13|EA DICE|PC|22|743
+24203228|Battlestar Galactica: Deadlock|2010/04/09|EA DICE|Switch|08|046
+34204370|Battle Worlds: Kronos|2004/11/24|EA DICE|Switch|64|371
+44202349|Battlezone|2004/11/21|Visceral Games|Switch|11|712
+54205891|Bayonetta|2006/01/17|M2|PC|16|917
+64206282|Bears Can't Drift!?|2016/09/12|Slitherine Software|PC|87|585
+74209785|Bear With Me: The Lost Robots|2007/06/03|Causal Bit Games|Switch|06|682
+84205232|Beast Quest|2012/11/26|Frima Studio|XBOX|70|181
+94202340|Bedlam|2008/01/27|Black Lab Games|XBOX|83|968
+05204718|Bee Simulator|2007/07/23|King Art Games|PS4|03|399
+15209190|Beholder: Complete Edition|2014/07/12|Rebellion Developments|XBOX|37|738
+25201812|Beholder 2|2004/11/26|PlatinumGames|PS4|96|679
+35208450|Below|2002/07/11|Strangely Named|PC|33|514
+45205785|Ben 10|2000/10/24|Exordium Games|PC|39|274
+55204939|Bendy and the Ink Machine|2000/09/07|Torus Games|Switch|74|501
+65208206|Berserk and the Band of the Hawk|2001/10/17|RedBedlam|PS4|84|816
+75203080|Beyond a Steel Sky|2018/04/01|Varsav Game Studios|PC|66|306
+85209912|Beyond Blue|2002/12/23|Warm Lamp Games|Switch|97|916
+95204023|Beyond Eyes|2003/11/17|Alawar|XBOX|95|446
+06201939|Beyond: Two Souls|2007/05/28|Warm Lamp Games|PS4|48|796
+16206883|Big Bash Boom|2011/09/01|Alawar|PC|41|332
+26206943|Big Pharma|2002/07/19|Capybara Games|PC|53|275
+36207040|Binaries|2019/05/15|Outright Games|PC|24|624
+46209693|The Binding of Isaac: Rebirth|2004/09/30|Joey Drew Studios|PC|03|559
+56209437|Biomutant|2011/09/07|Omega Force|XBOX|78|500
+66201487|BioShock: The Collection|2002/10/11|Revolution Software|Switch|08|407
+76201587|Biped|2018/06/02|E-Line Media|PC|56|351
+86200341|Birthdays the Beginning|2010/09/04|Tiger and Squid|XBOX|91|245
+96208291|Bit.Trip|2005/10/07|Quantic Dream|PS4|34|618
+07206296|Black & White Bushido|2015/03/07|Big Ant Studios|Switch|23|909
+17201427|Black Desert|2003/10/16|Twice Circled|XBOX|36|192
+27209068|Blackguards 2|2001/05/20|Ant Workshop|Switch|25|564
+37205911|Blackhole: Complete Edition|2004/09/30|Nicalis|Switch|32|635
+47205483|The Blackout Club|2017/03/18|Experiment 101|Switch|46|511
+57201212|Black Legend|2004/02/29|Blind Squirrel Games|XBOX|01|546
+67205251|Black Paradox|2018/06/02|Next Studios|XBOX|76|228
+77204518|Blacksad: Under the Skin|2015/03/26|Toybox Games|XBOX|37|606
+87202047|Blacksea Odyssey|2017/06/02|Choice Provisions|XBOX|04|732
+97204702|Black the Fall|2002/10/11|Endemol|PS4|71|557
+08202909|Blackwood Crossing|2006/11/04|Pearl Abyss|PC|54|455
+18203126|Blade Arcus from Shining EX|2013/07/08|Daedalic|Switch|63|976
+28204025|Blade Assault|2004/05/21|FiolaSoft Studio|Switch|65|304
+38201673|Blade Ballet|2013/03/26|Question|XBOX|46|892
+48201963|Bladed Fury|2013/01/15|Warcave|PS4|84|315
+58202217|Blade Runner: Enhanced Edition|2015/12/15|Fantastico Studio|PS4|85|993
+68209839|Blade Strangers|2005/09/16|Pendulo Studios|PS4|60|332
+78209499|Bladestorm: Nightmare|2018/08/24|Ys Interactive|PS4|63|227
+88203348|Blair Witch|2013/09/27|Spiral Summit Games|XBOX|80|506
+98204114|Blasphemous|2013/02/02|Sand Sailor Studio|Switch|51|857
+09201393|Blast 'Em Bunnies|2007/10/19|PaperSeven|PC|84|286
+19203743|Blaster Master Zero|2014/05/09|Sega|Switch|46|295
+29201581|Blaster Master Zero 2|2013/06/17|TeamSuneat|PC|01|254
+39209242|Blast Zone! Tournament|2019/05/06|DreamSail Games|PS4|90|866
+49202713|BlazBlue: Central Fiction|2003/05/12|NExT Studios|PC|04|514
+59209587|BlazBlue: Chrono Phantasma Extend|2016/04/05|Alcon Entertainment|PS4|45|367
+69204284|BlazBlue: Cross Tag Battle|2002/03/17|Studio Saizensen|XBOX|46|119
+79207773|Blazerush|2005/08/21|Koei Tecmo|XBOX|13|923
+89200913|Blazing Beaks|2014/12/18|Bloober Team|PS4|96|732
+99202119|Blazing Chrome|2017/07/04|The Game Kitchen|PC|34|903
+00309446|Bleed|2011/12/28|Nnooo|PS4|96|263
+10306427|Bleed 2|2018/08/21|Inti Creates|PS4|49|582
+20300859|Blind Fate: Edo no Yami|2017/04/12|Inti Creates|PS4|23|988
+30305026|Block-a-Pix Deluxe|2001/10/27|Victory Lap Games|XBOX|73|573
+40309459|Bloodborne|2009/04/03|Arc System Works|XBOX|47|962
+50308763|Blood Bowl 2|2003/09/18|Arc System Works|XBOX|63|373
+60304619|Blood Bowl 3|2010/05/13|Arc System Works|XBOX|69|628
+70308577|Bloodroots|2009/09/29|Targem Games|PS4|28|989
+80302501|Bloodstained: Curse of the Moon|2007/06/15|Applava|Switch|06|386
+90306647|Bloodstained: Curse of the Moon 2|2002/10/18|JoyMasher|PC|84|277
+01309749|Bloodstained: Ritual of the Night|2003/05/09|Bootdisk Revolution|Switch|88|727
+11306757|Bloody Zombies|2008/01/29|Bootdisk Revolution|XBOX|83|715
+21301741|Bloons TD 5|2016/03/12|Troglobytes Games|PC|64|161
+31300661|Blue Estate|2015/08/17|Lightwood Games|Switch|60|902
+41306485|Blue Fire|2017/07/19|FromSoftware|PS4|31|742
+51303715|Blue Reflection|2015/04/02|Cyanide|PS4|01|570
+61304806|Blue Rider|2011/12/13|Cyanide|PS4|70|285
+71306263|Blues and Bullets|2019/11/16|Paper Cult|XBOX|27|185
+81300053|Boiling Bolt|2001/12/19|Inti Creates|PS4|18|208
+91308115|Bokosuka Wars II|2016/11/14|ArtPlay|PS4|93|852
+02307505|Bokuhime Project|2012/08/11|Inti Creates|PS4|69|417
+12302609|Bomber Crew|2007/05/22|Inti Creates|XBOX|50|159
+22303044|Book of Demons|2012/01/04|Paw Print Games|Switch|53|385
+32304469|The Book of Unwritten Tales 2|2012/09/28|Ninja Kiwi|PC|28|647
+42301858|Borderlands 3|2004/10/02|Hesaw|Switch|31|386
+52308757|Borderlands: Game of the Year Edition|2000/01/05|Robi Studios|XBOX|08|450
+62305675|Borderlands: The Handsome Collection|2000/04/25|Gust Co. Ltd.|XBOX|15|034
+72305832|Bound|2017/02/30|Ravegan|XBOX|66|100
+82302923|Boundary|2004/01/25|A Crowd of Monsters|PC|84|948
+92308514|Bound by Flame|2005/09/29|Persistant Studios|PS4|81|274
+03305038|Boundless|2014/02/11|Pygmy Studio|Switch|04|546
+13302467|Bounty Battle|2001/07/13|Wizard Soft|XBOX|63|026
+23309932|Bow to Blood: Last Captain Standing|2005/09/01|Runner Duck|Switch|22|700
+33301464|BQM: BlockQuest Maker|2002/03/28|Thing Trunk|XBOX|52|786
+43300876|Braid Anniversary Edition|2007/06/03|King Art Games|PS4|86|999
+53303302|Braveland Trilogy|2014/06/08|Gearbox Software|Switch|75|514
+63300550|Brawl|2001/11/07|Gearbox Software|Switch|65|660
+73303338|Brawlout|2001/10/24|Gearbox Software|Switch|71|976
+83302556|Breakers Collection|2008/04/26|Plastic|XBOX|96|713
+93304396|The Bridge|2000/06/11|Surgical Scalpels|PS4|39|171
+04307324|Bridge Constructor|2019/03/29|Spiders|PS4|45|769
+14309366|Bridge Constructor Portal|2000/10/29|Wonderstruck Games|PC|96|505
+24301313|Bridge Constructor Stunts|2013/06/19|Dark Screen Games|PS4|97|024
+34309940|Brief Battles|2008/08/27|Tribetoy|Switch|98|591
+44309666|Bright Memory: Infinite|2013/10/11|Wonderland Kazakiri|PC|52|878
+54309667|Broforce|2018/07/11|Thekla|PC|90|589
+64303331|Broken Age: The Complete Adventure|2000/11/12|Ellada Games|Switch|91|188
+74305350|Broken Delusion|2017/04/01|Bloober Team|PS4|26|641
+84308352|Broken Sword 5: The Serpent's Curse|2018/03/12|Angry Mob Games|PS4|41|076
+94304547|Brothers: A Tale of Two Sons|2012/06/04|Visco Corporation|XBOX|04|149
+05306259|Brutal|2007/01/11|TQAG|PS4|36|607
+15306006|Bubble Bobble 4 Friends: The Baron is Back|2000/04/21|ClockStone|PC|00|964
+25308298|Bubsy: Paws on Fire!|2019/01/09|ClockStone|PS4|05|274
+35302128|Bubsy: The Woolies Strike Back|2017/10/07|ClockStone|Switch|72|837
+45307268|Bucket Knight|2012/12/06|Juicy Cupcake|PC|21|064
+55306914|Bud Spencer & Terence Hill: Slaps and Beans|2001/02/23|FYQD Studio|PC|13|303
+65301639|The Bug Butcher|2012/05/25|Free Lives|Switch|82|068
+75301498|Bug Fables: The Everlasting Sapling|2008/08/16|Double Fine Productions|Switch|77|883
+85301191|BugsBox|2013/11/29|Bilibili|XBOX|02|125
+95307313|Bugsnax|2017/10/24|Revolution Software|PS4|79|458
+06309738|Buildings Have Feelings Too!|2002/02/23|Starbreeze Studios|Switch|83|281
+16306586|Bulb Boy|2010/06/02|Stormcloud Games|Switch|32|916
+26304431|Bulletstorm: Full Clip Edition|2018/07/10|Taito|XBOX|69|350
+36301073|Buried Stars|2007/06/15|Choice Provisions|PS4|70|977
+46300247|Burnout Paradise Remastered|2003/12/26|Black Forest Games|XBOX|93|467
+56306618|Bush Hockey League|2007/12/05|Sometimes You|PS4|94|263
+66301777|Bus Simulator|2019/06/05|Trinity Team|PS4|13|863
+76304294|Bus Simulator 21|2003/11/22|Awfully Nice Studios|PS4|26|038
+86304351|Butcher|2000/10/10|Moonsprout Games|PS4|31|496
+96306813|Caladrius Blaze|2002/09/21|Park ESM|PC|86|272
+07308178|The Caligula Effect: Overdose|2005/09/29|Young Horses|PS4|63|535
+17306643|Call of Cthulhu: The Official Video Game|2006/07/06|Blackstaff Games|XBOX|82|163
+27300109|Call of Duty: Advanced Warfare|2018/03/02|Bulbware|Switch|67|957
+37303231|Call of Duty: Black Ops III|2016/04/16|People Can Fly|Switch|40|039
+47309621|Call of Duty: Black Ops IIII|2017/05/20|Studio Largo|XBOX|77|772
+57306929|Call of Duty: Black Ops Cold War|2010/04/06|Stellar Entertainment|XBOX|61|107
+67306554|Call of Duty: Ghosts|2003/04/09|V7 Entertainment|PS4|78|808
+77309565|Call of Duty: Infinite Warfare|2017/11/20|Stillalive Studios|PS4|96|736
+87305576|Call of Duty: Modern Warfare|2007/12/03|Stillalive Studios|PC|08|864
+97300954|Call of Duty: Modern Warfare Remastered|2001/11/23|Transhuman Design|Switch|74|068
+08308474|Call of Duty: Modern Warfare 2 Campaign Remastered|2006/06/13|Moss|PC|29|562
+18307374|Call of Duty: Warzone|2016/03/19|FuRyu|PC|41|619
+28305818|Call of Duty: WWII|2010/01/08|Frogwares|XBOX|91|460
+38305417|Calvino Noir|2016/07/07|Sledgehammer Games|XBOX|77|348
+48309683|Candlelight|2001/02/01|Treyarch|Switch|67|465
+58306107|Candleman: The Complete Journey|2011/05/17|Treyarch|PC|33|868
+68305405|Candle: The Power of the Flame|2017/03/24|Raven Software|XBOX|70|937
+78300320|Cannon Brawl|2005/12/25|Treyarch|Switch|31|909
+88303729|Capcom Beat 'Em Up Bundle|2007/10/17|Infinity Ward|PC|59|957
+98305050|Capsule Force|2007/09/09|Infinity Ward|PS4|64|719
+09306042|Captain Tsubasa: Rise of New Champions|2013/05/26|Infinity Ward|PS4|34|396
+19306232|Cardpocalypse|2013/05/10|Raven Software|Switch|25|633
+29306188|Carmageddon: Max Damage|2001/05/19|Beenox|PS4|23|880
+39308880|Car Mechanic Simulator 2018|2009/12/12|Infinity Ward|PC|48|161
+49306669|Cars 3: Driven to Win|2015/01/09|Raven Software|XBOX|42|489
+59309233|Carto|2018/07/24|Sledgehammer Games|XBOX|95|377
+69305359|Cartoon Network: Battle Crashers|2019/07/08|Calvino Noir|PC|24|242
+79304574|CarX Drift Racing Online|2000/04/07|Pixel Maverick|PS4|08|425
+89300368|Casey Powell Lacrosse 16|2006/12/18|Spotlightor Interactive|PC|66|854
+99300442|Castle Crashers Remastered|2005/05/26|Teku Studios|Switch|33|146
+00400442|The Castle Game|2019/10/06|Turtle Sandbox / BlitWorks|XBOX|51|145
+10403809|Castles|2000/11/13|Capcom|Switch|30|364
+20406271|CastleStorm: Definitive Edition|2013/12/17|Klobit|PC|91|581
+30408328|CastleStorm II|2011/04/22|Tamsoft|PC|15|777
+40402116|Castlevania Requiem|2011/12/23|Gambrinous|PS4|81|975
+50401803|Castlevania Anniversary Collection|2018/03/16|Stainless Games|XBOX|69|230
+60409697|Catherine: Full Body|2004/03/08|Red Dot Games|Switch|62|144
+70400749|Catlateral Damage|2013/01/01|Avalanche Software|PS4|10|544
+80402817|Cat Quest|2012/01/29|Sunhead Games|PC|29|044
+90401559|Cat Quest II|2001/05/06|Magic Pockets|Switch|08|449
+01404113|Cel Damage HD|2000/08/27|CarX Technologies|PS4|67|486
+11402923|Celeste|2014/07/06|Crosse Studios|PC|59|375
+21407612|Chained Echoes|2014/10/21|The Behemoth|PC|07|901
+31402996|Chambara|2002/07/23|Neptune|XBOX|63|465
+41400693|Chaos;Child|2006/10/23|WhootGames|PS4|21|335
+51404855|Chaos Code: New Sign of Catastrophe|2006/06/27|Zen Studios|Switch|68|628
+61400555|Chaos on Deponia|2013/07/13|Zen Studios|PS4|85|586
+71408287|Chariot|2018/05/19|Konami|PC|16|773
+81408409|Chasm|2013/09/02|Konami|PS4|82|429
+91404109|Chess Ultra|2009/06/20|Studio Zero|Switch|87|924
+02403075|Child of Light|2003/03/26|Manekoware|PC|25|656
+12401902|Children of Morta|2015/10/25|The Gentlebros|Switch|38|843
+22409505|Children of Zodiarcs|2017/04/23|The Gentlebros|PS4|51|160
+32408710|Chimparty|2018/09/06|Finish Line Games|PS4|70|107
+42403183|Chime Sharp|2015/01/10|Matt Thorson|XBOX|25|586
+52403208|Chivalry: Medieval Warfare|2011/08/25|Ark Heiral|PS4|62|490
+62400898|Chivalry 2|2007/01/14|Team OK|PS4|37|275
+72406519|Chocobo's Mystery Dungeon Every Buddy!|2014/11/20|Nitroplus|Switch|87|808
+82405144|Chop is Dish|2008/06/16|FK Digital|Switch|14|398
+92405544|Chorus: Rise As One|2017/06/30|Daedalic Entertainment|PC|13|427
+03401779|ChromaGun|2012/04/20|Frima Studio|PS4|46|219
+13403932|Chroma Squad|2001/10/22|Bit Kid|PS4|49|636
+23404657|Chronicles of Teddy: Harmony of Exidus|2014/08/07|VooFoo Studios|Switch|22|880
+33404634|Chronos: Before the Ashes|2011/06/09|Ubisoft Montreal|XBOX|84|894
+43405466|The Church in the Darkness|2016/10/20|Dead Mage|PC|68|312
+53407918|Cinders|2017/06/13|Cardboard Utopia|PS4|69|013
+63402640|Circuit Superstars|2014/04/09|NapNok Games|PC|10|896
+73401589|Circuits|2000/10/03|Zo? Mode|XBOX|83|987
+83401827|Citadel: Forged with Fire|2004/12/20|Torn Banner Studios|PS4|36|078
+93407919|Cities: Skylines|2019/02/24|Torn Banner Studios|XBOX|90|334
+04403162|Citizens of Earth|2011/08/11|Square Enix|PC|84|098
+14408567|Citizens of Space|2004/01/02|Victory Road|Switch|26|602
+24402900|City Shrouded in Shadow|2019/11/10|Fishlabs|XBOX|55|713
+34408529|Civilization VI|2004/05/02|Pixel Maniacs|PS4|66|474
+44401041|Cladun Returns: This is Sengoku!|2013/09/05|Behold Studios|PC|79|296
+54406034|Claire: Extended Cut|2014/08/29|LookAtMyGame|Switch|05|352
+64402720|Clannad|2000/05/06|Gunfire Games|Switch|92|035
+74402682|Claybook|2012/10/10|Paranoid Productions|PC|28|782
+84401501|Clockwork Aquario|2011/08/16|MoaCube|Switch|03|564
+94405199|Clockwork Tales: Of Glass and Ink|2017/03/02|Original Fire Games|Switch|64|854
+05405647|Close to the Sun|2007/02/03|Digital Tentacle|PS4|40|794
+15407301|Cloudpunk|2008/09/02|Blue Isle Studios|PC|75|593
+25408568|Clustertruck|2003/01/30|Tantalus Media|PC|59|043
+35400512|Code Vein|2017/01/05|Atlus|PS4|52|502
+45401825|Coffee Talk|2016/12/04|Eden Industries|PC|81|528
+55406705|Coffin Dodgers|2007/10/25|Granzella|PC|63|769
+65402998|The Coma: Recut|2004/01/19|Firaxis Games|PS4|39|418
+75403123|The Coma 2: Vicious Sisters|2009/01/26|Nippon Ichi Software|Switch|53|299
+85401595|Comet Crash 2|2018/11/02|Hailstorm Games|PS4|76|731
+95403508|Commander Cherry's Puzzled Journey|2017/01/17|Key|XBOX|49|455
+06405942|Commandos 2 - HD Remaster|2012/08/20|Second Order|XBOX|27|560
+16408472|Conan Chop Chop|2011/02/27|Westone Bit Entertainment|PS4|81|782
+26409291|Conan Exiles|2015/02/11|Artifex Mundi|XBOX|96|379
+36403374|Conarium|2019/04/12|Storm in a Teacup|PC|08|527
+46408249|Concept Destruction|2005/11/09|Ion Lands|PC|58|946
+56400444|Conception Plus: Maidens of the Twelve Stars|2018/12/20|Landfall Games|XBOX|48|775
+66402805|Concrete Genie|2004/10/06|Bandai Namco|Switch|41|934
+76405782|Conga Master|2011/01/13|Toge Productions|PC|98|738
+86404352|Construction Simulator 2: Console Edition|2014/05/06|Milky Tea Studios|PS4|87|014
+96402411|Construction Simulator 3: Console Edition|2016/04/28|Devespresso Games|XBOX|91|164
+07405243|Constructor HD|2012/04/22|Devespresso Games|PC|24|795
+17403272|Constructor Plus|2013/06/03|Pelfast|XBOX|93|275
+27400578|Contra Anniversary Collection|2002/07/30|Grande Games|Switch|84|413
+37406255|Contra: Rogue Corps|2014/01/01|Yippee!|PS4|52|546
+47402488|Contrast|2011/05/03|Pyro Studios|PS4|87|220
+57404443|Control|2000/10/22|Mighty Kingdom|Switch|21|932
+67405431|Convallaria|2003/12/23|Funcom|Switch|39|317
+77406125|Convoy: A Tactical Roguelike|2007/03/25|Zoetrope Interactive|PS4|40|911
+87409544|"Cook|2013/06/08| Serve, Delicious! 2",Ratalaika Games|XBOX|92|324
+97409084|"Cook|2008/01/06| Serve, Delicious! 3",Spike Chunsoft|PS4|55|423
+08402021|Cosmic Star Heroine|2003/04/03|PixelOpus|PC|24|580
+18408725|Costume Quest 2|2003/09/28|Undercoders|XBOX|90|780
+28401559|Cotton Reboot|2002/08/15|weltenbauer|PC|36|824
+38407137|The Count Lucanor|2000/08/18|weltenbauer|PC|51|953
+48405767|CounterSpy|2011/07/07|System 3|XBOX|77|677
+58404858|Crash Bandicoot 4: It's About Time|2015/03/29|System 3|XBOX|39|293
+68402795|Crash Bandicoot N. Sane Trilogy|2005/05/09|Konami|PS4|19|694
+78403137|Crash Team Racing Nitro-Fueled|2010/01/19|Konami|PC|43|205
+88405227|Crawl|2010/05/27|Compulsion Games|PS4|29|653
+98400090|Crayola Scoot|2004/05/15|Remedy Entertainment|PC|11|887
+09405472|Crazy Strike Bowling EX|2000/12/23|Loong Force|XBOX|04|346
+19401382|Creaks|2010/08/29|Convoy Games|XBOX|58|320
+29403478|Creature in the Well|2000/05/27|Vertigo Gaming|PS4|40|818
+39404236|The Crew|2016/05/14|Vertigo Gaming|XBOX|84|093
+49408056|The Crew 2|2006/02/28|Zeboyd Games|PC|26|817
+59409736|Cricket 19|2008/05/19|Double Fine Productions|Switch|78|130
+69409470|Cris Tales|2018/12/10|Success|Switch|76|295
+79405108|CrossCode|2015/08/12|Baroque Decay|PC|53|648
+89406351|Crossing Souls|2015/04/01|Dynamighty|PC|38|013
+99401663|Crown Trick|2006/02/11|Toys for Bob|PC|74|809
+00504685|Crows: Burning Edge|2009/04/16|Vicarious Visions|PC|86|657
+10501030|Crypt of the NecroDancer|2011/10/14|Beenox|Switch|95|339
+20508399|Cryptark|2013/06/11|Powerhoof|PC|04|198
+30503533|Crysis Remastered|2006/10/04|Climax Studios|PC|25|149
+40506279|Crystal Crisis|2002/05/22|Corecell Technology|Switch|57|644
+50509194|Crystar|2018/10/16|Amanita Design|Switch|68|823
+60508409|Cube Life: Island Survival HD|2007/01/02|Flight School Studio|XBOX|30|745
+70508963|Cubers: Arena|2005/05/05|Ivory Tower|XBOX|71|143
+80509636|Cuphead|2006/05/01|Ivory Tower|PC|79|389
+90506138|Curious Expedition|2009/05/22|Big Ant Studios|Switch|73|830
+01502825|Curses 'N Chaos|2009/01/01|Dreams Uncorporated|PC|30|391
+11507476|Cyberdimension Neptunia: 4 Goddesses Online|2013/09/11|SYCK|XBOX|00|243
+21504731|Cyberpunk 2077|2015/07/22|Radical Fish Games|Switch|48|889
+31500451|Cyber Troopers Virtual-On Masterpiece 1995-2001|2004/11/15|Fourattic|PS4|09|103
+41505189|Daggerhood|2015/03/04|Next Studios|XBOX|75|729
+51500909|Daisenryaku: Dai Toua Kouboushi 3|2005/06/21|Bandai Namco Entertainment|XBOX|74|813
+61504482|Dakar 18|2004/05/02|Brace Yourself Games|Switch|08|781
+71502674|Dandara|2005/03/25|Alientrap|Switch|81|688
+81501909|Danganronpa 1-2 Reload|2016/02/30|Crytek|Switch|72|792
+91503564|Danganronpa V3: Killing Harmony|2009/01/27|Saber Interactive|Switch|08|197
+02509228|Danganronpa Another Episode: Ultra Despair Girls|2004/01/29|Nicalis|Switch|43|258
+12506511|Danganronpa Trilogy|2008/08/27|Gemdrops|PC|28|816
+22505616|Dangerous Golf|2015/05/09|Cypronia|PC|68|175
+32505782|Danger Zone|2017/11/08|Teyon|PC|91|163
+42500672|Dangun Feveron|2008/05/24|StudioMDHR|PC|25|720
+52501747|Dariusburst Chronicle Saviours|2007/04/12|Maschinen-Mensch|PS4|66|037
+62509742|Darius Cozmic Collection|2019/02/23|Tribute Games|PS4|82|171
+72505723|Darius Cozmic Revelation|2001/02/19|Compile Heart|Switch|86|771
+82501345|Dark Arcana: The Carnival|2000/11/23|Tamsoft|XBOX|92|879
+92509431|Dark Envoy|2004/02/19|CD Projekt Red|PS4|05|501
+03509914|The Dark Pictures Anthology: Man of Medan|2003/02/09|Sega|Switch|52|887
+13506186|The Dark Pictures Anthology: Little Hope|2014/07/16|Woblyware|XBOX|12|246
+23508394|Dark Rose Valkyrie|2017/09/22|SystemSoft Alpha|PC|62|309
+33502196|Dark Souls Remastered|2004/05/13|Bigmoon Entertainment|XBOX|05|902
+43507103|Dark Souls II|2010/03/26|Long Hat House|PS4|28|284
+53503165|Dark Souls III|2014/10/30|Spike Chunsoft|Switch|62|774
+63508336|Darkest Dungeon|2004/08/13|Spike Chunsoft|PS4|29|993
+73506947|Darkestville Castle|2005/11/29|Spike Chunsoft|PS4|44|950
+83507627|Darksiders Genesis|2009/11/01|Spike Chunsoft|XBOX|14|905
+93500991|Darksiders: Warmastered Edition|2002/02/01|Three Fields Entertainment|Switch|19|909
+04509808|Darksiders II: Deathinitive Edition|2017/11/01|Three Fields Entertainment|PS4|28|998
+14508084|Darksiders III|2005/06/04|Cave|Switch|32|176
+24504272|Darkwood|2011/06/18|M2|XBOX|47|165
+34500867|Daylight|2009/08/08|Pyramid|PC|06|237
+44509990|Daymare: 1998|2018/06/03|M2|XBOX|39|702
+54507971|Day of the Tentacle: Remastered Edition|2008/02/30|Taito|Switch|42|760
+64501809|Days Gone|2016/12/22|Artifex Mundi|Switch|75|238
+74503492|DayZ|2015/07/09|Event Horizon|XBOX|51|793
+84506157|Dead Alliance|2004/07/07|Supermassive Games|PC|59|288
+94502165|Dead by Daylight|2013/12/29|Supermassive Games|XBOX|98|056
+05504236|Dead Cells|2005/01/03|Compile Heart|PC|02|972
+15503909|Deadcore|2017/06/14|FromSoftware|XBOX|22|343
+25505171|Dead Island Definitive Edition|2010/01/20|FromSoftware|Switch|36|511
+35509982|Dead Island 2|2001/10/04|FromSoftware|PC|90|512
+45506479|Deadlight: Director's Cut|2013/07/26|Red Hook Studios|PS4|80|665
+55506078|The Deadly Tower of Monsters|2015/11/27|Epic LLama|PC|81|401
+65503239|Dead Nation: Apocalypse Edition|2009/04/22|Airship Syndicate|XBOX|31|640
+75500683|Dead or Alive 5 Last Round|2017/02/12|Nordic Games|XBOX|26|244
+85503527|Dead or Alive 6|2016/07/09|Gunfire Games|Switch|68|690
+95503879|Dead or Alive Xtreme 3|2002/12/23|Gunfire Games|Switch|22|676
+06504699|Dead or School|2014/11/16|Acid Wizard Studio|XBOX|96|547
+16509499|Deadpool|2003/04/30|Zombie Studios|PC|33|729
+26509856|Dead Rising|2017/07/13|Invader Studios|PC|14|234
+36507808|Dead Rising 2|2012/03/26|Double Fine Productions|PS4|78|124
+46504325|Dead Rising 2: Off the Record|2001/05/28|SIE Bend Studio|PS4|62|408
+56508688|Dead Rising 4|2002/07/20|Bohemia Interactive|Switch|19|692
+66501429|Dead Star|2019/05/13|Psyop Games|PS4|17|278
+76508483|Dead Synchronicity: Tomorrow Comes Today|2001/07/02|IllFonic|Switch|23|170
+86503564|Dear Esther|2009/05/18|Behaviour Interactive|PS4|93|180
+96504195|Death Come True|2017/10/04|Motion Twin|PC|86|047
+07502740|Death Coming|2005/01/25|5 Bits Games|XBOX|44|971
+17500236|Death Crown|2013/02/24|Techland|PS4|16|984
+27504706|Death end re;Quest|2010/04/10|Yager Development|PC|74|067
+37505717|Death end re;Quest 2|2015/11/17|Tequila Works|Switch|02|219
+47504751|Death Stranding|2002/01/27|ACE Team|Switch|63|040
+57503226|Death Squared|2001/03/16|Housemarque|PS4|33|282
+67507578|Death's Gambit|2016/02/16|Koei Tecmo|PC|65|558
+77506024|De Blob|2007/01/19|Koei Tecmo|PC|81|220
+87506545|De Blob 2|2004/07/01|Team Ninja|XBOX|97|996
+97509662|Decay of Logos|2009/10/04|Studio Nanafushi|XBOX|77|561
+08509565|Deception IV: The Nightmare Princess|2009/12/09|High Moon Studios|PS4|02|827
+18504483|Deemo: Reborn|2001/12/09|Capcom|PC|28|027
+28500183|Deep Sky Derelicts: Definitive Edition|2002/05/30|Capcom|PS4|61|531
+38502914|Defenders of Ekron|2007/11/28|Capcom|XBOX|65|577
+48501322|Defense Grid 2|2009/12/13|Capcom Vancouver|Switch|53|350
+58507972|Deformers|2012/12/29|Armature Studio|XBOX|00|211
+68508475|Deiland|2009/05/29|Fictiorama Studios|PS4|68|753
+78502599|Deliver Us The Moon|2015/11/25|The Chinese Room|PC|09|475
+88502103|Deltarune|2019/08/09|Too Kyo Games|XBOX|59|502
+98501421|Demetrios: The Big Cynical Adventure|2017/02/30|Next Studios|PC|61|527
+09504772|Demon Gaze II|2002/11/20|Co5monaut|Switch|14|681
+19505324|Demons Age|2011/09/26|Stas Pisarev|PS4|38|149
+29504142|Demon Slayer: Kimetsu no Yaiba ? Hinokami Keppuutan|2007/11/14|Idea Factory|XBOX|52|881
+39507764|Demon's Tier+|2000/07/03|Idea Factory|PS4|06|271
+49506092|Demon's Tilt|2012/09/18|Compile Heart|PC|12|880
+59508204|Dengeki Bunko: Fighting Climax Ignition|2005/09/22|Kojima Productions|PC|09|493
+69508198|Densha de Go!! Hashirou Yamanote Sen|2014/08/03|SMG Studios|Switch|02|041
+79505209|Deponia|2000/06/25|White Rabbit|PC|72|206
+89509227|Deponia Doomsday|2018/04/09|BlitWorks|PC|42|048
+99505016|Descenders|2011/01/05|BlitWorks|PC|19|466
+00603190|Desperados III|2012/10/28|Amplify Creations|XBOX|85|066
+10608739|Destiny|2003/10/20|Tecmo Koei|XBOX|68|794
+20603936|Destiny 2|2014/07/11|Rayark|XBOX|94|338
+30607472|Destiny Connect: Tick-Tock Travelers|2010/10/21|Snowhound Games|Switch|96|626
+40603184|Destroy All Humans!|2008/04/27|In Vitro Games|PS4|40|869
+50608212|Detention|2015/05/15|Hidden Path Entertainment|PS4|55|116
+60601441|Detroit: Become Human|2001/02/07|Ready at Dawn|PC|89|043
+70604968|Deus Ex: Mankind Divided|2014/01/13|Chibig|Switch|76|079
+80603227|Devil Engine|2005/09/22|KeokeN Interactive|PS4|80|621
+90601255|Devil May Cry HD Collection|2001/04/15|Toby Fox|XBOX|83|863
+01608385|Devil May Cry 4: Special Edition|2015/08/08|CowCat|PS4|70|004
+11600440|Devil May Cry 5|2015/03/19|Experience|PC|39|161
+21603533|Devious Dungeon|2013/07/09|Bigmoon Entertainment|PS4|02|707
+31605091|Devious Dungeon 2|2006/01/24|CyberConnect2|Switch|04|214
+41603383|Dex|2017/08/18|CowCat|PS4|22|702
+51600580|Diablo III|2008/01/07|Flarb|PC|82|036
+61603383|Diablo IV|2010/07/13|Wiznwar|PC|36|092
+71608585|Die for Valhalla!|2000/04/22|Ecole Software|Switch|99|873
+81604362|Digimon Story: Cyber Sleuth|2000/08/21|Taito|PC|14|105
+91609073|Digimon Story: Cyber Sleuth ? Hacker's Memory|2007/11/21|Daedalic Entertainment|Switch|20|935
+02608988|Digimon Survive|2019/10/22|Daedalic Entertainment|XBOX|30|167
+12608751|Digimon World: Next Order|2006/06/06|RageSquid|XBOX|54|154
+22600899|Dirt 4|2006/08/07|Mimimi Productions|XBOX|89|406
+32608342|Dirt 5|2018/09/12|Bungie|Switch|63|757
+42603132|Dirt Rally|2007/06/26|Bungie|PS4|27|890
+52604030|Dirt Rally 2.0|2017/05/14|Nippon Ichi Software|PC|09|988
+62608626|Disaster Report 4 Plus: Summer Memories|2000/11/01|Black Forest Games|PS4|47|906
+72601132|Disc Jam|2013/04/17|Red Candle Games|XBOX|37|294
+82600188|Disco Elysium|2006/01/15|Quantic Dream|PC|38|940
+92606366|Disgaea 1 Complete|2015/04/07|Eidos Montr?al|Switch|68|155
+03606868|Disgaea 4 Complete+|2011/09/20|Dangen Entertainment|PS4|27|062
+13605265|Disgaea 5 Complete|2016/10/17|Capcom|XBOX|89|931
+23602318|Dishonored: Definitive Edition|2010/07/15|Capcom|PS4|07|868
+33605044|Dishonored 2|2010/09/19|Capcom|PC|35|745
+43608701|Dishonored: Death of the Outsider|2015/01/07|Woblyware|Switch|60|168
+53607774|Disintegration|2000/08/18|Ravenous|PC|45|762
+63604876|The Disney Afternoon Collection|2004/09/23|Woblyware|XBOX|61|591
+73604728|Disney Classic Games: Aladdin and The Lion King|2008/05/27|Lewis Chirenje|XBOX|89|755
+83602255|Disney Infinity: Marvel Super Heroes|2007/10/20|Blizzard Entertainment|Switch|87|200
+93609752|Disney Infinity 3.0|2012/09/07|Blizzard Entertainment|PC|42|646
+04600579|Dissidia Final Fantasy NT|2017/12/30|Monster Couch|PC|58|636
+14602517|Distance|2012/06/18|Media.Vision|PC|64|836
+24608539|Distraint|2002/02/26|Media.Vision|PC|40|628
+34604372|Distraint 2|2009/06/09|Witchcraft|PS4|62|076
+44601907|Divekick|2016/11/14|B.B. Studio|XBOX|76|775
+54609884|Divide|2013/10/12|Codemasters|PS4|59|518
+64604776|Divinity: Original Sin|2018/10/12|Codemasters|PS4|49|005
+74609205|Divinity: Original Sin II|2003/10/14|Codemasters|PS4|83|107
+84600637|DJMax Respect|2003/11/10|Codemasters|PS4|44|179
+94602771|DmC: Devil May Cry Definitive Edition|2014/12/23|Granzella|PC|63|159
+05607037|Dogos|2004/07/03|High Horse Entertainment|PS4|62|458
+15607639|Dokapon UP! Mugen no Roulette|2019/08/25|ZA/UM|XBOX|43|162
+25602055|Doki-Doki Universe|2007/02/14|Nippon Ichi Software|PC|56|950
+35604426|Donut County|2012/02/22|Nippon Ichi Software|PC|07|651
+45605536|Don Bradman Cricket 17|2013/06/04|Nippon Ichi Software|XBOX|52|971
+55607924|"Don't Die|2010/09/22| Mr. Robot!",Arkane Studios|Switch|98|876
+65604957|Don't Starve|2000/11/15|Arkane Studios|XBOX|33|250
+75606533|Don't Starve Together|2000/03/13|Arkane Studios|PS4|77|133
+85601878|Doodle Devil|2006/11/29|V1 Interactive|Switch|54|623
+95602651|Doodle God|2019/03/25|Digital Eclipse|Switch|21|987
+06605394|Doom|2005/10/05|Digital Eclipse|XBOX|06|462
+16607782|Doom|2006/11/16|Avalanche Software|PS4|30|335
+26609337|Doom II|2007/06/01|Avalanche Software|XBOX|46|389
+36605186|Doom 3|2010/04/01|Team Ninja|Switch|96|273
+46609842|Doom 64|2002/07/23|Refract Studios|PS4|51|595
+56608418|Doom Eternal|2015/06/11|Jesse Makkonen|PC|52|510
+66602142|Door Kickers: Action Squad|2007/10/26|Jesse Makkonen|PC|18|545
+76607925|Doraemon Story of Seasons|2011/10/08|Iron Galaxy Studios|PC|60|175
+86607509|Doughlings: Arcade|2017/05/01|Exploding Tuba Studios|XBOX|22|798
+96603051|Downwell|2013/05/03|Larian Studios|Switch|97|150
+07601824|Dragon Age: Inquisition|2010/08/15|Larian Studios|PC|91|771
+17607276|Dragon Ball FighterZ|2000/01/21|Rocky Studio|PC|53|899
+27609457|Dragon Ball Xenoverse|2014/08/22|Ninja Theory|XBOX|71|763
+37605265|Dragon Ball Xenoverse 2|2003/05/03|Opqam|Switch|60|221
+47609459|Dragon Ball Z: Kakarot|2018/01/05|Sting|XBOX|86|175
+57605819|DragonFangZ: The Rose & Dungeon of Time|2003/02/23|HumaNature Studios|PS4|56|642
+67608853|Dragon Fantasy: The Black Tome of Ice|2007/06/27|Ben Esposito|PC|81|937
+77600239|Dragon Fin Soup|2008/04/27|Big Ant Studios|PC|38|649
+87606642|Dragon's Crown Pro|2012/06/03|Infinite State Games|Switch|74|789
+97608802|Dragon Marked For Death|2003/07/10|Klei Entertainment|XBOX|80|877
+08606781|Dragon Quest Builders|2018/07/11|Klei Entertainment|PS4|91|456
+18603639|Dragon Quest Builders 2|2016/05/03|BlitWorks|XBOX|61|851
+28603102|Dragon Quest Heroes|2000/10/18|JoyBits|XBOX|74|539
+38601316|Dragon Quest Heroes II|2000/01/30|JoyBits|PC|68|198
+48607603|Dragon Quest X|2006/01/13|id Software|XBOX|21|637
+58601513|Dragon Quest XI|2018/05/29|id Software|XBOX|38|803
+68603670|Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition|2012/07/05|id Software|PS4|41|771
+78602431|Dragon's Dogma: Dark Arisen|2005/01/10|id Software|PC|37|459
+88605606|Dragon Star Varnir|2000/07/24|id Software|PS4|90|009
+98600039|Draugen|2007/01/23|id Software|PS4|53|717
+09600812|Draw a Stickman: Epic 2|2010/09/06|KillHouse Games|PS4|37|394
+19607592|Drawful 2|2007/02/11|PixelShard|PC|13|973
+29606526|Drawn to Death|2017/12/06|Brownies|PC|51|446
+39607144|Dread Nautical|2004/11/09|Marvelous|PC|52|995
+49600620|Dreamfall Chapters: The Longest Journey|2002/06/18|Hero Concept|XBOX|34|272
+59601569|Dreams|2019/05/03|Moppin|Switch|92|134
+69608031|Dreamwalker: Never Fall Asleep|2019/02/22|BioWare|Switch|17|882
+79607452|Dreii|2015/05/22|Arc System Works|PC|23|220
+89602811|Driveclub|2017/06/17|Dimps|Switch|71|949
+99604078|Driveclub Bikes|2007/09/07|Dimps|XBOX|60|015
+00709175|Dual Gear|2017/07/18|CyberConnect2|Switch|93|555
+10701616|Duck Game|2000/05/29|Toydea|XBOX|61|682
+20709508|Duke Nukem 3D: 20th Anniversary World Tour|2006/04/18|Muteki Corporation|PS4|77|580
+30704083|Dungeon Defenders: Awakened|2007/06/27|Grimm Bros|PC|37|972
+40707808|Dungeon of the Endless|2015/11/27|Vanillaware|PS4|96|023
+50703944|Dungeon Punks|2016/08/02|Inti Creates|XBOX|37|665
+60706672|Dungeon Village|2005/03/13|Square Enix|XBOX|75|680
+70703514|Dungeons 2|2018/01/27|Square Enix|PC|45|919
+80700571|Dungeons 3|2014/12/23|Koei Tecmo|XBOX|76|112
+90705393|Dungreed|2008/07/05|Koei Tecmo|PS4|79|063
+01708149|Dusk Diver|2008/05/09|Square Enix|Switch|54|530
+11705168|Dust: An Elysian Tail|2000/02/22|Square Enix|PC|01|806
+21701198|Dustoff Heli Rescue 2|2015/03/04|Square Enix|PS4|72|135
+31705750|Dustoff Z|2013/12/01|Capcom|PC|24|999
+41702585|The Dwarves|2006/12/14|Compile Heart|PS4|30|568
+51706960|Dying Light|2017/02/06|Red Thread Games|PC|33|978
+61708284|Dying Light 2|2009/02/13|Hitcents|XBOX|15|264
+71708878|Dynasty Warriors 8: Empires|2003/11/05|Jackbox Games|PC|45|383
+81704036|Dynasty Warriors 8: Xtreme Legends Complete Edition|2017/07/23|Bartlet Jones|PS4|05|777
+91709552|Dynasty Warriors 9|2011/04/04|Zen Studios|PC|08|526
+02707711|Dynasty Warriors: Godseekers|2002/10/12|Red Thread Games|XBOX|68|165
+12703277|Earth Atlantis|2002/01/30|Media Molecule|PS4|05|383
+22702906|Earth Defense Force 4.1|2015/04/22|Artifex Mundi|Switch|35|849
+32702969|Earth Defense Force 5|2018/01/13|Etter Studio|PC|98|815
+42709604|Earth Defense Force 6|2005/02/02|Evolution Studios|Switch|06|885
+52706790|Earth Defense Force: Iron Rain|2011/11/30|Evolution Studios|XBOX|38|995
+62702274|Earth Defense Force: World Brothers|2019/02/02|Orbital Speed Studio|XBOX|65|854
+72703005|Earth Wars|2014/06/25|Landon Podbielski|Switch|32|884
+82706353|Earthfall|2008/05/30|Gearbox Software|PC|99|489
+92705863|Earthlock: Festival of Magic|2008/05/30|Chromatic Games|PC|00|978
+03706457|EA Sports UFC|2019/09/04|Amplitude Studios|PC|88|906
+13700533|EA Sports UFC 2|2014/05/13|Hyper Awesome|XBOX|63|977
+23701954|EA Sports UFC 3|2012/07/26|Kairosoft|Switch|93|998
+33701376|EA Sports UFC 4|2018/09/22|Realmforge Studios|PS4|55|541
+43708062|Eastshade|2019/06/15|Realmforge Studios|XBOX|20|489
+53702784|eBaseball Powerful Pro Yakyuu 2020|2010/06/20|Team Horay|PS4|60|762
+63705382|Echo|2013/05/20|Jera Game Studio|XBOX|28|976
+73702192|Edge of Eternity|2009/09/07|Humble Hearts|PS4|59|483
+83706387|Edna & Harvey: Harvey's New Eyes|2014/07/07|Invictus Games|Switch|58|252
+93703899|Edna & Harvey: The Breakout|2006/12/19|Invictus Games|XBOX|66|175
+04704440|Effie|2007/12/04|King Art Games|Switch|03|253
+14703879|eFootball Pro Evolution Soccer 2020|2011/09/18|Techland|PC|79|960
+24708452|Eitr|2011/07/21|Techland|PC|31|517
+34704138|Eiyuden Chronicle: Hundred Heroes|2014/07/02|Omega Force|PC|16|182
+44702443|Elden Ring|2007/02/14|Omega Force|PS4|94|446
+54700643|The Elder Scrolls Online|2007/06/21|Omega Force|PS4|93|974
+64709288|The Elder Scrolls V: Skyrim ? Special Edition|2014/03/19|Omega Force|Switch|25|968
+74703868|Electronic Super Joy|2012/08/27|Pixel Perfex|PS4|76|915
+84707660|ELEX|2005/11/08|Sandlot|Switch|03|912
+94700030|Elliot Quest|2018/04/10|Sandlot|PC|26|758
+05701658|Elite: Dangerous|2014/10/27|Sandlot|Switch|72|170
+15708269|Embers of Mirrim|2018/08/14|Yuke's|XBOX|21|961
+25709558|Emily Wants to Play|2014/09/12|Yuke's|PS4|47|677
+35705279|Empire of Sin|2019/03/29|Sandlot|PS4|92|765
+45706870|Enchanted Portals|2001/07/27|One or Eight|PS4|71|195
+55707382|The End Is Nigh|2009/07/27|Holospark Games|PC|89|196
+65705394|Endless Fables: Dark Moor|2017/11/30|Snowcastle Games|XBOX|71|524
+75708414|Energy Hook|2014/04/14|EA Canada|PC|77|719
+85709777|Enigmatis: The Ghosts of Maple Creek|2013/07/07|EA Canada|Switch|57|193
+95707343|Enigmatis 2: The Mists of Ravenwood|2018/10/27|EA Canada|PC|25|261
+06703471|Enigmatis 3: The Shadow of Karkhala|2005/08/13|EA Canada|PS4|72|418
+16704142|Enter the Gungeon|2018/04/11|Eastshade Studios|Switch|67|332
+26702831|Entwined|2011/03/10|Konami|Switch|58|589
+36700031|Erica|2013/01/26|Ultra Ultra|XBOX|48|818
+46701643|Escape Plan|2006/01/11|Midgar Studio|PS4|48|473
+56708549|Escape Goat 2|2000/04/09|Daedalic Entertainment|Switch|09|027
+66706257|The Escapists|2001/12/08|Daedalic Entertainment|Switch|18|468
+76709439|The Escapists 2|2007/12/13|Inverge Studios|PC|80|585
+86705992|The Escapists: The Walking Dead|2007/03/30|PES Productions|PS4|79|402
+96702235|ESP Ra.De. Psy|2004/02/16|Eneme Entertainment|PC|65|127
+07703337|Ether One|2013/02/28|Rabbit & Bear Studios|Switch|21|333
+17703284|Etherborn|2006/10/28|FromSoftware|PS4|45|605
+27704416|Euro Fishing|2011/06/06|ZeniMax Online Studios|PS4|25|296
+37706375|Evan's Remains|2015/06/14|Bethesda Game Studios|PS4|52|839
+47703244|Eve: Valkyrie - Warzone|2007/05/11|Loot Interactive|Switch|11|579
+57701240|Even the Ocean|2009/02/30|Piranha Bytes|Switch|69|648
+67702904|Eventide: Slavic Fable|2012/12/24|Ansimuz Games|XBOX|18|592
+77708624|Eventide 2: Sorcerer's Mirror|2007/09/28|Frontier Developments|XBOX|33|590
+87709183|Eventide 3: Legacy of Legends|2008/01/21|Creative Bytes|PC|92|672
+97700631|Everspace|2004/03/14|Shawn Hitchcock|Switch|33|791
+08708098|Everspace 2|2002/12/28|Romero Games|XBOX|97|303
+18708751|Everybody's Golf|2005/06/29|Xixo Game Studio|PC|03|198
+28704659|Everybody's Gone to the Rapture|2011/03/28|Edmund McMillen|XBOX|64|470
+38708543|Everything|2016/05/05|Artifex Mundi|XBOX|46|209
+48705535|The Evil Within|2011/08/09|Happion Labs|Switch|18|909
+58707884|The Evil Within 2|2001/10/11|Artifex Mundi|Switch|28|540
+68704581|Evolve|2009/07/11|Artifex Mundi|Switch|85|627
+78703157|Evotinction|2010/07/13|Artifex Mundi|Switch|29|382
+88709973|Exception|2006/04/04|Dodge Roll|XBOX|55|257
+98705524|Exile's End|2012/10/17|Pixelopus|PC|03|214
+09706576|Exist Archive|2019/10/26|Flavourworks|PS4|67|377
+19701464|Extinction|2001/08/23|Fun Bits Interactive|PS4|07|234
+29703078|F1 2015|2019/05/26|MagicalTimeBean|PC|70|144
+39709133|F1 2016|2000/12/04|Mouldy Toof Studios|PC|49|645
+49708802|F1 2017|2015/10/11|Mouldy Toof Studios|Switch|75|189
+59709498|F1 2018|2017/05/15|Mouldy Toof Studios|PS4|44|604
+69708239|F1 2019|2015/10/19|Cave|Switch|40|482
+79706579|F1 2020|2018/11/11|M2|XBOX|10|219
+89701831|Fairy Fencer F: Advent Dark Force|2009/05/11|White Paper Games|Switch|50|452
+99704376|Fairy Tail|2011/02/23|Altered Matter|PC|30|437
+00805353|The Fall|2009/08/29|Dovetail Games|PS4|77|232
+10802014|The Fall Part 2: Unbound|2001/06/28|Mat?as Schmied|PC|61|700
+20808333|Fall Guys: Ultimate Knockout|2015/07/12|CCP Games|Switch|08|630
+30805511|Fallen Legion: Sins of an Empire|2011/07/11|Analgesic Productions|PC|48|149
+40804748|Fallout 4|2016/08/20|Artifex Mundi|PS4|11|315
+50804503|Fallout 76|2013/08/03|Artifex Mundi|Switch|48|474
+60802435|Family Mysteries: Poisonous Promises|2017/11/02|Artifex Mundi|Switch|86|625
+70808583|Fantasy General II|2018/07/30|Rockfish Games|Switch|45|370
+80808396|Far Cry 4|2016/05/09|Rockfish Games|PS4|97|559
+90802085|Far Cry 5|2019/04/30|Clap Hanz|Switch|98|136
+01808204|Far Cry 6|2015/03/12|The Chinese Room|XBOX|28|382
+11802490|Far Cry Primal|2019/11/11|David OReilly|PS4|30|396
+21803034|Far: Lone Sails|2009/01/14|Tango Gameworks|Switch|49|590
+31802577|Farming Simulator 15|2018/03/12|Tango Gameworks|XBOX|57|275
+41803167|Farming Simulator 17|2015/04/11|Turtle Rock Studios|PC|46|122
+51807968|Farming Simulator 19|2000/10/22|Spikewave Games|PS4|82|807
+61802474|Farm Together|2014/03/08|Traxmaster Software|PS4|51|991
+71803844|Fast & Furious Crossroads|2009/06/28|Magnetic Realms|PS4|89|037
+81806826|Fast Striker|2006/04/17|Tri-Ace|PS4|05|679
+91800127|Fate/Extella Link|2013/01/17|Iron Galaxy Studios|PC|59|740
+02802793|Fate/Extella: The Umbral Star|2009/08/29|Codemasters|Switch|50|280
+12805399|Fat Princess Adventures|2001/01/21|Codemasters|XBOX|53|194
+22805142|Fault Milestone One|2000/09/01|Codemasters|Switch|97|176
+32803095|Fault Milestone Two Side: Above|2003/09/03|Codemasters|Switch|19|087
+42802120|Fault Milestone Two Side: Below|2004/08/21|Codemasters|PS4|60|506
+52807733|Fe|2018/08/28|Codemasters|Switch|75|547
+62809176|Feist|2016/04/23|Compile Heart|Switch|22|114
+72801273|Felix the Reaper|2006/01/02|Gust Co. Ltd.|PC|23|513
+82803144|Fell Seal: Arbiter's Mark|2000/12/26|Over the Moon|Switch|26|098
+92802082|Fenix Furia|2019/09/19|Over the Moon|PC|35|672
+03809037|Feudal Alloy|2012/11/15|Mediatonic|Switch|85|232
+13805113|Fez|2018/03/08|Yummy Yummy Tummy|PC|34|519
+23805904|FIA European Truck Racing Championship|2013/12/19|Bethesda Game Studios|PC|64|790
+33804924|Fibbage|2000/06/12|Bethesda Game Studios|PC|03|367
+43801075|FIFA 14|2001/10/11|Brave Giant|PS4|16|599
+53801126|FIFA 15|2008/09/19|Owned by Gravity|PS4|13|583
+63804642|FIFA 16|2018/12/21|Ubisoft Montreal|PC|65|516
+73807684|FIFA 17|2009/05/03|Ubisoft Montreal|XBOX|55|547
+83803498|FIFA 18|2003/06/17|Ubisoft Toronto|XBOX|26|730
+93805086|FIFA 19|2001/03/15|Ubisoft Montreal|PS4|84|947
+04808479|FIFA 20|2014/04/04|Mr. Whale's Game Service|XBOX|96|358
+14806003|FIFA 21|2018/05/11|Giants Software|XBOX|52|334
+24808129|Fighting EX Layer|2003/04/24|Giants Software|PS4|23|571
+34802307|Fight'N Rage|2012/10/25|Giants Software|XBOX|84|059
+44805136|Figment|2014/12/03|Milkstone Studios|Switch|01|784
+54806565|Filthy Lucre|2003/01/11|Slightly Mad Studios|PS4|66|334
+64804885|Final Fantasy VII|2000/06/18|NGDEV|XBOX|62|731
+74803086|Final Fantasy VII Remake|2006/01/05|Marvelous Interactive|PS4|09|128
+84808698|Final Fantasy VIII Remastered|2011/12/02|Marvelous|XBOX|83|127
+94807178|Final Fantasy IX|2008/04/25|Fun Bits Interactive|Switch|01|529
+05806298|Final Fantasy X/X-2 HD Remaster|2006/11/29|Alice in Dissonance|PC|02|040
+15809645|Final Fantasy XII: The Zodiac Age|2004/08/26|Alice in Dissonance|PS4|33|828
+25801142|Final Fantasy XIV: A Realm Reborn|2014/04/04|Alice in Dissonance|Switch|52|249
+35802887|Final Fantasy XIV: Heavensward|2019/02/07|Zoink|PS4|38|729
+45803872|Final Fantasy XIV: Stormblood|2003/02/28|Bits & Beasts|Switch|77|004
+55805839|Final Fantasy XIV: Shadowbringers|2009/06/22|Kong Orange|PS4|93|010
+65808781|Final Fantasy XV|2000/04/05|6 Eyes Studio|Switch|14|733
+75800278|Final Fantasy: Crystal Chronicles Remastered|2010/09/19|Green Lava Studios|Switch|58|379
+85806282|Final Fantasy Type-0 HD|2018/02/26|Attu Games|PS4|01|110
+95801752|Final Horizon|2018/01/11|Polytron Corporation|PC|04|269
+06800758|The Final Station|2000/09/12|N-Racing|XBOX|11|829
+16809928|Fire Pro Wrestling World|2006/10/06|Jackbox Games|XBOX|49|278
+26806385|Firewatch|2017/09/24|EA Canada|PC|73|333
+36800408|Fishing: Barents Sea|2010/10/07|EA Canada|XBOX|89|430
+46808150|Fishing Sim World: Pro Tour|2019/04/02|EA Canada|Switch|80|157
+56806228|F.I.S.T.: Forged in Shadow Torch|2017/04/28|EA Canada|PC|72|044
+66803801|Fist of the North Star: Lost Paradise|2015/10/26|EA Canada|XBOX|37|329
+76801400|Five Nights at Freddy's|2001/08/07|EA Vancouver|Switch|06|168
+86809985|Five Nights at Freddy's 2|2015/11/10|EA Vancouver|PS4|24|947
+96802953|Five Nights at Freddy's 3|2011/05/02|EA Vancouver|Switch|17|030
+07800546|Five Nights at Freddy's 4|2010/10/19|Arika|PS4|58|186
+17802586|Five Nights at Freddy's: Help Wanted|2005/12/15|Seba Games Dev|Switch|89|051
+27806801|Five Nights at Freddy's: Sister Location|2001/04/18|BlitWorks|PS4|43|836
+37806709|The Flame in the Flood|2016/10/27|Bedtime Digital|XBOX|85|073
+47800631|Flame Over|2010/09/22|Fabrik Games|PS4|87|391
+57805840|Flashback|2014/01/17|Square Enix|XBOX|01|164
+67801368|Flat Heroes|2013/07/06|Square Enix|XBOX|10|009
+77807105|FlatOut 4: Total Insanity|2007/05/23|Square Enix|PS4|89|890
+87805446|Flinthook|2007/03/23|Square Enix|PS4|62|701
+97806943|Flipper Mechanic|2011/05/26|Square Enix|XBOX|35|235
+08805589|Flipping Death|2019/03/07|Square Enix|Switch|55|494
+18800390|Flockers|2009/02/13|Square Enix|Switch|82|281
+28809589|flOw|2014/10/03|Square Enix|Switch|04|050
+38802466|Flower|2000/01/20|Square Enix|PS4|00|078
+48809026|Fluster Cluck|2001/12/10|Square Enix|PS4|93|274
+58806342|"Football|2010/05/12| Tactics & Glory",Square Enix|PS4|12|140
+68801815|Forager|2011/02/26|Square Enix|Switch|16|188
+78800435|Foreclosed|2009/04/26|Square Enix|PS4|45|168
+88805611|For Honor|2018/11/05|Eiconic Games|PS4|64|315
+98800142|Forced|2019/04/28|Do My Best|PS4|94|143
+09802755|The Forest|2007/04/25|Spike Chunsoft|PS4|48|609
+19800193|Forgotton Anne|2000/01/09|Campo Santo|Switch|59|955
+29806558|Forma.8|2001/12/07|Misc Games|PC|64|650
+39802025|For the King|2008/12/22|Dovetail Games|Switch|92|100
+49804786|Foul Play|2007/01/06|TiGames|PC|26|507
+59802335|Four Sided Fantasy|2012/11/06|Sega CS1|PC|53|571
+69805855|Fragments of Him|2017/07/06|Clickteam|PC|60|663
+79809576|Frane: Dragons' Odyssey|2011/04/03|Clickteam|PC|45|557
+89803427|Frantics|2005/08/08|Clickteam|PS4|95|018
+99803887|Freedom Finger|2008/03/02|Clickteam|PS4|40|051
+00908123|Freedom Planet|2000/03/10|Clickteam|PC|39|348
+10902038|Friday the 13th: The Game|2010/12/25|Clickteam|XBOX|20|844
+20907452|Frostpunk|2001/12/25|The Molasses Flood|XBOX|58|543
+30909825|Full Metal Panic! Fight! Who Dares Wins|2018/05/13|Laughing Jackal|PS4|19|244
+40907017|Full Mojo Rampage|2018/04/19|Microids|Switch|56|593
+50903664|Full Throttle Remastered|2012/09/21|Parallel Circles|PS4|98|319
+60909245|Furi|2003/07/01|Kylotonn|Switch|32|888
+70909901|Fury Unleashed|2004/01/13|Tribute Games|PS4|04|018
+80909267|Fuser|2014/04/22|SimFabric|PS4|41|493
+90907576|Fushigi no Gens?ky? 3|2007/12/21|Zoink|PC|95|290
+01901967|Future Unfolding|2005/09/07|Team17|Switch|90|399
+11906631|FutureGrind|2014/05/10|SuperVillain Studios|PS4|54|734
+21901744|Futuridium EP Deluxe|2010/05/18|Bluepoint Games|Switch|98|013
+31909176|Gakuen|2012/03/07|Loot Interactive|XBOX|98|821
+41904146|Galak-Z: The Dimensional|2012/03/06|Creoteam|PS4|16|537
+51903936|Gal Gun: Double Peace|2014/11/21|HopFrog|Switch|21|500
+61908018|Gal Gun 2|2011/08/15|Antab Studio|XBOX|24|901
+71908416|Gal Gunvolt|2019/03/07|Ubisoft Montreal|PS4|63|733
+81906154|Gal Gunvolt Burst|2019/09/05|BetaDwarf|PS4|21|450
+91903425|Game Dev Story|2003/11/17|SKS Games|PC|39|093
+02909425|Game of Thrones|2018/08/05|ThroughLine Games|PS4|44|684
+12909208|Game Tengoku CruisnMix|2008/03/18|MixedBag|PS4|27|669
+22905378|Ganbare! Super Strikers|2001/09/26|IronOak Games|XBOX|57|331
+32907194|Gang Beasts|2012/12/16|Mediatonic|Switch|23|188
+42907836|The Gardens Between|2014/11/27|Ludo Land|XBOX|74|332
+52906210|Garfield Kart: Furious Racing|2014/01/17|Sassybot|PC|65|600
+62902158|Garou: Mark of the Wolves|2012/03/23|Exe Create|PC|31|739
+72905529|Gas Guzzlers Extreme|2004/02/14|NapNok Games|PS4|27|961
+82903499|Gauntlet: Slayer Edition|2014/11/16|Wide Right Interactive|PC|47|271
+92902521|Gemini: Heroes Reborn|2004/03/20|GalaxyTrail|Switch|49|216
+03902362|Gem Smashers|2013/06/24|Gun Media|Switch|64|996
+13904081|Generation Zero|2002/12/25|11 Bit Studios|XBOX|21|590
+23903210|Gens? No Rondo|2010/11/28|B.B. Studio|Switch|02|445
+33904803|Geometry Wars 3: Dimensions|2018/04/19|Over The Top Games|PS4|34|313
+43907760|Get Even|2015/06/25|Double Fine Productions|Switch|66|738
+53908404|Ghost 1.0|2007/08/17|The Game Bakers|XBOX|49|047
+63902582|Ghost Blade HD|2015/07/23|Awesome Games|Switch|42|866
+73906273|Ghostbusters: The Video Game Remastered|2006/03/29|Harmonix|PS4|31|999
+83905882|Ghost of a Tale|2005/11/02|Aqua Style|PC|43|971
+93909356|Ghost of Tsushima|2000/04/29|Spaces of Play|XBOX|50|033
+04907528|Ghostrunner|2005/04/18|Milkbag Games|PS4|96|717
+14908926|Ghoulboy: Dark Sword of Goblin|2002/08/29|MixedBag|XBOX|26|485
+24905709|G.I. Joe: Operation Blackout|2009/06/20|M2|Switch|48|296
+34905858|Giana Sisters: Twisted Dreams - Director's Cut|2006/08/03|17-Bit|PC|13|583
+44908663|Giga Wrecker Alt.|2009/04/03|Inti Creates|XBOX|29|285
+54906675|Ginga Force|2018/09/10|Inti Creates|Switch|84|979
+64900851|Giraffe and Annika|2009/09/21|Inti Creates|PS4|79|041
+74902344|Girls und Panzer: Dream Tank Match|2001/03/24|Inti Creates|PS4|07|851
+84904825|Glass Masquerade|2015/05/10|Kairosoft|Switch|57|845
+94901040|Glass Masquerade 2|2015/04/13|Telltale Games|PC|75|972
+05904597|Glitched|2004/08/30|City Connection|Switch|31|737
+15907133|Gnog|2014/06/09|Ratalaika Games|XBOX|28|951
+25905945|Goat Simulator|2003/10/13|Boneloaf Games|PC|45|253
+35904114|God Eater Resurrection|2005/05/10|The Voxel Agents|PC|06|999
+45900929|God Eater 2: Rage Burst|2011/01/08|Artefact|PC|19|740
+55900157|God Eater 3|2018/10/18|Code Mystics|Switch|96|035
+65903794|God of War III Remastered|2014/07/09|Gamepires|PC|71|162
+75905162|God of War|2006/03/27|Arrowhead Studios|Switch|65|538
+85903919|God Wars: Future Past|2017/07/05|Phosphor Games|PC|43|985
+95903363|God's Trigger|2007/11/09|Frame Studios|XBOX|39|763
+06901654|Godzilla: The Game|2002/05/24|Avalanche Studios|XBOX|44|022
+16907603|Going Under|2013/04/21|Cube Type|XBOX|44|569
+26908551|Golden Force|2015/06/27|Lucid Games|PC|88|216
+36904729|The Golf Club|2008/11/21|The Farm 51|Switch|99|415
+46905555|The Golf Club 2|2002/11/24|Francis Cota|Switch|49|268
+56906577|The Golf Club 2019 featuring PGA Tour|2016/11/22|Hucast|Switch|00|173
+66907789|Golf with Your Friends|2002/05/25|Saber Interactive|XBOX|67|479
+76907426|Gone Home|2004/07/09|SeithCG|PS4|05|447
+86908286|Gonner|2014/05/09|Sucker Punch Productions|XBOX|92|301
+96900585|Gonner 2|2008/07/19|One More Level|PS4|19|897
+07906096|Goodbye Deponia|2007/02/08|Serkan Bakar|PC|89|089
+17908688|Goodbye Volcano High|2013/07/01|GameMill Entertainment|PS4|08|769
+27905477|Goosebumps: The Game|2009/06/25|Black Forest Games|Switch|68|701
+37908591|Gotham Knights|2012/05/20|Game Freak|XBOX|59|947
+47905763|Grab the Bottle|2004/05/30|Qute Corporation|XBOX|58|210
+57906540|Graceful Explosion Machine|2010/08/26|Atelier Mimina|XBOX|20|409
+67905539|Granblue Fantasy: Relink|2018/09/10|Bandai Namco Entertainment|Switch|79|209
+77905966|Granblue Fantasy Versus|2008/09/28|Onyx Lute|XBOX|21|647
+87907928|Grand Ages: Medieval|2019/10/08|Onyx Lute|PS4|05|939
+97902257|Grand Kingdom|2017/02/26|En House Studios|PS4|38|847
+08902629|Grand Prix Rock N Racing|2018/10/09|KO_OP|PS4|86|842
+18908541|Grand Theft Auto V|2000/04/16|Coffee Stain Studios|PS4|57|107
+28901673|Gran Turismo Sport|2003/12/30|Bandai Namco Entertainment|XBOX|82|633
+38900794|Gravity Ghost: Deluxe Edition|2014/09/20|Bandai Namco Entertainment|Switch|02|699
+48907702|Gravel|2015/11/02|Shift|Switch|89|490
+58903977|Graveyard Keeper|2011/01/24|SCE Santa Monica Studio|Switch|24|856
+68907219|Gravity Rush Remastered|2009/12/12|SIE Santa Monica Studio|PS4|22|411
+78903085|Gravity Rush 2|2006/04/30|Kadokawa Games|PS4|73|935
+88901003|GreedFall|2001/09/15|One More Level|PS4|06|962
+98908913|Green Hell|2016/12/27|Bandai Namco Entertainment|PC|34|960
+09901599|Grid|2006/11/06|Aggro Crab Games|XBOX|63|311
+19900249|Gridd: Retroenhanced|2014/03/28|Storybird Studio|Switch|69|146
+29901586|Grim Fandango Remastered|2013/06/12|HB Studios|PC|78|485
+39904209|Grim Legends: The Forsaken Bride|2002/03/16|HB Studios|Switch|54|882
+49909861|Grim Legends 2: Song of the Dark Swan|2003/09/25|HB Studios|Switch|30|706
+59906817|Grim Legends 3: The Dark City|2018/02/13|Blacklight Interactive|PS4|38|995
+69903252|Grip: Combat Racing|2007/05/27|The Fullbright Company|PS4|69|939
+79905531|Gris|2005/03/30|Art in Heart|Switch|31|190
+89904204|Grow Home|2000/04/16|Art in Heart|Switch|11|911
+99904545|Grow Up|2001/07/14|Daedalic Entertainment|Switch|53|196
